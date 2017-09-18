@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8" ?> 
+<permissions>
+    <resource module="user" description="Permission for User Module">
+        <privilege for="create" description="Create User" /> 
+        <privilege for="read" description="Read User" /> 
+        <privilege for="update" description="Update User"  /> 
+        <privilege for="delete" description="Delete User"  /> 
+        <privilege for="status" description="Update Status"  /> 
+        <privilege for="showip" description="Read Blocked IP"  /> 
+        <privilege for="deleteip" description="Delete Blocked IP"  /> 
+        <privilege for="showaccess" description="Read Admin Access"  /> 
+    </resource>
+    <resource module="admin_types" description="Permission for User Type">
+        <privilege for="create" description="Create User Type" /> 
+        <privilege for="read" description="Read User Type" /> 
+        <privilege for="update" description="Update User Type"  /> 
+        <privilege for="delete" description="Delete User Type"  /> 
+        <privilege for="permission" description="Set User Permission"  /> 
+    </resource>
+    <resource module="order" description="Permission for Order Module">
+        <privilege for="read" description="Read Order" /> 
+        <privilege for="update" description="Update Order"  /> 
+        <privilege for="verify" description="Verify Order"  /> 
+        <privilege for="eventreport" description="Event Wise Report"  /> 
+        <privilege for="manual" description="Manual Order"  /> 
+    </resource>
+    <resource module="customer" description="Permission for Customer Module">
+        <privilege for="read" description="Read Customer" /> 
+        <privilege for="update" description="Update Customer"  /> 
+        <privilege for="status" description="Update Status"  />
+    </resource>
+    <resource module="banner" description="Permission for Banner Module">
+        <privilege for="create" description="Add Banner" /> 
+        <privilege for="read" description="Read Banner" /> 
+        <privilege for="update" description="Update Banner"  /> 
+        <privilege for="delete" description="Delete Banner"  /> 
+    </resource>
+    <resource module="clients" description="Permission for Clients Module">
+        <privilege for="create" description="Add Client" /> 
+        <privilege for="read" description="Read Client" /> 
+        <privilege for="update" description="Update Client"  /> 
+        <privilege for="delete" description="Delete Client"  /> 
+    </resource>
+    <resource module="partner" description="Permission for Partner Module">
+        <privilege for="create" description="Add Partner" /> 
+        <privilege for="read" description="Read Partner" /> 
+        <privilege for="update" description="Update Partner"  /> 
+        <privilege for="delete" description="Delete Partner"  /> 
+    </resource>
+    <resource module="category" description="Permission for Category Module">
+        <privilege for="create" description="Add Category" /> 
+        <privilege for="read" description="Read Category" /> 
+        <privilege for="update" description="Update Category"  /> 
+        <privilege for="delete" description="Delete Category"  /> 
+    </resource>
+    <resource module="city" description="Permission for City Module">
+        <privilege for="create" description="Add City" /> 
+        <privilege for="read" description="Read City" /> 
+        <privilege for="update" description="Update City"  /> 
+        <privilege for="delete" description="Delete City"  /> 
+        <privilege for="status" description="Update Status"  /> 
+    </resource>
+    <resource module="country" description="Permission for Country Module">
+        <privilege for="create" description="Add Country" /> 
+        <privilege for="read" description="Read Country" /> 
+        <privilege for="update" description="Update Country"  /> 
+        <privilege for="delete" description="Delete Country"  /> 
+        <privilege for="status" description="Update Status"  /> 
+    </resource>
+    <resource module="announce" description="Permission for Announcement Module">
+        <privilege for="create" description="Add Announcement" /> 
+        <privilege for="read" description="Read Announcement" /> 
+        <privilege for="update" description="Update Announcement"  /> 
+        <privilege for="delete" description="Delete Announcement"  /> 
+        <privilege for="status" description="Update Announcement Status"  /> 
+    </resource>
+    <resource module="dynamic_form" description="Permission for Dynamic Form Module">
+        <privilege for="create" description="Add Dynamic Form" /> 
+        <privilege for="read" description="Read Dynamic Form" /> 
+        <privilege for="update" description="Update Dynamic Form"  /> 
+        <privilege for="delete" description="Delete Dynamic Form"  /> 
+    </resource>
+    <resource module="register_user" description="Event Form Data User Wise">
+        <privilege for="read" description="Read Register User Data" /> 
+    </resource>
+    <resource module="event" description="Permission for Event Module">
+        <privilege for="create" description="Add Event" /> 
+        <privilege for="read" description="Read Event" /> 
+        <privilege for="update" description="Update Event"  /> 
+        <privilege for="delete" description="Delete Event"  /> 
+        <privilege for="status" description="Update Status"  /> 
+    </resource>
+    <resource module="event_faq" description="Permission for FAQ Module">
+        <privilege for="create" description="Add FAQ" /> 
+        <privilege for="read" description="Read FAQ" /> 
+        <privilege for="update" description="Update FAQ"  /> 
+        <privilege for="delete" description="Delete FAQ"  /> 
+    </resource>
+    <resource module="event_guest" description="Permission for Participent Module">
+        <privilege for="create" description="Add Participent" /> 
+        <privilege for="read" description="Read Participent" /> 
+        <privilege for="update" description="Update Participent"  /> 
+        <privilege for="delete" description="Delete Participent"  /> 
+    </resource>
+    <resource module="event_includes" description="Permission for Event Includes Module">
+        <privilege for="create" description="Add Event Includes" /> 
+        <privilege for="read" description="Read Event Includes" /> 
+        <privilege for="update" description="Update Event Includes"  /> 
+        <privilege for="delete" description="Delete Event Includes"  /> 
+        <privilege for="status" description="Update Status"  /> 
+    </resource>
+    <resource module="gallery" description="Permission for Gallery Module">
+        <privilege for="create" description="Add Gallery" /> 
+        <privilege for="read" description="Read Gallery" /> 
+        <privilege for="update" description="Update Gallery"  /> 
+        <privilege for="delete" description="Delete Gallery"  /> 
+    </resource>
+    <resource module="similar_event" description="Permission for Similar Events Module">
+        <privilege for="create" description="Add Similar Events" /> 
+        <privilege for="read" description="Read Similar Events" /> 
+        <privilege for="update" description="Update Similar Events"  /> 
+        <privilege for="delete" description="Delete Similar Events"  /> 
+    </resource>
+    <resource module="special_offer" description="Permission for Special Offer Module">
+        <privilege for="create" description="Add Special Offer" /> 
+        <privilege for="read" description="Read Special Offer" /> 
+        <privilege for="update" description="Update Special Offer"  /> 
+        <privilege for="delete" description="Delete Special Offer"  /> 
+        <privilege for="status" description="Update Status"  /> 
+    </resource>
+    <resource module="subscription" description="Permission for Donation Module">
+        <privilege for="create" description="Add Donation" /> 
+        <privilege for="read" description="Read Donation" /> 
+        <privilege for="update" description="Update Donation"  /> 
+        <privilege for="delete" description="Delete Donation"  /> 
+    </resource>
+    <resource module="tag" description="Permission for Tag Module">
+        <privilege for="create" description="Add Tag" /> 
+        <privilege for="read" description="Read Tag" /> 
+        <privilege for="update" description="Update Tag"  /> 
+        <privilege for="delete" description="Delete Tag"  /> 
+    </resource>
+    <resource module="ticket_type" description="Permission for Ticket Type Module">
+        <privilege for="create" description="Add Ticket Type" /> 
+        <privilege for="read" description="Read Ticket Type" /> 
+        <privilege for="update" description="Update Ticket Type"  /> 
+        <privilege for="delete" description="Delete Ticket Type"  /> 
+        <privilege for="status" description="Update Status"  /> 
+    </resource>
+    <resource module="venue" description="Permission for Venue Module">
+        <privilege for="create" description="Add Venue" /> 
+        <privilege for="read" description="Read Venue" /> 
+        <privilege for="update" description="Update Venue"  /> 
+        <privilege for="delete" description="Delete Venue"  /> 
+        <privilege for="status" description="Update Status"  /> 
+    </resource>
+    <resource module="promotion" description="Permission for Promotion Module">
+        <privilege for="create" description="Add Promotion" /> 
+        <privilege for="read" description="Read Promotion" /> 
+        <privilege for="update" description="Update Promotion"  /> 
+        <privilege for="delete" description="Delete Promotion"  /> 
+        <privilege for="status" description="Update Promotion"  /> 
+    </resource>
+    <resource module="settings" description="Permission for Website Settings Module">
+        <privilege for="create" description="Add Website Settings" /> 
+        <privilege for="read" description="Read Website Settings" /> 
+        <privilege for="update" description="Update Website Settings"  /> 
+        <privilege for="delete" description="Delete Website Settings"  /> 
+    </resource>
+    <resource module="event_request" description="Permission for Event Request Module">
+        <privilege for="read" description="Read Event Request" /> 
+        <privilege for="delete" description="Delete event Request" /> 
+    </resource>
+    <resource module="contact_us" description="Permission for Contact Us Module">
+        <privilege for="read" description="Read Contact Info" /> 
+        <privilege for="delete" description="Delete Contact Info" /> 
+    </resource>
+    <resource module="seat" description="Permission for Seat Template Module">
+        <privilege for="create" description="Add Website Settings" /> 
+        <privilege for="read" description="Read Website Settings" /> 
+        <privilege for="update" description="Update Website Settings"  /> 
+        <privilege for="delete" description="Delete Website Settings"  /> 
+    </resource>
+</permissions>

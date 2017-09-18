@@ -1,0 +1,979 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <link rel="icon" type="image/png" href="assets/img/fav1.png">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+
+    <title>Ticket Chai | Buy Online Ticket...</title>
+
+    <meta content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0' name='viewport' />
+
+    <!-- Fonts and icons -->
+    <link rel="stylesheet" href="assets/css/icon.css" />
+    <link rel="stylesheet" type="text/css" href="assets/css/fonts.css" />
+    <link rel="stylesheet" href="plugins/font-awesome-4.6.3/css/font-awesome.min.css" />
+    <link rel="stylesheet" href="assets/css/pe-icon-7-stroke.css" />
+
+    <!-- CSS Files -->
+    <link rel="stylesheet" href="assets/css/normalize.css">
+    <link href="assets/css/bootstrap.min.css" rel="stylesheet" />
+    <link href="assets/css/material-kit.css" rel="stylesheet" />
+    <link rel="stylesheet" href="plugins/mdb/css/mdb.min62d0.css">
+    <link href="plugins/Simple-Background-Carousel-Plugin-with-jQuery-and-Animate-css-Crosscover/dist/css/crosscover.css" rel="stylesheet">
+    <link rel="stylesheet" href="assets/css/animate.css">
+    <link rel="stylesheet" href="assets/css/link-effects.css">
+    <link rel="stylesheet" href="plugins/x-hipster-as-f-cards-v1.1/assets/css/hipster_cards.css">
+    <link rel="stylesheet" href="plugins/Waves-master/dist/waves.min.css">
+    <link rel="stylesheet" href="plugins/odometer-master/odometer-theme-default.css">
+    <link rel="stylesheet" href="plugins/bootstrap-social-gh-pages/bootstrap-social.css">
+
+    <!--event_tickets css file-->
+    <link rel="stylesheet" href="assets/css/eventTickets.css">
+
+
+
+    <!-- For Owl Carousel -->
+    <link rel="stylesheet" href="plugins/owl.carousel/owl-carousel/owl.carousel.css">
+    <link rel="stylesheet" href="plugins/owl.carousel/owl-carousel/owl.theme.css">
+    <link rel="stylesheet" href="plugins/owl.carousel/owl-carousel/owl.transitions.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        /* 
+	Max width before this PARTICULAR table gets nasty
+	This query will take effect for any screen smaller than 760px
+	and also iPads specifically.
+	*/
+        
+        @media only screen and (max-width: 760px),
+        (min-device-width: 768px) and (max-device-width: 1024px) {
+            /* Force table to not be like tables anymore */
+            table,
+            thead,
+            tbody,
+            th,
+            td,
+            tr {
+                display: block;
+            }
+            /* Hide table headers (but not display: none;, for accessibility) */
+            thead tr {
+                position: absolute;
+                top: -9999px;
+                left: -9999px;
+            }
+            tr {
+                border: 1px solid #ccc;
+            }
+            td {
+                /* Behave  like a "row" */
+                border: none;
+                border-bottom: 1px solid #eee;
+                position: relative;
+                padding-left: 43%;
+            }
+            td:before {
+                /* Now like a table header */
+                position: absolute;
+                /* Top/left values mimic padding */
+                top: 6px;
+                left: 6px;
+                width: 45%;
+                padding-right: 10px;
+                white-space: nowrap;
+            }
+            /*
+		Label the data
+		*/
+            td:nth-of-type(1):before {
+                content: "Ticket Type";
+            }
+            td:nth-of-type(2):before {
+                content: "Quantity";
+            }
+            td:nth-of-type(3):before {
+                content: "Price";
+            }
+            td:nth-of-type(4):before {
+                content: "Action";
+            }
+           
+           
+        }
+
+    </style>
+    <!--<![endif]-->
+</head>
+
+<body class="index-page signin">
+    <div id="fb-root"></div>
+    <script>
+        (function(d, s, id) {
+            var js, fjs = d.getElementsByTagName(s)[0];
+            if (d.getElementById(id))
+                return;
+            js = d.createElement(s);
+            js.id = id;
+            js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.6";
+            fjs.parentNode.insertBefore(js, fjs);
+        }(document, 'script', 'facebook-jssdk'));
+
+    </script>
+        <!-- Navbar -->
+    <nav class="navbar navbar-fixed-top navbar-default" style="margin-bottom:0px;">
+        <div class="container-fluid">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navigation-index">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a href="index.html">
+                    <div class="logo-container">
+                        <div class="logo">
+                            <img src="assets/img/white-shadow-logo.png" alt="Ticketchai Logo" rel="tooltip" title="<b>Ticketchai.com</b>" data-placement="bottom" data-html="true" />
+                        </div>
+                        <!--<div class="brand">
+                                <img src="assets/img/white-shadow-logo.png" alt="Ticketchai Logo" rel="tooltip" title="<b>Ticketchai.com</b>" data-placement="bottom" data-html="true" style="margin-top:-10px;"/>
+                            </div>-->
+
+
+                    </div>
+                </a>
+            </div>
+
+            <div class="collapse navbar-collapse" id="navigation-index">
+                <ul class="nav navbar-nav navbar-right">
+                    <li class="text-center">
+                        <a href="#!" id="nav-search-btn"><i class="fa fa-search" aria-hidden="true">&nbsp;</i> Search Events</a>
+                        <div id="nav-search-field" class="form-group" style="display: none;">
+                            <input type="password" class="form-control" placeholder="Search For An Event">
+                            <span class="floating-f-p">
+                                    <a href="#!"  id="nav-search-close"><i class="fa fa-times-circle-o" aria-hidden="true"></i></a>
+                                </span>
+                        </div>
+                    </li>
+                    <li class="text-center single-nav">
+                        <a href="#!">Events</a>
+                    </li>
+                    <li class="text-center single-nav">
+                        <a href="#!">Sports</a>
+                    </li>
+                    <li class="text-center single-nav">
+                        <a href="#!">Theater</a>
+                    </li>
+                    <li class="text-center single-nav">
+                        <a href="#!">Movies</a>
+                    </li>
+                    <li class="text-center single-nav">
+                        <a href="#!">Music</a>
+                    </li>
+                    <li class="text-center single-nav">
+                        <a href="#!">Buses</a>
+                    </li>
+                    <li class="text-center single-nav">
+                        <a href="#!">Launches</a>
+                    </li>
+                    <li class="text-center single-nav">
+                        <a href="#!">Tourism</a>
+                    </li>
+                    <li class="text-center">
+                        <a href="#"><i class="fa fa-lock" aria-hidden="true"></i> Log In</a>
+                    </li>
+                    <li class="dropdown text-center bd-ash-1 margin_right10 cart">
+                        <a href="#!" class="dropdown-toggle cart-nav" data-toggle="dropdown">
+                            <!--data-hover="dropdown" -->
+                            <i class="fa fa-shopping-cart" aria-hidden="true"></i> Cart
+                            <b class="total-price"> ৳ <span id="cartAmount">3000</span></b>
+                        </a>
+                        <ul class="dropdown-menu" id="wholeCart">
+                            <li>
+                                <div class="basket-item">
+                                    <div class="row">
+                                        <div class="col-xs-12 col-sm-12 col-md-12 text-center">
+                                            <div class="title">
+                                                <a href="http://ticketchai.com/details/406/Social-Business-Youth-Summit-2016" target="_blank" class="cart-product-title">Social Business Youth Summit 2016</a>
+                                                <a href="#!" id="del-cart-item"><i class="fa fa-times-circle-o" aria-hidden="true"></i></a>
+                                            </div>
+                                        </div>
+                                        <div class="col-xs-12 col-sm-2 col-md-4 text-center">
+                                            <div class="thumb">
+                                                <img alt="Social Business Youth Summit 2016" src="http://ticketchai.com/upload/event_web_logo/ewl_2016-06-01-19-13-44.jpg">
+                                            </div>
+                                        </div>
+                                        <div class="col-xs-12 col-sm-10 col-md-8">
+
+                                            <div class="col-xs-12">
+                                                <table>
+                                                    <thead>
+                                                        <tr>
+                                                            <td style="width: 60%">Title</td>
+                                                            <td style="width: 20%">Qnt.</td>
+                                                            <td style="width: 20%">Price</td>
+                                                        </tr>
+                                                    </thead>
+                                                    <tbody>
+                                                        <tr>
+                                                            <td>Student</td>
+                                                            <td>1</td>
+                                                            <td>৳3000.00</td>
+                                                        </tr>
+                                                    </tbody>
+                                                </table>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="basket-item">
+                                    <div class="row">
+                                        <div class="col-xs-12 col-sm-12 col-md-12 text-center">
+                                            <div class="title">
+                                                <a href="http://ticketchai.com/details/406/Social-Business-Youth-Summit-2016" target="_blank" class="cart-product-title">Social Business Youth Summit 2016</a>
+                                                <a href="#!" id="del-cart-item"><i class="fa fa-times-circle-o" aria-hidden="true"></i></a>
+                                            </div>
+                                        </div>
+                                        <div class="col-xs-12 col-sm-2 col-md-4 text-center">
+                                            <div class="thumb">
+                                                <img alt="Social Business Youth Summit 2016" src="http://ticketchai.com/upload/event_web_logo/ewl_2016-06-01-19-13-44.jpg">
+                                            </div>
+                                        </div>
+                                        <div class="col-xs-12 col-sm-10 col-md-8">
+
+                                            <div class="col-xs-12">
+                                                <table>
+                                                    <thead>
+                                                        <tr>
+                                                            <td style="width: 60%">Title</td>
+                                                            <td style="width: 20%">Qnt.</td>
+                                                            <td style="width: 20%">Price</td>
+                                                        </tr>
+                                                    </thead>
+                                                    <tbody>
+                                                        <tr>
+                                                            <td>Student</td>
+                                                            <td>1</td>
+                                                            <td>৳3000.00</td>
+                                                        </tr>
+                                                    </tbody>
+                                                </table>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </li>
+                            <!--                                        <h4 class="text-center" style="margin: 15px 0px;">Cart is now empty.</h4>-->
+                            <li class="checkout">
+                                <div class="col-xs-12">
+                                    <div class="col-xs-6">
+                                        <a href="#!" class="btn btn-danger btn-raised btn-block">show cart</a>
+                                    </div>
+                                    <div class="col-xs-6">
+                                        <a class="btn btn-info btn-raised btn-block" href="#!">checkout</a>
+                                    </div>
+                                </div>
+                            </li>
+                        </ul>
+
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <!-- End Navbar -->
+
+
+    <div class="wrapper">
+        <!-- main content part starts here -->
+        <div class="main" style="background-color: transparent; margin-top:80px;">
+            <!-- Customers LogIn section starts here -->
+            <div class="section-simple2">
+                <!-- Top image field start here -->
+                <div class="container">
+                    <div class="row padd_btm_30">
+                        <div class="col-lg-12 col-md-12 col-xs-12">
+                            <img style="width:100% !important; max-height:400px;" src="assets/img/bg2.jpeg" alt="" class="img-rounded img-responsive">
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-lg-9 col-md-9 col-sm-9 col-xs-12" id="event_tickets">
+                            <ul class="tab" id="event_tab">
+                                <li><a href="#" class="tablinks l1 active" onclick="eventTickets(event, 'Tickets')"><i class="fa fa-ticket"></i> Tickets</a></li>
+                                <li><a href="#" class="tablinks l2" onclick="eventTickets(event, 'About')"><i class="fa fa-info-circle"></i> About Event</a></li>
+                                <li><a href="#" class="tablinks l3" onclick="eventTickets(event, 'Venue')"><i class="fa fa-location-arrow"></i> Venue</a></li>
+                                <li><a href="#" class="tablinksm l4" onclick="eventTickets(event, 'Gallery')"><i class="fa fa-camera"></i> Gallery</a></li>
+                                <li><a href="#" class="tablinks l5" onclick="eventTickets(event, 'T&C')"><i class="fa fa-user-secret"></i> T & C</a></li>
+
+                            </ul>
+
+                            <div id="Tickets" class="tabcontent" style="display:block;">
+                                <div id="" class="row">
+                                    <div class="col-lg-8 col-md-8 col-sm-8 col-lg-12">
+                                        <h3 class="text-left event_tickets_h3 h3-responsive">New Checkout Test Event 
+                                            <span class="btn btn-event_l"><i class="fa fa-heart" style="font-size: 20px; padding: 6px; color:#88C659; border:1px solid #88C659;" aria-hidden="true"></i></span>
+                                        </h3>
+
+                                        <div class="col-md-5 dropdown hidden-xs">
+
+                                            <a data-toggle="dropdown">
+                                                <button type="button" class="btn btn-success-outline btn-size waves-effect"><i class="fa fa-arrow-circle-o-down" aria-hidden="true">&nbsp;</i> ADD TO CALENDAR
+                                                </button>
+                                            </a>
+
+                                            <ul class="dropdown-menu eve_tic_d_menu_ul" data-toggle="dropdown">
+                                                <li class="eve_tic_d_menu_ul_li"><a class="eve_tic_d_menu_ul_li_a" href="#">Action</a></li>
+                                                <li><a class="eve_tic_d_menu_ul_li_a" href="#">Another action</a></li>
+                                                <li><a class="eve_tic_d_menu_ul_li_a" href="#">Something else here</a></li>
+                                                <li class="divider"></li>
+                                                <li><a class="eve_tic_d_menu_ul_li_a" href="#">Separated link</a></li>
+                                                <li class="divider"></li>
+                                                <li><a class="eve_tic_d_menu_ul_li_a" href="#">One more separated link</a></li>
+                                            </ul>
+
+                                        </div>
+                                    </div>
+
+                                    <div class="col-lg-4 col-md-4 col-sm-4 col-lg-12 hidden-xs">
+                                        <img class="img-rounded img-responsive" src="assets/img/ts_step_01.png" alt="img">
+                                    </div>
+
+                                    <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 hidden-xs">
+                                        <h4 class="event_tickets_h4_Rom"><i class="fa fa-calendar-check-o" id='txtDate' aria-hidden="true" style="font-size: 20px; padding: 6px; color:#88C659; border:1px solid #88C659;"></i>
+                                        From Thursday, 3rd September 2015 01:00 PM - Sunday, 2nd October 2016 06:00 AM</h4>
+                                    </div>
+
+                                    <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 hidden-xs">
+                                        <a href="#"><span class="label label-info"><i class="fa fa-cubes" aria-hidden="true"></i>
+                                            Concert</span>
+                                        </a>
+
+                                        <a href="#">
+                                            <span class="label label-primary">
+                                                <i class="fa fa-music" aria-hidden="true">&nbsp;</i> Music
+                                            </span>
+                                        </a>
+                                    </div>
+
+                                    <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                                        <div class="panel my_panel">
+                                            <div class="panel_heading_set">
+                                                <h4 class="panel_heading h4-responsive">2nd October 2016 06:00 AM @ djflksadjflksdjflk</h4>
+                                            </div>
+                                            <div class="panel-body">
+                                                <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                                                    <h4> Event Tickets</h4>
+                                                </div>
+                                                <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12" id="event_table">
+                                                    <table>
+                                                        <thead>
+                                                            <tr>
+                                                                <th>Ticket Type</th>
+                                                                <th>Quantity</th>
+                                                                <th>Price</th>
+                                                                <th>Action</th>
+                                                            </tr>
+                                                        </thead>
+                                                        <tbody>
+                                                            <tr>
+                                                                <td>
+                                                                    <p id="cart_Left_Table_p">Silver</p>
+                                                                </td>
+
+
+                                                                <td class="sprinoff">
+                                                                    <div class="input-group">
+                                                                        <span class="input-group-addon minus">-</span>
+                                                                        <input type="text" value="0" class="form-control">
+                                                                        <span class="input-group-addon plus">+</span>
+                                                                    </div>
+                                                                </td>
+
+
+                                                                <td>
+                                                                    <p id="cart_Left_Table_p">৳ 100.00 </p>
+                                                                </td>
+                                                                <td class="td">
+                                                                    <button id="by_ticket" class="btn btn-success-outline">
+                                                                        <i class="fa fa-cart-plus" aria-hidden="true">&nbsp;</i>By Tickets
+                                                                    </button>
+                                                                </td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>
+                                                                    <p id="cart_Left_Table_p">Silver</p>
+                                                                </td>
+
+
+                                                                <td class="sprinoff">
+                                                                    <div class="input-group">
+                                                                        <span class="input-group-addon minus">-</span>
+                                                                        <input type="text" value="0" class="form-control">
+                                                                        <span class="input-group-addon plus">+</span>
+                                                                    </div>
+                                                                </td>
+
+
+                                                                <td>
+                                                                    <p id="cart_Left_Table_p">৳ 100.00 </p>
+                                                                </td>
+                                                                <td class="td">
+                                                                    <button id="by_ticket" class="btn btn-success-outline">
+                                                                        <i class="fa fa-cart-plus" aria-hidden="true">&nbsp;</i>By Tickets
+                                                                    </button>
+                                                                </td>
+                                                            </tr>
+                                                        
+                                                        </tbody>
+                                                    </table>
+                                                </div>
+
+
+                                                <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                                                    <h4> Event Includes</h4>
+                                                </div>
+                                                <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12" id="event_table">
+                                                    <table>
+                                                        <thead>
+                                                            <tr>
+                                                                <th>Ticket Type</th>
+                                                                <th>Quantity</th>
+                                                                <th>Price</th>
+                                                                <th>Action</th>
+                                                            </tr>
+                                                        </thead>
+                                                        <tbody>
+                                                            <tr>
+                                                                <td>
+                                                                    <p id="cart_Left_Table_p">Silver</p>
+                                                                </td>
+
+
+                                                                <td class="sprinoff">
+                                                                    <div class="input-group">
+                                                                        <span class="input-group-addon minus">-</span>
+                                                                        <input type="text" value="0" class="form-control">
+                                                                        <span class="input-group-addon plus">+</span>
+                                                                    </div>
+                                                                </td>
+
+
+                                                                <td>
+                                                                    <p id="cart_Left_Table_p">৳ 100.00 </p>
+                                                                </td>
+                                                                <td class="td">
+                                                                    <button id="by_ticket" class="btn btn-success-outline">
+                                                                        <i class="fa fa-cart-plus" aria-hidden="true">&nbsp;</i>By Tickets
+                                                                    </button>
+                                                                </td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>
+                                                                    <p id="cart_Left_Table_p">Silver</p>
+                                                                </td>
+
+
+                                                                <td class="sprinoff">
+                                                                    <div class="input-group">
+                                                                        <span class="input-group-addon minus">-</span>
+                                                                        <input type="text" value="0" class="form-control">
+                                                                        <span class="input-group-addon plus">+</span>
+                                                                    </div>
+                                                                </td>
+
+
+                                                                <td>
+                                                                    <p id="cart_Left_Table_p">৳ 100.00 </p>
+                                                                </td>
+                                                                <td class="td">
+                                                                    <button id="by_ticket" class="btn btn-success-outline">
+                                                                        <i class="fa fa-cart-plus" aria-hidden="true">&nbsp;</i>By Tickets
+                                                                    </button>
+                                                                </td>
+                                                            </tr>
+                                                        
+                                                        </tbody>
+                                                    </table>
+                                                </div>
+                                                <!--panel end-->
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                </div>
+                                <!-- row end-->
+                            </div>
+                            <!--frist tab content end-->
+
+                            <div id="About" class="tabcontent">
+                                <div class="row">
+                                    <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12" id="">
+                                        <p>About Event</p>
+                                    </div>
+                                </div>
+                                <!-- row end-->
+                            </div>
+                            <!--secound tab content end-->
+
+                            <div id="Venue" class="tabcontent">
+                                <div class="row">
+                                    <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12" id="">
+                                        <h3>Venue</h3>
+                                        <section>
+                                            <iframe class="map" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d912.9906364251227!2d90.40331199999999!3d23.748714999999997!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMjPCsDQ0JzU1LjQiTiA5MMKwMjQnMTEuOSJF!5e0!3m2!1sbn!2sbd!4v1413197027945" id="" width="800" height="600" frameborder="0" style="border:0"></iframe>
+                                        </section>
+                                    </div>
+                                </div>
+                                <!-- row end-->
+                            </div>
+                            <!--third tab content end-->
+
+                            <div id="Gallery" class="tabcontent">
+                                <div class="row">
+                                    <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 text-center" id="">
+                                        <h3>Photo Gellary</h3>
+                                        <h4>Vedio  Gellary</h4>
+                                    </div>
+                                </div>
+                                <!-- row end-->
+                            </div>
+                            <!-- fourth  tab content end-->
+
+                            <div id="T&C" class="tabcontent">
+                                <div class="row">
+                                    <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 text-center" id="">
+                                        <p>Terms & Conditions</p>
+                                    </div>
+                                </div>
+                                <!-- row end-->
+                            </div>
+                            <!-- fifth  tab content end-->
+                        </div>
+
+                        <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12" id="event_ticket_mainRight" style="">
+                            <h4>No offers and promotion found.</h4>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- Customers LogIn section ends here -->
+            <!-- ticketchai simple section starts here -->
+            <div class="section section-simple-close">
+                <div class="container">
+                    <div class="row section_padd30">
+                        <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 section-heading"></div>
+                        <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 section-content section_padd30 text-center"></div>
+                    </div>
+                </div>
+            </div>
+            <!-- ticketchai simple section ends here -->
+        </div>
+        <!-- main content part ends here -->
+        <!-- main footer part starts here -->
+        <!--Footer-->
+        <footer class="page-footer center-on-small-only" style="margin-top: -10px;">
+
+            <!--Footer Links-->
+            <div class="container-fluid">
+                <div class="container">
+                    <div class="row section_padd30">
+
+                        <!--First column-->
+                        <div class="col-md-3">
+                            <h5 class="title bold">Stay In Touch</h5>
+                            <img class="footer_logo" src="assets/img/ticketchai_logo1.png" alt="ticketchai.com" />
+                            <br/>
+                            <ul>
+                                <br/>
+                                <li><a href="#">HOT LINE: (+8801971842538)</a></li>
+                                <li><a href="#">OFFICE HOURS: 10:00 AM TO 06:00 PM</a></li>
+                                <li><a href="#">OFFICE DAY: SATURDAY TO THURSDAY</a></li>
+                            </ul>
+                        </div>
+                        <!--/.First column-->
+
+                        <!--Second column-->
+                        <div class="col-md-2">
+                            <h5 class="title bold">Useful Links</h5>
+                            <ul>
+                                <li><a href="#!">Terms of Service </a></li>
+                                <br/>
+                                <li><a href="#!">Privacy Policy</a></li>
+                                <br/>
+                                <li><a href="#!">How to Buy</a></li>
+                                <br/>
+                                <li><a href="#!">About Us</a></li>
+                                <br/>
+                                <li><a href="#!">Contact Us</a></li>
+                                <br/>
+                                <li><a href="#!">Support</a></li>
+                                <br/>
+                                <li><a href="#!">Create Your Event</a></li>
+                            </ul>
+                        </div>
+                        <!--/.Second column-->
+
+                        <!--Third column-->
+                        <div class="col-md-3">
+                            <h5 class="title bold">Facebook</h5>
+                            <ul>
+                                <li>
+                                    <div data-height="210" style="width:255px !important;" class="fb-page" data-href="https://www.facebook.com/ticketchaibd" data-tabs="timeline" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true">
+                                        <blockquote cite="https://www.facebook.com/ticketchaibd" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/ticketchaibd">Ticket chai</a></blockquote>
+                                    </div>
+                                </li>
+                            </ul>
+
+                        </div>
+                        <!--/.Third column-->
+
+                        <!--Fourth column-->
+                        <div class="col-md-3 col-md-offset-1">
+                            <h5 class="title bold">Company Info</h5>
+                            <ul>
+                                <li><i class="fa fa-map-marker"></i>
+                                    <span>Razzak Plaza (8th Floor),1 New Eskaton Road,
+                                            Moghbazar Circle, Dhaka-1217 
+                                        </span>
+                                </li>
+                                <br/>
+                                <li><i class="fa fa-phone"></i> <span>+880-1971-842538</span>,<span>+880-447-8009569</span></li>
+                                <br/>
+                                <li><a href="mailto:support@ticketchai.com" style="font-size: 14px; text-transform: none;"><i class="fa fa-envelope-o"></i> Email: support@ticketchai.com</a></li>
+                                <br/>
+                                <li><a href="www.ticketchai.com" style="font-size: 14px; text-transform: none;"><i class="fa fa-globe"></i> Website: www.ticketchai.com </a></li>
+                            </ul>
+                        </div>
+                        <!--/.Fourth column-->
+
+                    </div>
+                </div>
+            </div>
+            <!--/.Footer Links-->
+
+            <div class="clearfix"></div>
+            <br>
+            <hr>
+
+            <!--Social buttons-->
+            <div class="col-md-8 col-md-offset-2 social-section">
+                <ul>
+                    <li><a class="btn-floating btn-small btn-fb"><i class="fa fa-facebook"> </i></a></li>
+                    <li><a class="btn-floating btn-small btn-tw"><i class="fa fa-twitter"> </i></a></li>
+                    <li><a class="btn-floating btn-small btn-gplus"><i class="fa fa-google-plus"> </i></a></li>
+                    <li><a class="btn-floating btn-small btn-li"><i class="fa fa-linkedin"> </i></a></li>
+                    <li><a class="btn-floating btn-small btn-pin"><i class="fa fa-pinterest"> </i></a></li>
+                    <li><a class="btn-floating btn-small btn-ins"><i class="fa fa-instagram"> </i></a></li>
+                </ul>
+            </div>
+            <!--/.Social buttons-->
+            <div class="clearfix"></div>
+            <br>
+            <!--Copyright-->
+            <div class="col-md-12 footer-copyright hidden-xs">
+                <div class="container-fluid img-responsive">
+                    <img src="assets/img/pay3.png" alt="Pay With SSL-Commerze" />
+                </div>
+            </div>
+            <!--/.Copyright-->
+
+        </footer>
+        <!--/.Footer-->
+
+        <footer class="footer" style="border-top: 2px solid #C5E1A5 !important;">
+            <div class="container">
+                <div class="copyright text-center">
+                    <br> Copyright &copy; 2016, Ticketchai.com | All Rights Reserved.
+                </div>
+            </div>
+        </footer>
+        <!-- main footer part ends here -->
+        <!-- subscription widget starts here -->
+        <div class="clearfix"></div>
+        <div id="subscription" class="container-fluid subscribe-widget navbar-fixed-bottom" style="border-radius: 0px;">
+            <button id="btn-sclose" class="btn btn-warning btn-raised btn-fab btn-fab-mini btn-round"><i class="fa fa-chevron-down"></i></button>
+            <div class="row" style="overflow: hidden;">
+                <div class="container">
+                    <div class="col-md-6">
+                        <h3 class="subscribe-label">Subscribe & Stay Tuned For Exciting Events </h3>
+                    </div>
+                    <div class="col-md-6">
+                        <form>
+                            <div class="input-group">
+                                <input type="text" class="form-control subscription_input" placeholder="Type Your Email For Latest Newsletters">
+                                <span class="input-group-btn">
+                                        <button class="btn btn-raised btn-danger btn-subscribe" type="button"><i class="fa fa-envelope">&nbsp;</i> Subscribe</button>
+                                    </span>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="clearfix"></div>
+        <!-- subscription widget starts here -->
+    </div>
+
+    <!-- Sart Modal -->
+    <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-hidden="true">
+                        <i class="material-icons">clear</i>
+                    </button>
+                    <h4 class="modal-title">Modal title</h4>
+                </div>
+                <div class="modal-body">
+                    <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth. Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.
+                    </p>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-default btn-simple">Nice Button</button>
+                    <button type="button" class="btn btn-danger btn-simple" data-dismiss="modal">Close</button>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!--  End Modal -->
+    <!--Please Don't Remove This Part-->
+    <!--<div id="checkRadios"  style="display: none !important;">
+            <div class="row">
+                <div style="display: none;" class="col-sm-3">
+                    <div class="title">
+                        <h3>Sliders</h3>
+                    </div>
+
+                    <div id="sliderRegular" class="slider"></div>
+                    <div id="sliderDouble" class="slider slider-info"></div>
+                </div>
+            </div>
+        </div>-->
+
+
+</body>
+<!--   Core JS Files   -->
+<script src="assets/js/jquery.min.js" type="text/javascript"></script>
+<script src="assets/js/bootstrap.min.js" type="text/javascript"></script>
+<script src="assets/js/material.min.js"></script>
+<script src="plugins/mdb/js/mdb.min.js"></script>
+<script src="plugins/mdb/js/tether.min.js"></script>
+
+<!--  Plugin for the Sliders, full documentation here: http://refreshless.com/nouislider/ -->
+<!--<script src="assets/js/nouislider.min.js" type="text/javascript"></script>-->
+
+<!--  Plugin for the Datepicker, full documentation here: http://www.eyecon.ro/bootstrap-datepicker/ -->
+<script src="assets/js/bootstrap-datepicker.js" type="text/javascript"></script>
+
+<!-- Control Center for Material Kit: activating the ripples, parallax effects, scripts from the example pages etc -->
+<script src="assets/js/material-kit.js" type="text/javascript"></script>
+<!-- Animations init-->
+<script>
+    new WOW().init();
+
+</script>
+<!--bootstrap tab javascript -->
+<script text="text/javascript">
+    function eventTickets(evt, cityName) {
+        var i, tabcontent, tablinks;
+        tabcontent = document.getElementsByClassName("tabcontent");
+        for (i = 0; i < tabcontent.length; i++) {
+            tabcontent[i].style.display = "none";
+        }
+        tablinks = document.getElementsByClassName("tablinks");
+        for (i = 0; i < tablinks.length; i++) {
+            tablinks[i].className = tablinks[i].className.replace(" active", "");
+        }
+        document.getElementById(cityName).style.display = "block";
+        evt.currentTarget.className += " active";
+    }
+    $(".l2,.l3,.l4,.l5").click(function() {
+        $(".l1").removeClass("active");
+    });
+    $(".l1,.l3,.l4,.l5").click(function() {
+        $(".l2").removeClass("active");
+    });
+    $(".l2,.l1,.l4,.l5").click(function() {
+        $(".l3").removeClass("active");
+
+    });
+    $(".l2,.l3,.l1,.l5").click(function() {
+        $(".l4").removeClass("active");
+    });
+    $(".l2,.l3,.l4,.l1").click(function() {
+        $(".l5").removeClass("active");
+
+    });
+
+</script>
+
+
+
+<!-- Spinoff javascript -->
+<script text="text/javascript">
+    $(document).ready(function() {
+        $(".minus").click(function() {
+
+            var minValue = $(this).html();
+
+            if (minValue == "-") {
+
+                var value = '';
+                var getValue = $(this).parent("div").find("input").val();
+
+                if (getValue > 0) {
+                    value = getValue - 1;
+                    $(this).parent("div").find("input").css("color", "#000");
+                } else {
+                    value = 0;
+                    $(this).parent("div").find("input").css("color", "#f00");
+                }
+
+                $(this).parent("div").find("input").val(value);
+
+            }
+
+        });
+    });
+
+
+    $(document).ready(function() {
+        $(".plus").click(function() {
+
+            var plusValue = $(this).html();
+
+            if (plusValue == "+") {
+
+                var value = '';
+                var getValue = $(this).parent("div").find("input").val();
+
+
+                value = (getValue - 0) + (1 - 0);
+                $(this).parent("div").find("input").css("color", "000");
+
+                $(this).parent("div").find("input").val(value);
+
+            }
+
+        });
+    });
+
+</script>
+
+
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        // the body of this function is in assets/material-kit.js
+        //materialKit.initSliders();
+        $(window).on('scroll', materialKit.checkScrollForTransparentNavbar);
+
+        window_width = $(window).width();
+
+        if (window_width >= 768) {
+            big_image = $('.wrapper > .header');
+
+            $(window).on('scroll', materialKitDemo.checkScrollForParallax);
+        }
+
+    });
+
+</script>
+
+<script src="plugins/Simple-Background-Carousel-Plugin-with-jQuery-and-Animate-css-Crosscover/dist/js/crosscover.js" charset="utf-8"></script>
+<script>
+    $(document).on('ready', function() {
+        $('.crosscover').crosscover({
+            dotsNav: false
+        });
+    });
+
+</script>
+<script src="plugins/x-hipster-as-f-cards-v1.1/assets/js/hipster-cards.js" type="text/javascript"></script>
+<script src="plugins/Waves-master/dist/waves.min.js" type="text/javascript"></script>
+<script src="plugins/odometer-master/odometer.min.js" type="text/javascript"></script>
+<script src="plugins/WOW-master/dist/wow.min.js" type="text/javascript"></script>
+<!-- For Owl Carousel -->
+<script src="plugins/owl.carousel/owl-carousel/owl.carousel.min.js" type="text/javascript"></script>
+<script>
+    $(document).ready(function() {
+
+        var owl = $("#owl-demo");
+
+        owl.owlCarousel({
+            items: 5, //10 items above 1000px browser width
+            itemsDesktop: [1000, 4], //5 items between 1000px and 901px
+            itemsDesktopSmall: [900, 3], // betweem 900px and 601px
+            itemsTablet: [600, 2], //2 items between 600 and 0
+            itemsMobile: [300, 1], // itemsMobile disabled - inherit from itemsTablet option
+            autoPlay: 4000,
+            pagination: false,
+            //navigation:true
+        });
+
+        // Custom Navigation Events
+        $(".next").click(function() {
+            owl.trigger('owl.next');
+        })
+        $(".prev").click(function() {
+                owl.trigger('owl.prev');
+            })
+            /*$(".play").click(function () {
+             owl.trigger('owl.play', 1000);
+             })
+             $(".stop").click(function () {
+             owl.trigger('owl.stop');
+             })*/
+
+        $("#owl-demo").mouseover(function() {
+            $(".next").addClass('active-prev');
+            $(".prev").addClass('active-next');
+        });
+        $("#owl-demo").mouseout(function() {
+            $(".next").removeClass('active-prev');
+            $(".prev").removeClass('active-next');
+        });
+
+
+        $(function() {
+            $('[data-toggle="tooltip"]').tooltip()
+        })
+    });
+
+</script>
+<script type="text/javascript">
+    $(document).ready(function() {
+        $('#subscription').hide();
+        setTimeout(function(a) {
+            $('#subscription').slideDown(1000);
+        }, 15000);
+        setTimeout(function(b) {
+            $('#subscription').slideUp(3000);
+        }, 30000);
+        $('#btn-sclose').click(function() {
+            $('#subscription').slideUp(1000);
+        });
+
+        $('#nav-search-btn').click(function() {
+            $('#nav-search-field').show();
+            $('#nav-search-btn').hide();
+        });
+        $('#nav-search-close').click(function() {
+            $('#nav-search-field').hide();
+            $('#nav-search-btn').show();
+        });
+    });
+
+    setTimeout(function() {
+        $('#odometer1').html('50');
+        $('#odometer2').html('100');
+        $('#odometer3').html('200');
+        $('#odometer4').html('10000');
+    }, 1000);
+
+</script>
+
+</html>

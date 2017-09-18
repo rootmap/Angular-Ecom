@@ -1,0 +1,35 @@
+.edit_input {
+    height: 150px;
+    margin-top: -116px;
+    opacity: 0;
+    padding-left: 20px;
+}
+
+.plus {
+    color: #84cb18;
+    font-size: 13px;
+    margin-top: -35px;
+    padding-left: 25px;
+}
+
+
+/*
+.#overlay {
+    background: rgba(0, 0, 0, .75);
+    text-align: center;
+    padding: 45px 0 66px 0;
+    opacity: 0;
+    -webkit-transition: opacity .25s ease;
+    -moz-transition: opacity .25s ease;
+}
+
+#box:hover #overlay {
+    opacity: 1;
+}
+
+#plus {
+    font-family: Helvetica;
+    font-weight: 900;
+    color: rgba(255, 255, 255, .85);
+    font-size: 96px;
+}*/

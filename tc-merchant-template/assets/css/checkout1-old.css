@@ -1,0 +1,180 @@
+#event-tab-list{
+    border-radius: 0px !important; 
+    background-color: #88C659 !important;
+    padding: 0px !important;
+}
+#event-tab-list li{
+    width: 20% !important;
+    text-align: center;
+    text-transform: uppercase;
+    border-radius: 0px !important; 
+}
+#event-tab-list li a{
+    font-size: 14px !important;
+    font-weight: bold !important;
+    border-radius: 0px !important; 
+}
+#event-tab-list li a:hover{
+    background-color: #FFFFFF !important;
+    color: #88C659 !important;
+}
+
+#event-tab-list > li.active > a, .nav-tabs > li.active > a:hover, .nav-tabs > li.active > a:focus {
+    background-color: #FFFFFF !important;
+    color: #88C659 !important;
+    transition: background-color 0.1s ease 0.2s !important;
+}
+
+
+.sm-img{
+
+    height: 150px !important;
+    width: 100% !important;
+    padding: 15px !important;
+
+
+}
+.event-name-typ
+{
+    color: #000000 !important;
+    font-size: 24px;
+
+}
+
+#tickets_detalis
+{
+    background-color: #FFFFFF !important;
+}
+.heart
+{
+    border:1px solid #ccc !important;
+}
+.mar
+{
+    background-color: #DCEDC8 !important;
+    height: 10px !important;
+
+
+}
+
+
+.qty-block {
+    display: block !important;
+    max-width: 100px !important;
+}
+.bootstrap-touchspin {
+    border: 1px solid #e7e7e7 !important;
+
+}
+.qty-block .form-control {
+    border-right: medium none !important;
+    box-shadow: none !important;
+}
+.product-qty .form-control {
+    height: 34px !important;
+    min-height: auto !important;
+}
+
+.bootstrap-touchspin > .form-group > input{max-width: 34px !important;}
+
+
+.share_detalis .form-group .form-control {
+    border: 1px #ccc solid !important;
+    border-radius: 0;
+    box-shadow: none;
+    float: none;
+    font-weight: 400;
+    transition: background 0s ease-out 0s;
+    padding: 5px;
+    border-radius: 5px;
+
+}
+
+.share_detalis .form-group .text-black {
+    color: #000 !important;
+    font-size: 13px !important;
+}
+.pay_hed
+{
+    color: #000;
+    font-weight: 500;
+    text-align: center;
+    text-shadow: 0 2px 2px rgba(0, 0, 0, 0.25) !important
+}
+.fa_fan
+{
+    color: #689F38 !important;
+}
+
+.payment_way
+{
+    padding: 15px !important;
+}
+
+inp_fil
+{
+
+
+    font-weight: 10px;
+    transition: background 0s ease-out 0s;
+    font-size: 14px;
+    height: 36px;
+    line-height: 1.42857;
+    padding: 7px 25px;
+}
+
+.payment_btn {
+    font-size: 16px;
+    border-radius: 1px;
+    opacity: 2;
+    text-transform: uppercase;
+    font-weight: bold;
+
+}
+.payment_btn .fa
+{
+    font-size: 18px;
+}
+.pay_img
+{
+    padding-top: 50px !important;
+}
+.pb_body
+{
+    padding: 0px !important;
+}
+/*.pnp_hd
+{
+   padding-top: 60px !important;
+}*/
+.hed_pen
+{
+    border-top-left-radius: 0px;
+    border-top-right-radius: 0px;
+
+}
+.no_found
+{
+    background-color: #fff !important;
+    font-color: #000 !important;
+    margin-bottom: 20px !important;
+    margin-top: 20px !important;
+}
+
+
+.no_found .section-heading h1, h2, h3, h4 {
+    color: #000;
+
+}
+
+.terms_con
+{
+    background-color: #fff !important;
+}
+.sprinoff .input-group{ width:130px !important; margin: 0 auto; }
+.sprinoff .input-group .input-group-addon,
+.sprinoff .input-group .plussprinoff,
+.sprinoff .input-group .minusprinoff
+{ padding-top:0px; cursor: pointer; }
+.sprinoff .input-group .form-group{ margin-top:0px !important; border:1px #ccc solid;  height:30px; padding-top:0px !important; }
+.sprinoff .input-group .form-group .form-control{ height:30px; padding-top:0px; padding-left:5px; text-align:center; font-weight:600; padding-right:5px; }

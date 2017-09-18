@@ -1,0 +1,196 @@
+.panel {
+    border-radius: 2px;
+    border: 1px solid#ddd;
+    box-shadow: none;
+    margin: 0p;
+}
+
+.menu {
+    padding-right: 0px !important;
+    padding-left: 0px !important;
+    heigt: 44px;
+    background: #E0E0E0;
+    box-shadow: 0px 2px 5px 0px rgba(0, 0, 0, 0.16), 0px 2px 10px 0px rgba(0, 0, 0, 0.12);
+    margin-bottom: 2%
+}
+
+.menu>.nav-pills > li i {
+    display: block;
+    font-size: 15px;
+    padding: 0px 0px;
+}
+
+.nav-pills > li > a {
+    border-radius: 0px;
+    color: #88C659;
+}
+
+.nav-pills > li.active > a,
+.nav-pills > li.active > a:focus,
+.nav-pills > li.active > a:hover {
+    background-color: #88C659;
+    color: #fff !important;
+    box-shadow: none;
+}
+
+.menu_content {
+    background: #fff;
+    padding: 15px;
+    box-shadow: 0px 2px 5px 0px rgba(0, 0, 0, 0.16), 0px 2px 10px 0px rgba(0, 0, 0, 0.12);
+}
+
+.fist_accordion {
+    padding: 15px;
+}
+
+.form-control {
+    display: block;
+    width: 100%;
+    height: 34px;
+    padding: 6px 12px;
+    font-size: 14px;
+    line-height: 1.42857;
+    color: #123456;
+    background-color: #FFF;
+    background-image: none;
+    
+    border-radius: 4px !important;
+    box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.075) inset;
+    transition: border-color 0.15s ease-in-out 0s, box-shadow 0.15s ease-in-out 0s;
+}
+
+#srch-term{
+    border: 1px solid #959CA4 !important;
+}
+
+.panel.active {
+    color: #000;
+}
+
+.panel-title a {
+    margin-right: 92%;
+}
+
+.panel-title > a,
+.panel-title > small,
+.panel-title > small > a {
+    color: inherit !important;
+}
+
+.active-panel {
+    background: #88C659 !important;
+    color: #fff !important;
+}
+
+.form-group label {
+    font-size: 15px !important;
+    color: #333 !important;
+    margin: 3px 0px 0px !important;
+}
+
+.welcome-msg h3,
+.welcome-msg p {
+    text-align: left;
+    padding: 0px 0px 0px 19px !important;
+}
+
+.f-order p {
+    margin: 0px 0px 0px !important;
+}
+
+.eventlist-details a {
+    font-weight: bold;
+    color: #88C659;
+}
+
+.favorite_img {
+    width: 130px;
+    height: 115px;
+}
+
+.tbl-icon-indicator {
+    cursor: pointer;
+}
+
+
+/*Address css*/
+
+.address_panel {
+    margin: 15px 0px 0px 15px
+}
+
+.address_h4 {
+    font-size: 19px;
+    margin-left: -15px;
+    color: #000
+}
+
+.address_blo {}
+
+.address_p {
+    font-size: 15px;
+    margin-left: -12px
+}
+
+.addr_button {
+    margin-left: -15px;
+}
+
+.addr_checkbox_goup {
+    margin: 0px 0px 0px 15px;
+}
+
+.check1 {
+    margin-top: 12px!important
+}
+
+.check2 {
+    margin-top: 12px!important;
+    margin-left: 12px!important
+}
+
+.addr_add_button1 {
+    background: #88C32D !important;
+    width: 120px
+}
+
+.addr_add_button1:hover {
+    background: #78B414 !important
+}
+
+.addr_add_button2 {
+    width: 120px !important;
+}
+
+.add_address_panel {}
+
+.panel_h4 {
+    margin-left: -60px;
+}
+
+.order_custom_label {
+    color: #000 !important;
+    font-size: 14px !important;
+    font-weight: bold !important;
+}
+
+.order_custom_form_input {
+    margin-bottom: 15px !important
+}
+
+.order_address_input {
+    border: 1px solid #4CAF50 !important
+}
+
+.search .form-group {
+    padding-bottom: 7px;
+    margin: 0px 0px 0px;
+}
+
+.search #srch-term {
+    width: 160% !important;
+}
+
+.custom_menu {
+    padding-top: 20px;
+}

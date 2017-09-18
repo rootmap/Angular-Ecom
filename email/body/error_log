@@ -1,0 +1,1067 @@
+[20-Feb-2017 15:29:23 Asia/Dhaka] PHP Notice:  Undefined variable: orderID in /home/ticketchai/public_html/email/body/order.php on line 106
+[20-Feb-2017 15:29:23 Asia/Dhaka] PHP Notice:  Undefined variable: ordertype in /home/ticketchai/public_html/email/body/order.php on line 204
+[20-Feb-2017 15:29:23 Asia/Dhaka] PHP Notice:  Undefined variable: ordertype in /home/ticketchai/public_html/email/body/order.php on line 207
+[20-Feb-2017 15:29:23 Asia/Dhaka] PHP Notice:  Undefined variable: ordertype in /home/ticketchai/public_html/email/body/order.php on line 207
+[20-Feb-2017 15:29:23 Asia/Dhaka] PHP Notice:  Undefined variable: orderUserName in /home/ticketchai/public_html/email/body/order.php on line 219
+[20-Feb-2017 15:29:23 Asia/Dhaka] PHP Notice:  Undefined variable: orderNumber in /home/ticketchai/public_html/email/body/order.php on line 227
+[20-Feb-2017 15:29:23 Asia/Dhaka] PHP Notice:  Undefined variable: orderStatus in /home/ticketchai/public_html/email/body/order.php on line 228
+[20-Feb-2017 15:29:23 Asia/Dhaka] PHP Notice:  Undefined variable: paymentMethod in /home/ticketchai/public_html/email/body/order.php on line 229
+[20-Feb-2017 15:29:23 Asia/Dhaka] PHP Notice:  Undefined variable: orderShippingAddress in /home/ticketchai/public_html/email/body/order.php on line 245
+[20-Feb-2017 15:29:23 Asia/Dhaka] PHP Notice:  Undefined variable: orderShippingZip in /home/ticketchai/public_html/email/body/order.php on line 246
+[20-Feb-2017 15:29:23 Asia/Dhaka] PHP Notice:  Undefined variable: orderShippingCity in /home/ticketchai/public_html/email/body/order.php on line 246
+[20-Feb-2017 15:29:23 Asia/Dhaka] PHP Notice:  Undefined variable: orderShippingCountry in /home/ticketchai/public_html/email/body/order.php on line 247
+[20-Feb-2017 15:29:23 Asia/Dhaka] PHP Notice:  Undefined variable: orderShippingPhone in /home/ticketchai/public_html/email/body/order.php on line 248
+[20-Feb-2017 15:29:23 Asia/Dhaka] PHP Notice:  Undefined variable: orderShippingFirstName in /home/ticketchai/public_html/email/body/order.php on line 249
+[20-Feb-2017 15:29:23 Asia/Dhaka] PHP Notice:  Undefined variable: orderShippingLastName in /home/ticketchai/public_html/email/body/order.php on line 249
+[20-Feb-2017 15:29:23 Asia/Dhaka] PHP Notice:  Undefined variable: orderBillingAddress in /home/ticketchai/public_html/email/body/order.php on line 253
+[20-Feb-2017 15:29:23 Asia/Dhaka] PHP Notice:  Undefined variable: orderBillingZip in /home/ticketchai/public_html/email/body/order.php on line 254
+[20-Feb-2017 15:29:23 Asia/Dhaka] PHP Notice:  Undefined variable: orderBillingCity in /home/ticketchai/public_html/email/body/order.php on line 254
+[20-Feb-2017 15:29:23 Asia/Dhaka] PHP Notice:  Undefined variable: orderBillingCountry in /home/ticketchai/public_html/email/body/order.php on line 255
+[20-Feb-2017 15:29:23 Asia/Dhaka] PHP Notice:  Undefined variable: orderBillingPhone in /home/ticketchai/public_html/email/body/order.php on line 256
+[20-Feb-2017 15:29:23 Asia/Dhaka] PHP Notice:  Undefined variable: orderBillingFirstName in /home/ticketchai/public_html/email/body/order.php on line 257
+[20-Feb-2017 15:29:23 Asia/Dhaka] PHP Notice:  Undefined variable: orderBillingLastName in /home/ticketchai/public_html/email/body/order.php on line 257
+[20-Feb-2017 15:29:23 Asia/Dhaka] PHP Notice:  Undefined variable: deliveryCost in /home/ticketchai/public_html/email/body/order.php on line 322
+[20-Feb-2017 15:29:23 Asia/Dhaka] PHP Notice:  Undefined variable: discountCost in /home/ticketchai/public_html/email/body/order.php on line 332
+[20-Feb-2017 15:29:23 Asia/Dhaka] PHP Notice:  Undefined variable: orderTotalAmount in /home/ticketchai/public_html/email/body/order.php on line 340
+[20-Feb-2017 15:29:23 Asia/Dhaka] PHP Notice:  Undefined variable: orderCouponDiscount in /home/ticketchai/public_html/email/body/order.php on line 343
+[20-Feb-2017 15:29:23 Asia/Dhaka] PHP Notice:  Undefined variable: orderCouponDiscount in /home/ticketchai/public_html/email/body/order.php on line 358
+[20-Feb-2017 15:29:23 Asia/Dhaka] PHP Notice:  Undefined variable: totalCost in /home/ticketchai/public_html/email/body/order.php on line 358
+[20-Feb-2017 15:35:55 Asia/Dhaka] PHP Notice:  Undefined variable: orderID in /home/ticketchai/public_html/email/body/order.php on line 106
+[20-Feb-2017 15:35:55 Asia/Dhaka] PHP Notice:  Undefined variable: ordertype in /home/ticketchai/public_html/email/body/order.php on line 204
+[20-Feb-2017 15:35:55 Asia/Dhaka] PHP Notice:  Undefined variable: ordertype in /home/ticketchai/public_html/email/body/order.php on line 207
+[20-Feb-2017 15:35:55 Asia/Dhaka] PHP Notice:  Undefined variable: ordertype in /home/ticketchai/public_html/email/body/order.php on line 207
+[20-Feb-2017 15:35:55 Asia/Dhaka] PHP Notice:  Undefined variable: orderUserName in /home/ticketchai/public_html/email/body/order.php on line 219
+[20-Feb-2017 15:35:55 Asia/Dhaka] PHP Notice:  Undefined variable: orderNumber in /home/ticketchai/public_html/email/body/order.php on line 227
+[20-Feb-2017 15:35:55 Asia/Dhaka] PHP Notice:  Undefined variable: orderStatus in /home/ticketchai/public_html/email/body/order.php on line 228
+[20-Feb-2017 15:35:55 Asia/Dhaka] PHP Notice:  Undefined variable: paymentMethod in /home/ticketchai/public_html/email/body/order.php on line 229
+[20-Feb-2017 15:35:55 Asia/Dhaka] PHP Notice:  Undefined variable: orderShippingAddress in /home/ticketchai/public_html/email/body/order.php on line 245
+[20-Feb-2017 15:35:55 Asia/Dhaka] PHP Notice:  Undefined variable: orderShippingZip in /home/ticketchai/public_html/email/body/order.php on line 246
+[20-Feb-2017 15:35:55 Asia/Dhaka] PHP Notice:  Undefined variable: orderShippingCity in /home/ticketchai/public_html/email/body/order.php on line 246
+[20-Feb-2017 15:35:55 Asia/Dhaka] PHP Notice:  Undefined variable: orderShippingCountry in /home/ticketchai/public_html/email/body/order.php on line 247
+[20-Feb-2017 15:35:55 Asia/Dhaka] PHP Notice:  Undefined variable: orderShippingPhone in /home/ticketchai/public_html/email/body/order.php on line 248
+[20-Feb-2017 15:35:55 Asia/Dhaka] PHP Notice:  Undefined variable: orderShippingFirstName in /home/ticketchai/public_html/email/body/order.php on line 249
+[20-Feb-2017 15:35:55 Asia/Dhaka] PHP Notice:  Undefined variable: orderShippingLastName in /home/ticketchai/public_html/email/body/order.php on line 249
+[20-Feb-2017 15:35:55 Asia/Dhaka] PHP Notice:  Undefined variable: orderBillingAddress in /home/ticketchai/public_html/email/body/order.php on line 253
+[20-Feb-2017 15:35:55 Asia/Dhaka] PHP Notice:  Undefined variable: orderBillingZip in /home/ticketchai/public_html/email/body/order.php on line 254
+[20-Feb-2017 15:35:55 Asia/Dhaka] PHP Notice:  Undefined variable: orderBillingCity in /home/ticketchai/public_html/email/body/order.php on line 254
+[20-Feb-2017 15:35:55 Asia/Dhaka] PHP Notice:  Undefined variable: orderBillingCountry in /home/ticketchai/public_html/email/body/order.php on line 255
+[20-Feb-2017 15:35:55 Asia/Dhaka] PHP Notice:  Undefined variable: orderBillingPhone in /home/ticketchai/public_html/email/body/order.php on line 256
+[20-Feb-2017 15:35:55 Asia/Dhaka] PHP Notice:  Undefined variable: orderBillingFirstName in /home/ticketchai/public_html/email/body/order.php on line 257
+[20-Feb-2017 15:35:55 Asia/Dhaka] PHP Notice:  Undefined variable: orderBillingLastName in /home/ticketchai/public_html/email/body/order.php on line 257
+[20-Feb-2017 15:35:55 Asia/Dhaka] PHP Notice:  Undefined variable: deliveryCost in /home/ticketchai/public_html/email/body/order.php on line 322
+[20-Feb-2017 15:35:55 Asia/Dhaka] PHP Notice:  Undefined variable: discountCost in /home/ticketchai/public_html/email/body/order.php on line 332
+[20-Feb-2017 15:35:55 Asia/Dhaka] PHP Notice:  Undefined variable: orderTotalAmount in /home/ticketchai/public_html/email/body/order.php on line 340
+[20-Feb-2017 15:35:55 Asia/Dhaka] PHP Notice:  Undefined variable: orderCouponDiscount in /home/ticketchai/public_html/email/body/order.php on line 343
+[20-Feb-2017 15:35:55 Asia/Dhaka] PHP Notice:  Undefined variable: orderCouponDiscount in /home/ticketchai/public_html/email/body/order.php on line 358
+[20-Feb-2017 15:35:55 Asia/Dhaka] PHP Notice:  Undefined variable: totalCost in /home/ticketchai/public_html/email/body/order.php on line 358
+[20-Feb-2017 15:42:06 Asia/Dhaka] PHP Notice:  Undefined variable: orderID in /home/ticketchai/public_html/email/body/order.php on line 106
+[20-Feb-2017 15:42:06 Asia/Dhaka] PHP Notice:  Undefined variable: ordertype in /home/ticketchai/public_html/email/body/order.php on line 204
+[20-Feb-2017 15:42:06 Asia/Dhaka] PHP Notice:  Undefined variable: ordertype in /home/ticketchai/public_html/email/body/order.php on line 207
+[20-Feb-2017 15:42:06 Asia/Dhaka] PHP Notice:  Undefined variable: ordertype in /home/ticketchai/public_html/email/body/order.php on line 207
+[20-Feb-2017 15:42:06 Asia/Dhaka] PHP Notice:  Undefined variable: orderUserName in /home/ticketchai/public_html/email/body/order.php on line 219
+[20-Feb-2017 15:42:06 Asia/Dhaka] PHP Notice:  Undefined variable: orderNumber in /home/ticketchai/public_html/email/body/order.php on line 227
+[20-Feb-2017 15:42:06 Asia/Dhaka] PHP Notice:  Undefined variable: orderStatus in /home/ticketchai/public_html/email/body/order.php on line 228
+[20-Feb-2017 15:42:06 Asia/Dhaka] PHP Notice:  Undefined variable: paymentMethod in /home/ticketchai/public_html/email/body/order.php on line 229
+[20-Feb-2017 15:42:06 Asia/Dhaka] PHP Notice:  Undefined variable: orderShippingAddress in /home/ticketchai/public_html/email/body/order.php on line 245
+[20-Feb-2017 15:42:06 Asia/Dhaka] PHP Notice:  Undefined variable: orderShippingZip in /home/ticketchai/public_html/email/body/order.php on line 246
+[20-Feb-2017 15:42:06 Asia/Dhaka] PHP Notice:  Undefined variable: orderShippingCity in /home/ticketchai/public_html/email/body/order.php on line 246
+[20-Feb-2017 15:42:06 Asia/Dhaka] PHP Notice:  Undefined variable: orderShippingCountry in /home/ticketchai/public_html/email/body/order.php on line 247
+[20-Feb-2017 15:42:06 Asia/Dhaka] PHP Notice:  Undefined variable: orderShippingPhone in /home/ticketchai/public_html/email/body/order.php on line 248
+[20-Feb-2017 15:42:06 Asia/Dhaka] PHP Notice:  Undefined variable: orderShippingFirstName in /home/ticketchai/public_html/email/body/order.php on line 249
+[20-Feb-2017 15:42:06 Asia/Dhaka] PHP Notice:  Undefined variable: orderShippingLastName in /home/ticketchai/public_html/email/body/order.php on line 249
+[20-Feb-2017 15:42:06 Asia/Dhaka] PHP Notice:  Undefined variable: orderBillingAddress in /home/ticketchai/public_html/email/body/order.php on line 253
+[20-Feb-2017 15:42:06 Asia/Dhaka] PHP Notice:  Undefined variable: orderBillingZip in /home/ticketchai/public_html/email/body/order.php on line 254
+[20-Feb-2017 15:42:06 Asia/Dhaka] PHP Notice:  Undefined variable: orderBillingCity in /home/ticketchai/public_html/email/body/order.php on line 254
+[20-Feb-2017 15:42:06 Asia/Dhaka] PHP Notice:  Undefined variable: orderBillingCountry in /home/ticketchai/public_html/email/body/order.php on line 255
+[20-Feb-2017 15:42:06 Asia/Dhaka] PHP Notice:  Undefined variable: orderBillingPhone in /home/ticketchai/public_html/email/body/order.php on line 256
+[20-Feb-2017 15:42:06 Asia/Dhaka] PHP Notice:  Undefined variable: orderBillingFirstName in /home/ticketchai/public_html/email/body/order.php on line 257
+[20-Feb-2017 15:42:06 Asia/Dhaka] PHP Notice:  Undefined variable: orderBillingLastName in /home/ticketchai/public_html/email/body/order.php on line 257
+[20-Feb-2017 15:42:06 Asia/Dhaka] PHP Notice:  Undefined variable: deliveryCost in /home/ticketchai/public_html/email/body/order.php on line 322
+[20-Feb-2017 15:42:06 Asia/Dhaka] PHP Notice:  Undefined variable: discountCost in /home/ticketchai/public_html/email/body/order.php on line 332
+[20-Feb-2017 15:42:06 Asia/Dhaka] PHP Notice:  Undefined variable: orderTotalAmount in /home/ticketchai/public_html/email/body/order.php on line 340
+[20-Feb-2017 15:42:06 Asia/Dhaka] PHP Notice:  Undefined variable: orderCouponDiscount in /home/ticketchai/public_html/email/body/order.php on line 343
+[20-Feb-2017 15:42:06 Asia/Dhaka] PHP Notice:  Undefined variable: orderCouponDiscount in /home/ticketchai/public_html/email/body/order.php on line 358
+[20-Feb-2017 15:42:06 Asia/Dhaka] PHP Notice:  Undefined variable: totalCost in /home/ticketchai/public_html/email/body/order.php on line 358
+[20-Feb-2017 15:42:13 Asia/Dhaka] PHP Notice:  Undefined variable: orderID in /home/ticketchai/public_html/email/body/order.php on line 106
+[20-Feb-2017 15:42:13 Asia/Dhaka] PHP Notice:  Undefined variable: ordertype in /home/ticketchai/public_html/email/body/order.php on line 204
+[20-Feb-2017 15:42:13 Asia/Dhaka] PHP Notice:  Undefined variable: ordertype in /home/ticketchai/public_html/email/body/order.php on line 207
+[20-Feb-2017 15:42:13 Asia/Dhaka] PHP Notice:  Undefined variable: ordertype in /home/ticketchai/public_html/email/body/order.php on line 207
+[20-Feb-2017 15:42:13 Asia/Dhaka] PHP Notice:  Undefined variable: orderUserName in /home/ticketchai/public_html/email/body/order.php on line 219
+[20-Feb-2017 15:42:13 Asia/Dhaka] PHP Notice:  Undefined variable: orderNumber in /home/ticketchai/public_html/email/body/order.php on line 227
+[20-Feb-2017 15:42:13 Asia/Dhaka] PHP Notice:  Undefined variable: orderStatus in /home/ticketchai/public_html/email/body/order.php on line 228
+[20-Feb-2017 15:42:13 Asia/Dhaka] PHP Notice:  Undefined variable: paymentMethod in /home/ticketchai/public_html/email/body/order.php on line 229
+[20-Feb-2017 15:42:13 Asia/Dhaka] PHP Notice:  Undefined variable: orderShippingAddress in /home/ticketchai/public_html/email/body/order.php on line 245
+[20-Feb-2017 15:42:13 Asia/Dhaka] PHP Notice:  Undefined variable: orderShippingZip in /home/ticketchai/public_html/email/body/order.php on line 246
+[20-Feb-2017 15:42:13 Asia/Dhaka] PHP Notice:  Undefined variable: orderShippingCity in /home/ticketchai/public_html/email/body/order.php on line 246
+[20-Feb-2017 15:42:13 Asia/Dhaka] PHP Notice:  Undefined variable: orderShippingCountry in /home/ticketchai/public_html/email/body/order.php on line 247
+[20-Feb-2017 15:42:13 Asia/Dhaka] PHP Notice:  Undefined variable: orderShippingPhone in /home/ticketchai/public_html/email/body/order.php on line 248
+[20-Feb-2017 15:42:13 Asia/Dhaka] PHP Notice:  Undefined variable: orderShippingFirstName in /home/ticketchai/public_html/email/body/order.php on line 249
+[20-Feb-2017 15:42:13 Asia/Dhaka] PHP Notice:  Undefined variable: orderShippingLastName in /home/ticketchai/public_html/email/body/order.php on line 249
+[20-Feb-2017 15:42:13 Asia/Dhaka] PHP Notice:  Undefined variable: orderBillingAddress in /home/ticketchai/public_html/email/body/order.php on line 253
+[20-Feb-2017 15:42:13 Asia/Dhaka] PHP Notice:  Undefined variable: orderBillingZip in /home/ticketchai/public_html/email/body/order.php on line 254
+[20-Feb-2017 15:42:13 Asia/Dhaka] PHP Notice:  Undefined variable: orderBillingCity in /home/ticketchai/public_html/email/body/order.php on line 254
+[20-Feb-2017 15:42:13 Asia/Dhaka] PHP Notice:  Undefined variable: orderBillingCountry in /home/ticketchai/public_html/email/body/order.php on line 255
+[20-Feb-2017 15:42:13 Asia/Dhaka] PHP Notice:  Undefined variable: orderBillingPhone in /home/ticketchai/public_html/email/body/order.php on line 256
+[20-Feb-2017 15:42:13 Asia/Dhaka] PHP Notice:  Undefined variable: orderBillingFirstName in /home/ticketchai/public_html/email/body/order.php on line 257
+[20-Feb-2017 15:42:13 Asia/Dhaka] PHP Notice:  Undefined variable: orderBillingLastName in /home/ticketchai/public_html/email/body/order.php on line 257
+[20-Feb-2017 15:42:13 Asia/Dhaka] PHP Notice:  Undefined variable: deliveryCost in /home/ticketchai/public_html/email/body/order.php on line 322
+[20-Feb-2017 15:42:13 Asia/Dhaka] PHP Notice:  Undefined variable: discountCost in /home/ticketchai/public_html/email/body/order.php on line 332
+[20-Feb-2017 15:42:13 Asia/Dhaka] PHP Notice:  Undefined variable: orderTotalAmount in /home/ticketchai/public_html/email/body/order.php on line 340
+[20-Feb-2017 15:42:13 Asia/Dhaka] PHP Notice:  Undefined variable: orderCouponDiscount in /home/ticketchai/public_html/email/body/order.php on line 343
+[20-Feb-2017 15:42:13 Asia/Dhaka] PHP Notice:  Undefined variable: orderCouponDiscount in /home/ticketchai/public_html/email/body/order.php on line 358
+[20-Feb-2017 15:42:13 Asia/Dhaka] PHP Notice:  Undefined variable: totalCost in /home/ticketchai/public_html/email/body/order.php on line 358
+[20-Feb-2017 15:43:23 Asia/Dhaka] PHP Notice:  Undefined variable: orderID in /home/ticketchai/public_html/email/body/order.php on line 106
+[20-Feb-2017 15:43:23 Asia/Dhaka] PHP Notice:  Undefined variable: ordertype in /home/ticketchai/public_html/email/body/order.php on line 204
+[20-Feb-2017 15:43:23 Asia/Dhaka] PHP Notice:  Undefined variable: ordertype in /home/ticketchai/public_html/email/body/order.php on line 207
+[20-Feb-2017 15:43:23 Asia/Dhaka] PHP Notice:  Undefined variable: ordertype in /home/ticketchai/public_html/email/body/order.php on line 207
+[20-Feb-2017 15:43:23 Asia/Dhaka] PHP Notice:  Undefined variable: orderUserName in /home/ticketchai/public_html/email/body/order.php on line 219
+[20-Feb-2017 15:43:23 Asia/Dhaka] PHP Notice:  Undefined variable: orderNumber in /home/ticketchai/public_html/email/body/order.php on line 227
+[20-Feb-2017 15:43:23 Asia/Dhaka] PHP Notice:  Undefined variable: orderStatus in /home/ticketchai/public_html/email/body/order.php on line 228
+[20-Feb-2017 15:43:23 Asia/Dhaka] PHP Notice:  Undefined variable: paymentMethod in /home/ticketchai/public_html/email/body/order.php on line 229
+[20-Feb-2017 15:43:23 Asia/Dhaka] PHP Notice:  Undefined variable: orderShippingAddress in /home/ticketchai/public_html/email/body/order.php on line 245
+[20-Feb-2017 15:43:23 Asia/Dhaka] PHP Notice:  Undefined variable: orderShippingZip in /home/ticketchai/public_html/email/body/order.php on line 246
+[20-Feb-2017 15:43:23 Asia/Dhaka] PHP Notice:  Undefined variable: orderShippingCity in /home/ticketchai/public_html/email/body/order.php on line 246
+[20-Feb-2017 15:43:23 Asia/Dhaka] PHP Notice:  Undefined variable: orderShippingCountry in /home/ticketchai/public_html/email/body/order.php on line 247
+[20-Feb-2017 15:43:23 Asia/Dhaka] PHP Notice:  Undefined variable: orderShippingPhone in /home/ticketchai/public_html/email/body/order.php on line 248
+[20-Feb-2017 15:43:23 Asia/Dhaka] PHP Notice:  Undefined variable: orderShippingFirstName in /home/ticketchai/public_html/email/body/order.php on line 249
+[20-Feb-2017 15:43:23 Asia/Dhaka] PHP Notice:  Undefined variable: orderShippingLastName in /home/ticketchai/public_html/email/body/order.php on line 249
+[20-Feb-2017 15:43:23 Asia/Dhaka] PHP Notice:  Undefined variable: orderBillingAddress in /home/ticketchai/public_html/email/body/order.php on line 253
+[20-Feb-2017 15:43:23 Asia/Dhaka] PHP Notice:  Undefined variable: orderBillingZip in /home/ticketchai/public_html/email/body/order.php on line 254
+[20-Feb-2017 15:43:23 Asia/Dhaka] PHP Notice:  Undefined variable: orderBillingCity in /home/ticketchai/public_html/email/body/order.php on line 254
+[20-Feb-2017 15:43:23 Asia/Dhaka] PHP Notice:  Undefined variable: orderBillingCountry in /home/ticketchai/public_html/email/body/order.php on line 255
+[20-Feb-2017 15:43:23 Asia/Dhaka] PHP Notice:  Undefined variable: orderBillingPhone in /home/ticketchai/public_html/email/body/order.php on line 256
+[20-Feb-2017 15:43:23 Asia/Dhaka] PHP Notice:  Undefined variable: orderBillingFirstName in /home/ticketchai/public_html/email/body/order.php on line 257
+[20-Feb-2017 15:43:23 Asia/Dhaka] PHP Notice:  Undefined variable: orderBillingLastName in /home/ticketchai/public_html/email/body/order.php on line 257
+[20-Feb-2017 15:43:23 Asia/Dhaka] PHP Notice:  Undefined variable: deliveryCost in /home/ticketchai/public_html/email/body/order.php on line 322
+[20-Feb-2017 15:43:23 Asia/Dhaka] PHP Notice:  Undefined variable: discountCost in /home/ticketchai/public_html/email/body/order.php on line 332
+[20-Feb-2017 15:43:23 Asia/Dhaka] PHP Notice:  Undefined variable: orderTotalAmount in /home/ticketchai/public_html/email/body/order.php on line 340
+[20-Feb-2017 15:43:23 Asia/Dhaka] PHP Notice:  Undefined variable: orderCouponDiscount in /home/ticketchai/public_html/email/body/order.php on line 343
+[20-Feb-2017 15:43:23 Asia/Dhaka] PHP Notice:  Undefined variable: orderCouponDiscount in /home/ticketchai/public_html/email/body/order.php on line 358
+[20-Feb-2017 15:43:23 Asia/Dhaka] PHP Notice:  Undefined variable: totalCost in /home/ticketchai/public_html/email/body/order.php on line 358
+[20-Feb-2017 15:44:01 Asia/Dhaka] PHP Notice:  Undefined variable: orderID in /home/ticketchai/public_html/email/body/order.php on line 106
+[20-Feb-2017 15:44:01 Asia/Dhaka] PHP Notice:  Undefined variable: ordertype in /home/ticketchai/public_html/email/body/order.php on line 204
+[20-Feb-2017 15:44:01 Asia/Dhaka] PHP Notice:  Undefined variable: ordertype in /home/ticketchai/public_html/email/body/order.php on line 207
+[20-Feb-2017 15:44:01 Asia/Dhaka] PHP Notice:  Undefined variable: ordertype in /home/ticketchai/public_html/email/body/order.php on line 207
+[20-Feb-2017 15:44:01 Asia/Dhaka] PHP Notice:  Undefined variable: orderUserName in /home/ticketchai/public_html/email/body/order.php on line 219
+[20-Feb-2017 15:44:01 Asia/Dhaka] PHP Notice:  Undefined variable: orderNumber in /home/ticketchai/public_html/email/body/order.php on line 227
+[20-Feb-2017 15:44:01 Asia/Dhaka] PHP Notice:  Undefined variable: orderStatus in /home/ticketchai/public_html/email/body/order.php on line 228
+[20-Feb-2017 15:44:01 Asia/Dhaka] PHP Notice:  Undefined variable: paymentMethod in /home/ticketchai/public_html/email/body/order.php on line 229
+[20-Feb-2017 15:44:01 Asia/Dhaka] PHP Notice:  Undefined variable: orderShippingAddress in /home/ticketchai/public_html/email/body/order.php on line 245
+[20-Feb-2017 15:44:01 Asia/Dhaka] PHP Notice:  Undefined variable: orderShippingZip in /home/ticketchai/public_html/email/body/order.php on line 246
+[20-Feb-2017 15:44:01 Asia/Dhaka] PHP Notice:  Undefined variable: orderShippingCity in /home/ticketchai/public_html/email/body/order.php on line 246
+[20-Feb-2017 15:44:01 Asia/Dhaka] PHP Notice:  Undefined variable: orderShippingCountry in /home/ticketchai/public_html/email/body/order.php on line 247
+[20-Feb-2017 15:44:01 Asia/Dhaka] PHP Notice:  Undefined variable: orderShippingPhone in /home/ticketchai/public_html/email/body/order.php on line 248
+[20-Feb-2017 15:44:01 Asia/Dhaka] PHP Notice:  Undefined variable: orderShippingFirstName in /home/ticketchai/public_html/email/body/order.php on line 249
+[20-Feb-2017 15:44:01 Asia/Dhaka] PHP Notice:  Undefined variable: orderShippingLastName in /home/ticketchai/public_html/email/body/order.php on line 249
+[20-Feb-2017 15:44:01 Asia/Dhaka] PHP Notice:  Undefined variable: orderBillingAddress in /home/ticketchai/public_html/email/body/order.php on line 253
+[20-Feb-2017 15:44:01 Asia/Dhaka] PHP Notice:  Undefined variable: orderBillingZip in /home/ticketchai/public_html/email/body/order.php on line 254
+[20-Feb-2017 15:44:01 Asia/Dhaka] PHP Notice:  Undefined variable: orderBillingCity in /home/ticketchai/public_html/email/body/order.php on line 254
+[20-Feb-2017 15:44:01 Asia/Dhaka] PHP Notice:  Undefined variable: orderBillingCountry in /home/ticketchai/public_html/email/body/order.php on line 255
+[20-Feb-2017 15:44:01 Asia/Dhaka] PHP Notice:  Undefined variable: orderBillingPhone in /home/ticketchai/public_html/email/body/order.php on line 256
+[20-Feb-2017 15:44:01 Asia/Dhaka] PHP Notice:  Undefined variable: orderBillingFirstName in /home/ticketchai/public_html/email/body/order.php on line 257
+[20-Feb-2017 15:44:01 Asia/Dhaka] PHP Notice:  Undefined variable: orderBillingLastName in /home/ticketchai/public_html/email/body/order.php on line 257
+[20-Feb-2017 15:44:01 Asia/Dhaka] PHP Notice:  Undefined variable: deliveryCost in /home/ticketchai/public_html/email/body/order.php on line 322
+[20-Feb-2017 15:44:01 Asia/Dhaka] PHP Notice:  Undefined variable: discountCost in /home/ticketchai/public_html/email/body/order.php on line 332
+[20-Feb-2017 15:44:01 Asia/Dhaka] PHP Notice:  Undefined variable: orderTotalAmount in /home/ticketchai/public_html/email/body/order.php on line 340
+[20-Feb-2017 15:44:01 Asia/Dhaka] PHP Notice:  Undefined variable: orderCouponDiscount in /home/ticketchai/public_html/email/body/order.php on line 343
+[20-Feb-2017 15:44:01 Asia/Dhaka] PHP Notice:  Undefined variable: orderCouponDiscount in /home/ticketchai/public_html/email/body/order.php on line 358
+[20-Feb-2017 15:44:01 Asia/Dhaka] PHP Notice:  Undefined variable: totalCost in /home/ticketchai/public_html/email/body/order.php on line 358
+[20-Feb-2017 15:48:18 Asia/Dhaka] PHP Notice:  Undefined variable: orderID in /home/ticketchai/public_html/email/body/order.php on line 106
+[20-Feb-2017 15:48:18 Asia/Dhaka] PHP Notice:  Undefined variable: ordertype in /home/ticketchai/public_html/email/body/order.php on line 204
+[20-Feb-2017 15:48:18 Asia/Dhaka] PHP Notice:  Undefined variable: ordertype in /home/ticketchai/public_html/email/body/order.php on line 207
+[20-Feb-2017 15:48:18 Asia/Dhaka] PHP Notice:  Undefined variable: ordertype in /home/ticketchai/public_html/email/body/order.php on line 207
+[20-Feb-2017 15:48:18 Asia/Dhaka] PHP Notice:  Undefined variable: orderUserName in /home/ticketchai/public_html/email/body/order.php on line 219
+[20-Feb-2017 15:48:18 Asia/Dhaka] PHP Notice:  Undefined variable: orderNumber in /home/ticketchai/public_html/email/body/order.php on line 227
+[20-Feb-2017 15:48:18 Asia/Dhaka] PHP Notice:  Undefined variable: orderStatus in /home/ticketchai/public_html/email/body/order.php on line 228
+[20-Feb-2017 15:48:18 Asia/Dhaka] PHP Notice:  Undefined variable: paymentMethod in /home/ticketchai/public_html/email/body/order.php on line 229
+[20-Feb-2017 15:48:18 Asia/Dhaka] PHP Notice:  Undefined variable: orderShippingAddress in /home/ticketchai/public_html/email/body/order.php on line 245
+[20-Feb-2017 15:48:18 Asia/Dhaka] PHP Notice:  Undefined variable: orderShippingZip in /home/ticketchai/public_html/email/body/order.php on line 246
+[20-Feb-2017 15:48:18 Asia/Dhaka] PHP Notice:  Undefined variable: orderShippingCity in /home/ticketchai/public_html/email/body/order.php on line 246
+[20-Feb-2017 15:48:18 Asia/Dhaka] PHP Notice:  Undefined variable: orderShippingCountry in /home/ticketchai/public_html/email/body/order.php on line 247
+[20-Feb-2017 15:48:18 Asia/Dhaka] PHP Notice:  Undefined variable: orderShippingPhone in /home/ticketchai/public_html/email/body/order.php on line 248
+[20-Feb-2017 15:48:18 Asia/Dhaka] PHP Notice:  Undefined variable: orderShippingFirstName in /home/ticketchai/public_html/email/body/order.php on line 249
+[20-Feb-2017 15:48:18 Asia/Dhaka] PHP Notice:  Undefined variable: orderShippingLastName in /home/ticketchai/public_html/email/body/order.php on line 249
+[20-Feb-2017 15:48:18 Asia/Dhaka] PHP Notice:  Undefined variable: orderBillingAddress in /home/ticketchai/public_html/email/body/order.php on line 253
+[20-Feb-2017 15:48:18 Asia/Dhaka] PHP Notice:  Undefined variable: orderBillingZip in /home/ticketchai/public_html/email/body/order.php on line 254
+[20-Feb-2017 15:48:18 Asia/Dhaka] PHP Notice:  Undefined variable: orderBillingCity in /home/ticketchai/public_html/email/body/order.php on line 254
+[20-Feb-2017 15:48:18 Asia/Dhaka] PHP Notice:  Undefined variable: orderBillingCountry in /home/ticketchai/public_html/email/body/order.php on line 255
+[20-Feb-2017 15:48:18 Asia/Dhaka] PHP Notice:  Undefined variable: orderBillingPhone in /home/ticketchai/public_html/email/body/order.php on line 256
+[20-Feb-2017 15:48:18 Asia/Dhaka] PHP Notice:  Undefined variable: orderBillingFirstName in /home/ticketchai/public_html/email/body/order.php on line 257
+[20-Feb-2017 15:48:18 Asia/Dhaka] PHP Notice:  Undefined variable: orderBillingLastName in /home/ticketchai/public_html/email/body/order.php on line 257
+[20-Feb-2017 15:48:18 Asia/Dhaka] PHP Notice:  Undefined variable: deliveryCost in /home/ticketchai/public_html/email/body/order.php on line 322
+[20-Feb-2017 15:48:18 Asia/Dhaka] PHP Notice:  Undefined variable: discountCost in /home/ticketchai/public_html/email/body/order.php on line 332
+[20-Feb-2017 15:48:18 Asia/Dhaka] PHP Notice:  Undefined variable: orderTotalAmount in /home/ticketchai/public_html/email/body/order.php on line 340
+[20-Feb-2017 15:48:18 Asia/Dhaka] PHP Notice:  Undefined variable: orderCouponDiscount in /home/ticketchai/public_html/email/body/order.php on line 343
+[20-Feb-2017 15:48:18 Asia/Dhaka] PHP Notice:  Undefined variable: orderCouponDiscount in /home/ticketchai/public_html/email/body/order.php on line 358
+[20-Feb-2017 15:48:18 Asia/Dhaka] PHP Notice:  Undefined variable: totalCost in /home/ticketchai/public_html/email/body/order.php on line 358
+[20-Feb-2017 15:49:58 Asia/Dhaka] PHP Notice:  Undefined variable: orderID in /home/ticketchai/public_html/email/body/order.php on line 106
+[20-Feb-2017 15:49:58 Asia/Dhaka] PHP Notice:  Undefined variable: ordertype in /home/ticketchai/public_html/email/body/order.php on line 204
+[20-Feb-2017 15:49:58 Asia/Dhaka] PHP Notice:  Undefined variable: ordertype in /home/ticketchai/public_html/email/body/order.php on line 207
+[20-Feb-2017 15:49:58 Asia/Dhaka] PHP Notice:  Undefined variable: ordertype in /home/ticketchai/public_html/email/body/order.php on line 207
+[20-Feb-2017 15:49:58 Asia/Dhaka] PHP Notice:  Undefined variable: orderUserName in /home/ticketchai/public_html/email/body/order.php on line 219
+[20-Feb-2017 15:49:58 Asia/Dhaka] PHP Notice:  Undefined variable: orderNumber in /home/ticketchai/public_html/email/body/order.php on line 227
+[20-Feb-2017 15:49:58 Asia/Dhaka] PHP Notice:  Undefined variable: orderStatus in /home/ticketchai/public_html/email/body/order.php on line 228
+[20-Feb-2017 15:49:58 Asia/Dhaka] PHP Notice:  Undefined variable: paymentMethod in /home/ticketchai/public_html/email/body/order.php on line 229
+[20-Feb-2017 15:49:58 Asia/Dhaka] PHP Notice:  Undefined variable: orderShippingAddress in /home/ticketchai/public_html/email/body/order.php on line 245
+[20-Feb-2017 15:49:58 Asia/Dhaka] PHP Notice:  Undefined variable: orderShippingZip in /home/ticketchai/public_html/email/body/order.php on line 246
+[20-Feb-2017 15:49:58 Asia/Dhaka] PHP Notice:  Undefined variable: orderShippingCity in /home/ticketchai/public_html/email/body/order.php on line 246
+[20-Feb-2017 15:49:58 Asia/Dhaka] PHP Notice:  Undefined variable: orderShippingCountry in /home/ticketchai/public_html/email/body/order.php on line 247
+[20-Feb-2017 15:49:58 Asia/Dhaka] PHP Notice:  Undefined variable: orderShippingPhone in /home/ticketchai/public_html/email/body/order.php on line 248
+[20-Feb-2017 15:49:58 Asia/Dhaka] PHP Notice:  Undefined variable: orderShippingFirstName in /home/ticketchai/public_html/email/body/order.php on line 249
+[20-Feb-2017 15:49:58 Asia/Dhaka] PHP Notice:  Undefined variable: orderShippingLastName in /home/ticketchai/public_html/email/body/order.php on line 249
+[20-Feb-2017 15:49:58 Asia/Dhaka] PHP Notice:  Undefined variable: orderBillingAddress in /home/ticketchai/public_html/email/body/order.php on line 253
+[20-Feb-2017 15:49:58 Asia/Dhaka] PHP Notice:  Undefined variable: orderBillingZip in /home/ticketchai/public_html/email/body/order.php on line 254
+[20-Feb-2017 15:49:58 Asia/Dhaka] PHP Notice:  Undefined variable: orderBillingCity in /home/ticketchai/public_html/email/body/order.php on line 254
+[20-Feb-2017 15:49:58 Asia/Dhaka] PHP Notice:  Undefined variable: orderBillingCountry in /home/ticketchai/public_html/email/body/order.php on line 255
+[20-Feb-2017 15:49:58 Asia/Dhaka] PHP Notice:  Undefined variable: orderBillingPhone in /home/ticketchai/public_html/email/body/order.php on line 256
+[20-Feb-2017 15:49:58 Asia/Dhaka] PHP Notice:  Undefined variable: orderBillingFirstName in /home/ticketchai/public_html/email/body/order.php on line 257
+[20-Feb-2017 15:49:58 Asia/Dhaka] PHP Notice:  Undefined variable: orderBillingLastName in /home/ticketchai/public_html/email/body/order.php on line 257
+[20-Feb-2017 15:49:58 Asia/Dhaka] PHP Notice:  Undefined variable: deliveryCost in /home/ticketchai/public_html/email/body/order.php on line 322
+[20-Feb-2017 15:49:58 Asia/Dhaka] PHP Notice:  Undefined variable: discountCost in /home/ticketchai/public_html/email/body/order.php on line 332
+[20-Feb-2017 15:49:58 Asia/Dhaka] PHP Notice:  Undefined variable: orderTotalAmount in /home/ticketchai/public_html/email/body/order.php on line 340
+[20-Feb-2017 15:49:58 Asia/Dhaka] PHP Notice:  Undefined variable: orderCouponDiscount in /home/ticketchai/public_html/email/body/order.php on line 343
+[20-Feb-2017 15:49:58 Asia/Dhaka] PHP Notice:  Undefined variable: orderCouponDiscount in /home/ticketchai/public_html/email/body/order.php on line 358
+[20-Feb-2017 15:49:58 Asia/Dhaka] PHP Notice:  Undefined variable: totalCost in /home/ticketchai/public_html/email/body/order.php on line 358
+[20-Feb-2017 15:50:12 Asia/Dhaka] PHP Notice:  Undefined variable: orderID in /home/ticketchai/public_html/email/body/order.php on line 106
+[20-Feb-2017 15:50:12 Asia/Dhaka] PHP Notice:  Undefined variable: ordertype in /home/ticketchai/public_html/email/body/order.php on line 204
+[20-Feb-2017 15:50:12 Asia/Dhaka] PHP Notice:  Undefined variable: ordertype in /home/ticketchai/public_html/email/body/order.php on line 207
+[20-Feb-2017 15:50:12 Asia/Dhaka] PHP Notice:  Undefined variable: ordertype in /home/ticketchai/public_html/email/body/order.php on line 207
+[20-Feb-2017 15:50:12 Asia/Dhaka] PHP Notice:  Undefined variable: orderUserName in /home/ticketchai/public_html/email/body/order.php on line 219
+[20-Feb-2017 15:50:12 Asia/Dhaka] PHP Notice:  Undefined variable: orderNumber in /home/ticketchai/public_html/email/body/order.php on line 227
+[20-Feb-2017 15:50:12 Asia/Dhaka] PHP Notice:  Undefined variable: orderStatus in /home/ticketchai/public_html/email/body/order.php on line 228
+[20-Feb-2017 15:50:12 Asia/Dhaka] PHP Notice:  Undefined variable: paymentMethod in /home/ticketchai/public_html/email/body/order.php on line 229
+[20-Feb-2017 15:50:12 Asia/Dhaka] PHP Notice:  Undefined variable: orderShippingAddress in /home/ticketchai/public_html/email/body/order.php on line 245
+[20-Feb-2017 15:50:12 Asia/Dhaka] PHP Notice:  Undefined variable: orderShippingZip in /home/ticketchai/public_html/email/body/order.php on line 246
+[20-Feb-2017 15:50:12 Asia/Dhaka] PHP Notice:  Undefined variable: orderShippingCity in /home/ticketchai/public_html/email/body/order.php on line 246
+[20-Feb-2017 15:50:12 Asia/Dhaka] PHP Notice:  Undefined variable: orderShippingCountry in /home/ticketchai/public_html/email/body/order.php on line 247
+[20-Feb-2017 15:50:12 Asia/Dhaka] PHP Notice:  Undefined variable: orderShippingPhone in /home/ticketchai/public_html/email/body/order.php on line 248
+[20-Feb-2017 15:50:12 Asia/Dhaka] PHP Notice:  Undefined variable: orderShippingFirstName in /home/ticketchai/public_html/email/body/order.php on line 249
+[20-Feb-2017 15:50:12 Asia/Dhaka] PHP Notice:  Undefined variable: orderShippingLastName in /home/ticketchai/public_html/email/body/order.php on line 249
+[20-Feb-2017 15:50:12 Asia/Dhaka] PHP Notice:  Undefined variable: orderBillingAddress in /home/ticketchai/public_html/email/body/order.php on line 253
+[20-Feb-2017 15:50:12 Asia/Dhaka] PHP Notice:  Undefined variable: orderBillingZip in /home/ticketchai/public_html/email/body/order.php on line 254
+[20-Feb-2017 15:50:12 Asia/Dhaka] PHP Notice:  Undefined variable: orderBillingCity in /home/ticketchai/public_html/email/body/order.php on line 254
+[20-Feb-2017 15:50:12 Asia/Dhaka] PHP Notice:  Undefined variable: orderBillingCountry in /home/ticketchai/public_html/email/body/order.php on line 255
+[20-Feb-2017 15:50:12 Asia/Dhaka] PHP Notice:  Undefined variable: orderBillingPhone in /home/ticketchai/public_html/email/body/order.php on line 256
+[20-Feb-2017 15:50:12 Asia/Dhaka] PHP Notice:  Undefined variable: orderBillingFirstName in /home/ticketchai/public_html/email/body/order.php on line 257
+[20-Feb-2017 15:50:12 Asia/Dhaka] PHP Notice:  Undefined variable: orderBillingLastName in /home/ticketchai/public_html/email/body/order.php on line 257
+[20-Feb-2017 15:50:12 Asia/Dhaka] PHP Notice:  Undefined variable: deliveryCost in /home/ticketchai/public_html/email/body/order.php on line 322
+[20-Feb-2017 15:50:12 Asia/Dhaka] PHP Notice:  Undefined variable: discountCost in /home/ticketchai/public_html/email/body/order.php on line 332
+[20-Feb-2017 15:50:12 Asia/Dhaka] PHP Notice:  Undefined variable: orderTotalAmount in /home/ticketchai/public_html/email/body/order.php on line 340
+[20-Feb-2017 15:50:12 Asia/Dhaka] PHP Notice:  Undefined variable: orderCouponDiscount in /home/ticketchai/public_html/email/body/order.php on line 343
+[20-Feb-2017 15:50:12 Asia/Dhaka] PHP Notice:  Undefined variable: orderCouponDiscount in /home/ticketchai/public_html/email/body/order.php on line 358
+[20-Feb-2017 15:50:12 Asia/Dhaka] PHP Notice:  Undefined variable: totalCost in /home/ticketchai/public_html/email/body/order.php on line 358
+[20-Feb-2017 15:51:02 Asia/Dhaka] PHP Notice:  Undefined variable: orderID in /home/ticketchai/public_html/email/body/order.php on line 106
+[20-Feb-2017 15:51:02 Asia/Dhaka] PHP Notice:  Undefined variable: ordertype in /home/ticketchai/public_html/email/body/order.php on line 204
+[20-Feb-2017 15:51:02 Asia/Dhaka] PHP Notice:  Undefined variable: ordertype in /home/ticketchai/public_html/email/body/order.php on line 207
+[20-Feb-2017 15:51:02 Asia/Dhaka] PHP Notice:  Undefined variable: ordertype in /home/ticketchai/public_html/email/body/order.php on line 207
+[20-Feb-2017 15:51:02 Asia/Dhaka] PHP Notice:  Undefined variable: orderUserName in /home/ticketchai/public_html/email/body/order.php on line 219
+[20-Feb-2017 15:51:02 Asia/Dhaka] PHP Notice:  Undefined variable: orderNumber in /home/ticketchai/public_html/email/body/order.php on line 227
+[20-Feb-2017 15:51:02 Asia/Dhaka] PHP Notice:  Undefined variable: orderStatus in /home/ticketchai/public_html/email/body/order.php on line 228
+[20-Feb-2017 15:51:02 Asia/Dhaka] PHP Notice:  Undefined variable: paymentMethod in /home/ticketchai/public_html/email/body/order.php on line 229
+[20-Feb-2017 15:51:02 Asia/Dhaka] PHP Notice:  Undefined variable: orderShippingAddress in /home/ticketchai/public_html/email/body/order.php on line 245
+[20-Feb-2017 15:51:02 Asia/Dhaka] PHP Notice:  Undefined variable: orderShippingZip in /home/ticketchai/public_html/email/body/order.php on line 246
+[20-Feb-2017 15:51:02 Asia/Dhaka] PHP Notice:  Undefined variable: orderShippingCity in /home/ticketchai/public_html/email/body/order.php on line 246
+[20-Feb-2017 15:51:02 Asia/Dhaka] PHP Notice:  Undefined variable: orderShippingCountry in /home/ticketchai/public_html/email/body/order.php on line 247
+[20-Feb-2017 15:51:02 Asia/Dhaka] PHP Notice:  Undefined variable: orderShippingPhone in /home/ticketchai/public_html/email/body/order.php on line 248
+[20-Feb-2017 15:51:02 Asia/Dhaka] PHP Notice:  Undefined variable: orderShippingFirstName in /home/ticketchai/public_html/email/body/order.php on line 249
+[20-Feb-2017 15:51:02 Asia/Dhaka] PHP Notice:  Undefined variable: orderShippingLastName in /home/ticketchai/public_html/email/body/order.php on line 249
+[20-Feb-2017 15:51:02 Asia/Dhaka] PHP Notice:  Undefined variable: orderBillingAddress in /home/ticketchai/public_html/email/body/order.php on line 253
+[20-Feb-2017 15:51:02 Asia/Dhaka] PHP Notice:  Undefined variable: orderBillingZip in /home/ticketchai/public_html/email/body/order.php on line 254
+[20-Feb-2017 15:51:02 Asia/Dhaka] PHP Notice:  Undefined variable: orderBillingCity in /home/ticketchai/public_html/email/body/order.php on line 254
+[20-Feb-2017 15:51:02 Asia/Dhaka] PHP Notice:  Undefined variable: orderBillingCountry in /home/ticketchai/public_html/email/body/order.php on line 255
+[20-Feb-2017 15:51:02 Asia/Dhaka] PHP Notice:  Undefined variable: orderBillingPhone in /home/ticketchai/public_html/email/body/order.php on line 256
+[20-Feb-2017 15:51:02 Asia/Dhaka] PHP Notice:  Undefined variable: orderBillingFirstName in /home/ticketchai/public_html/email/body/order.php on line 257
+[20-Feb-2017 15:51:02 Asia/Dhaka] PHP Notice:  Undefined variable: orderBillingLastName in /home/ticketchai/public_html/email/body/order.php on line 257
+[20-Feb-2017 15:51:02 Asia/Dhaka] PHP Notice:  Undefined variable: deliveryCost in /home/ticketchai/public_html/email/body/order.php on line 322
+[20-Feb-2017 15:51:02 Asia/Dhaka] PHP Notice:  Undefined variable: discountCost in /home/ticketchai/public_html/email/body/order.php on line 332
+[20-Feb-2017 15:51:02 Asia/Dhaka] PHP Notice:  Undefined variable: orderTotalAmount in /home/ticketchai/public_html/email/body/order.php on line 340
+[20-Feb-2017 15:51:02 Asia/Dhaka] PHP Notice:  Undefined variable: orderCouponDiscount in /home/ticketchai/public_html/email/body/order.php on line 343
+[20-Feb-2017 15:51:02 Asia/Dhaka] PHP Notice:  Undefined variable: orderCouponDiscount in /home/ticketchai/public_html/email/body/order.php on line 358
+[20-Feb-2017 15:51:02 Asia/Dhaka] PHP Notice:  Undefined variable: totalCost in /home/ticketchai/public_html/email/body/order.php on line 358
+[20-Feb-2017 15:54:23 Asia/Dhaka] PHP Notice:  Undefined variable: orderID in /home/ticketchai/public_html/email/body/order.php on line 106
+[20-Feb-2017 15:54:23 Asia/Dhaka] PHP Notice:  Undefined variable: ordertype in /home/ticketchai/public_html/email/body/order.php on line 204
+[20-Feb-2017 15:54:23 Asia/Dhaka] PHP Notice:  Undefined variable: ordertype in /home/ticketchai/public_html/email/body/order.php on line 207
+[20-Feb-2017 15:54:23 Asia/Dhaka] PHP Notice:  Undefined variable: ordertype in /home/ticketchai/public_html/email/body/order.php on line 207
+[20-Feb-2017 15:54:23 Asia/Dhaka] PHP Notice:  Undefined variable: orderUserName in /home/ticketchai/public_html/email/body/order.php on line 219
+[20-Feb-2017 15:54:23 Asia/Dhaka] PHP Notice:  Undefined variable: orderNumber in /home/ticketchai/public_html/email/body/order.php on line 227
+[20-Feb-2017 15:54:23 Asia/Dhaka] PHP Notice:  Undefined variable: orderStatus in /home/ticketchai/public_html/email/body/order.php on line 228
+[20-Feb-2017 15:54:23 Asia/Dhaka] PHP Notice:  Undefined variable: paymentMethod in /home/ticketchai/public_html/email/body/order.php on line 229
+[20-Feb-2017 15:54:23 Asia/Dhaka] PHP Notice:  Undefined variable: orderShippingAddress in /home/ticketchai/public_html/email/body/order.php on line 245
+[20-Feb-2017 15:54:23 Asia/Dhaka] PHP Notice:  Undefined variable: orderShippingZip in /home/ticketchai/public_html/email/body/order.php on line 246
+[20-Feb-2017 15:54:23 Asia/Dhaka] PHP Notice:  Undefined variable: orderShippingCity in /home/ticketchai/public_html/email/body/order.php on line 246
+[20-Feb-2017 15:54:23 Asia/Dhaka] PHP Notice:  Undefined variable: orderShippingCountry in /home/ticketchai/public_html/email/body/order.php on line 247
+[20-Feb-2017 15:54:23 Asia/Dhaka] PHP Notice:  Undefined variable: orderShippingPhone in /home/ticketchai/public_html/email/body/order.php on line 248
+[20-Feb-2017 15:54:23 Asia/Dhaka] PHP Notice:  Undefined variable: orderShippingFirstName in /home/ticketchai/public_html/email/body/order.php on line 249
+[20-Feb-2017 15:54:23 Asia/Dhaka] PHP Notice:  Undefined variable: orderShippingLastName in /home/ticketchai/public_html/email/body/order.php on line 249
+[20-Feb-2017 15:54:23 Asia/Dhaka] PHP Notice:  Undefined variable: orderBillingAddress in /home/ticketchai/public_html/email/body/order.php on line 253
+[20-Feb-2017 15:54:23 Asia/Dhaka] PHP Notice:  Undefined variable: orderBillingZip in /home/ticketchai/public_html/email/body/order.php on line 254
+[20-Feb-2017 15:54:23 Asia/Dhaka] PHP Notice:  Undefined variable: orderBillingCity in /home/ticketchai/public_html/email/body/order.php on line 254
+[20-Feb-2017 15:54:23 Asia/Dhaka] PHP Notice:  Undefined variable: orderBillingCountry in /home/ticketchai/public_html/email/body/order.php on line 255
+[20-Feb-2017 15:54:23 Asia/Dhaka] PHP Notice:  Undefined variable: orderBillingPhone in /home/ticketchai/public_html/email/body/order.php on line 256
+[20-Feb-2017 15:54:23 Asia/Dhaka] PHP Notice:  Undefined variable: orderBillingFirstName in /home/ticketchai/public_html/email/body/order.php on line 257
+[20-Feb-2017 15:54:23 Asia/Dhaka] PHP Notice:  Undefined variable: orderBillingLastName in /home/ticketchai/public_html/email/body/order.php on line 257
+[20-Feb-2017 15:54:23 Asia/Dhaka] PHP Notice:  Undefined variable: deliveryCost in /home/ticketchai/public_html/email/body/order.php on line 322
+[20-Feb-2017 15:54:23 Asia/Dhaka] PHP Notice:  Undefined variable: discountCost in /home/ticketchai/public_html/email/body/order.php on line 332
+[20-Feb-2017 15:54:23 Asia/Dhaka] PHP Notice:  Undefined variable: orderTotalAmount in /home/ticketchai/public_html/email/body/order.php on line 340
+[20-Feb-2017 15:54:23 Asia/Dhaka] PHP Notice:  Undefined variable: orderCouponDiscount in /home/ticketchai/public_html/email/body/order.php on line 343
+[20-Feb-2017 15:54:23 Asia/Dhaka] PHP Notice:  Undefined variable: orderCouponDiscount in /home/ticketchai/public_html/email/body/order.php on line 358
+[20-Feb-2017 15:54:23 Asia/Dhaka] PHP Notice:  Undefined variable: totalCost in /home/ticketchai/public_html/email/body/order.php on line 358
+[20-Feb-2017 16:00:12 Asia/Dhaka] PHP Notice:  Undefined variable: orderID in /home/ticketchai/public_html/email/body/order.php on line 106
+[20-Feb-2017 16:00:12 Asia/Dhaka] PHP Notice:  Undefined variable: ordertype in /home/ticketchai/public_html/email/body/order.php on line 204
+[20-Feb-2017 16:00:12 Asia/Dhaka] PHP Notice:  Undefined variable: ordertype in /home/ticketchai/public_html/email/body/order.php on line 207
+[20-Feb-2017 16:00:12 Asia/Dhaka] PHP Notice:  Undefined variable: ordertype in /home/ticketchai/public_html/email/body/order.php on line 207
+[20-Feb-2017 16:00:12 Asia/Dhaka] PHP Notice:  Undefined variable: orderUserName in /home/ticketchai/public_html/email/body/order.php on line 219
+[20-Feb-2017 16:00:12 Asia/Dhaka] PHP Notice:  Undefined variable: orderNumber in /home/ticketchai/public_html/email/body/order.php on line 227
+[20-Feb-2017 16:00:12 Asia/Dhaka] PHP Notice:  Undefined variable: orderStatus in /home/ticketchai/public_html/email/body/order.php on line 228
+[20-Feb-2017 16:00:12 Asia/Dhaka] PHP Notice:  Undefined variable: paymentMethod in /home/ticketchai/public_html/email/body/order.php on line 229
+[20-Feb-2017 16:00:12 Asia/Dhaka] PHP Notice:  Undefined variable: orderShippingAddress in /home/ticketchai/public_html/email/body/order.php on line 245
+[20-Feb-2017 16:00:12 Asia/Dhaka] PHP Notice:  Undefined variable: orderShippingZip in /home/ticketchai/public_html/email/body/order.php on line 246
+[20-Feb-2017 16:00:12 Asia/Dhaka] PHP Notice:  Undefined variable: orderShippingCity in /home/ticketchai/public_html/email/body/order.php on line 246
+[20-Feb-2017 16:00:12 Asia/Dhaka] PHP Notice:  Undefined variable: orderShippingCountry in /home/ticketchai/public_html/email/body/order.php on line 247
+[20-Feb-2017 16:00:12 Asia/Dhaka] PHP Notice:  Undefined variable: orderShippingPhone in /home/ticketchai/public_html/email/body/order.php on line 248
+[20-Feb-2017 16:00:12 Asia/Dhaka] PHP Notice:  Undefined variable: orderShippingFirstName in /home/ticketchai/public_html/email/body/order.php on line 249
+[20-Feb-2017 16:00:12 Asia/Dhaka] PHP Notice:  Undefined variable: orderShippingLastName in /home/ticketchai/public_html/email/body/order.php on line 249
+[20-Feb-2017 16:00:12 Asia/Dhaka] PHP Notice:  Undefined variable: orderBillingAddress in /home/ticketchai/public_html/email/body/order.php on line 253
+[20-Feb-2017 16:00:12 Asia/Dhaka] PHP Notice:  Undefined variable: orderBillingZip in /home/ticketchai/public_html/email/body/order.php on line 254
+[20-Feb-2017 16:00:12 Asia/Dhaka] PHP Notice:  Undefined variable: orderBillingCity in /home/ticketchai/public_html/email/body/order.php on line 254
+[20-Feb-2017 16:00:12 Asia/Dhaka] PHP Notice:  Undefined variable: orderBillingCountry in /home/ticketchai/public_html/email/body/order.php on line 255
+[20-Feb-2017 16:00:12 Asia/Dhaka] PHP Notice:  Undefined variable: orderBillingPhone in /home/ticketchai/public_html/email/body/order.php on line 256
+[20-Feb-2017 16:00:12 Asia/Dhaka] PHP Notice:  Undefined variable: orderBillingFirstName in /home/ticketchai/public_html/email/body/order.php on line 257
+[20-Feb-2017 16:00:12 Asia/Dhaka] PHP Notice:  Undefined variable: orderBillingLastName in /home/ticketchai/public_html/email/body/order.php on line 257
+[20-Feb-2017 16:00:12 Asia/Dhaka] PHP Notice:  Undefined variable: deliveryCost in /home/ticketchai/public_html/email/body/order.php on line 322
+[20-Feb-2017 16:00:12 Asia/Dhaka] PHP Notice:  Undefined variable: discountCost in /home/ticketchai/public_html/email/body/order.php on line 332
+[20-Feb-2017 16:00:12 Asia/Dhaka] PHP Notice:  Undefined variable: orderTotalAmount in /home/ticketchai/public_html/email/body/order.php on line 340
+[20-Feb-2017 16:00:12 Asia/Dhaka] PHP Notice:  Undefined variable: orderCouponDiscount in /home/ticketchai/public_html/email/body/order.php on line 343
+[20-Feb-2017 16:00:12 Asia/Dhaka] PHP Notice:  Undefined variable: orderCouponDiscount in /home/ticketchai/public_html/email/body/order.php on line 358
+[20-Feb-2017 16:00:12 Asia/Dhaka] PHP Notice:  Undefined variable: totalCost in /home/ticketchai/public_html/email/body/order.php on line 358
+[20-Feb-2017 16:03:46 Asia/Dhaka] PHP Notice:  Undefined variable: orderID in /home/ticketchai/public_html/email/body/order.php on line 106
+[20-Feb-2017 16:03:46 Asia/Dhaka] PHP Notice:  Undefined variable: ordertype in /home/ticketchai/public_html/email/body/order.php on line 204
+[20-Feb-2017 16:03:46 Asia/Dhaka] PHP Notice:  Undefined variable: ordertype in /home/ticketchai/public_html/email/body/order.php on line 207
+[20-Feb-2017 16:03:46 Asia/Dhaka] PHP Notice:  Undefined variable: ordertype in /home/ticketchai/public_html/email/body/order.php on line 207
+[20-Feb-2017 16:03:46 Asia/Dhaka] PHP Notice:  Undefined variable: orderUserName in /home/ticketchai/public_html/email/body/order.php on line 219
+[20-Feb-2017 16:03:46 Asia/Dhaka] PHP Notice:  Undefined variable: orderNumber in /home/ticketchai/public_html/email/body/order.php on line 227
+[20-Feb-2017 16:03:46 Asia/Dhaka] PHP Notice:  Undefined variable: orderStatus in /home/ticketchai/public_html/email/body/order.php on line 228
+[20-Feb-2017 16:03:46 Asia/Dhaka] PHP Notice:  Undefined variable: paymentMethod in /home/ticketchai/public_html/email/body/order.php on line 229
+[20-Feb-2017 16:03:46 Asia/Dhaka] PHP Notice:  Undefined variable: orderShippingAddress in /home/ticketchai/public_html/email/body/order.php on line 245
+[20-Feb-2017 16:03:46 Asia/Dhaka] PHP Notice:  Undefined variable: orderShippingZip in /home/ticketchai/public_html/email/body/order.php on line 246
+[20-Feb-2017 16:03:46 Asia/Dhaka] PHP Notice:  Undefined variable: orderShippingCity in /home/ticketchai/public_html/email/body/order.php on line 246
+[20-Feb-2017 16:03:46 Asia/Dhaka] PHP Notice:  Undefined variable: orderShippingCountry in /home/ticketchai/public_html/email/body/order.php on line 247
+[20-Feb-2017 16:03:46 Asia/Dhaka] PHP Notice:  Undefined variable: orderShippingPhone in /home/ticketchai/public_html/email/body/order.php on line 248
+[20-Feb-2017 16:03:46 Asia/Dhaka] PHP Notice:  Undefined variable: orderShippingFirstName in /home/ticketchai/public_html/email/body/order.php on line 249
+[20-Feb-2017 16:03:46 Asia/Dhaka] PHP Notice:  Undefined variable: orderShippingLastName in /home/ticketchai/public_html/email/body/order.php on line 249
+[20-Feb-2017 16:03:46 Asia/Dhaka] PHP Notice:  Undefined variable: orderBillingAddress in /home/ticketchai/public_html/email/body/order.php on line 253
+[20-Feb-2017 16:03:46 Asia/Dhaka] PHP Notice:  Undefined variable: orderBillingZip in /home/ticketchai/public_html/email/body/order.php on line 254
+[20-Feb-2017 16:03:46 Asia/Dhaka] PHP Notice:  Undefined variable: orderBillingCity in /home/ticketchai/public_html/email/body/order.php on line 254
+[20-Feb-2017 16:03:46 Asia/Dhaka] PHP Notice:  Undefined variable: orderBillingCountry in /home/ticketchai/public_html/email/body/order.php on line 255
+[20-Feb-2017 16:03:46 Asia/Dhaka] PHP Notice:  Undefined variable: orderBillingPhone in /home/ticketchai/public_html/email/body/order.php on line 256
+[20-Feb-2017 16:03:46 Asia/Dhaka] PHP Notice:  Undefined variable: orderBillingFirstName in /home/ticketchai/public_html/email/body/order.php on line 257
+[20-Feb-2017 16:03:46 Asia/Dhaka] PHP Notice:  Undefined variable: orderBillingLastName in /home/ticketchai/public_html/email/body/order.php on line 257
+[20-Feb-2017 16:03:46 Asia/Dhaka] PHP Notice:  Undefined variable: deliveryCost in /home/ticketchai/public_html/email/body/order.php on line 322
+[20-Feb-2017 16:03:46 Asia/Dhaka] PHP Notice:  Undefined variable: discountCost in /home/ticketchai/public_html/email/body/order.php on line 332
+[20-Feb-2017 16:03:46 Asia/Dhaka] PHP Notice:  Undefined variable: orderTotalAmount in /home/ticketchai/public_html/email/body/order.php on line 340
+[20-Feb-2017 16:03:46 Asia/Dhaka] PHP Notice:  Undefined variable: orderCouponDiscount in /home/ticketchai/public_html/email/body/order.php on line 343
+[20-Feb-2017 16:03:46 Asia/Dhaka] PHP Notice:  Undefined variable: orderCouponDiscount in /home/ticketchai/public_html/email/body/order.php on line 358
+[20-Feb-2017 16:03:46 Asia/Dhaka] PHP Notice:  Undefined variable: totalCost in /home/ticketchai/public_html/email/body/order.php on line 358
+[20-Feb-2017 16:04:00 Asia/Dhaka] PHP Notice:  Undefined variable: orderID in /home/ticketchai/public_html/email/body/order.php on line 106
+[20-Feb-2017 16:04:00 Asia/Dhaka] PHP Notice:  Undefined variable: ordertype in /home/ticketchai/public_html/email/body/order.php on line 204
+[20-Feb-2017 16:04:00 Asia/Dhaka] PHP Notice:  Undefined variable: ordertype in /home/ticketchai/public_html/email/body/order.php on line 207
+[20-Feb-2017 16:04:00 Asia/Dhaka] PHP Notice:  Undefined variable: ordertype in /home/ticketchai/public_html/email/body/order.php on line 207
+[20-Feb-2017 16:04:00 Asia/Dhaka] PHP Notice:  Undefined variable: orderUserName in /home/ticketchai/public_html/email/body/order.php on line 219
+[20-Feb-2017 16:04:00 Asia/Dhaka] PHP Notice:  Undefined variable: orderNumber in /home/ticketchai/public_html/email/body/order.php on line 227
+[20-Feb-2017 16:04:00 Asia/Dhaka] PHP Notice:  Undefined variable: orderStatus in /home/ticketchai/public_html/email/body/order.php on line 228
+[20-Feb-2017 16:04:00 Asia/Dhaka] PHP Notice:  Undefined variable: paymentMethod in /home/ticketchai/public_html/email/body/order.php on line 229
+[20-Feb-2017 16:04:00 Asia/Dhaka] PHP Notice:  Undefined variable: orderShippingAddress in /home/ticketchai/public_html/email/body/order.php on line 245
+[20-Feb-2017 16:04:00 Asia/Dhaka] PHP Notice:  Undefined variable: orderShippingZip in /home/ticketchai/public_html/email/body/order.php on line 246
+[20-Feb-2017 16:04:00 Asia/Dhaka] PHP Notice:  Undefined variable: orderShippingCity in /home/ticketchai/public_html/email/body/order.php on line 246
+[20-Feb-2017 16:04:00 Asia/Dhaka] PHP Notice:  Undefined variable: orderShippingCountry in /home/ticketchai/public_html/email/body/order.php on line 247
+[20-Feb-2017 16:04:00 Asia/Dhaka] PHP Notice:  Undefined variable: orderShippingPhone in /home/ticketchai/public_html/email/body/order.php on line 248
+[20-Feb-2017 16:04:00 Asia/Dhaka] PHP Notice:  Undefined variable: orderShippingFirstName in /home/ticketchai/public_html/email/body/order.php on line 249
+[20-Feb-2017 16:04:00 Asia/Dhaka] PHP Notice:  Undefined variable: orderShippingLastName in /home/ticketchai/public_html/email/body/order.php on line 249
+[20-Feb-2017 16:04:00 Asia/Dhaka] PHP Notice:  Undefined variable: orderBillingAddress in /home/ticketchai/public_html/email/body/order.php on line 253
+[20-Feb-2017 16:04:00 Asia/Dhaka] PHP Notice:  Undefined variable: orderBillingZip in /home/ticketchai/public_html/email/body/order.php on line 254
+[20-Feb-2017 16:04:00 Asia/Dhaka] PHP Notice:  Undefined variable: orderBillingCity in /home/ticketchai/public_html/email/body/order.php on line 254
+[20-Feb-2017 16:04:00 Asia/Dhaka] PHP Notice:  Undefined variable: orderBillingCountry in /home/ticketchai/public_html/email/body/order.php on line 255
+[20-Feb-2017 16:04:00 Asia/Dhaka] PHP Notice:  Undefined variable: orderBillingPhone in /home/ticketchai/public_html/email/body/order.php on line 256
+[20-Feb-2017 16:04:00 Asia/Dhaka] PHP Notice:  Undefined variable: orderBillingFirstName in /home/ticketchai/public_html/email/body/order.php on line 257
+[20-Feb-2017 16:04:00 Asia/Dhaka] PHP Notice:  Undefined variable: orderBillingLastName in /home/ticketchai/public_html/email/body/order.php on line 257
+[20-Feb-2017 16:04:00 Asia/Dhaka] PHP Notice:  Undefined variable: deliveryCost in /home/ticketchai/public_html/email/body/order.php on line 322
+[20-Feb-2017 16:04:00 Asia/Dhaka] PHP Notice:  Undefined variable: discountCost in /home/ticketchai/public_html/email/body/order.php on line 332
+[20-Feb-2017 16:04:00 Asia/Dhaka] PHP Notice:  Undefined variable: orderTotalAmount in /home/ticketchai/public_html/email/body/order.php on line 340
+[20-Feb-2017 16:04:00 Asia/Dhaka] PHP Notice:  Undefined variable: orderCouponDiscount in /home/ticketchai/public_html/email/body/order.php on line 343
+[20-Feb-2017 16:04:00 Asia/Dhaka] PHP Notice:  Undefined variable: orderCouponDiscount in /home/ticketchai/public_html/email/body/order.php on line 358
+[20-Feb-2017 16:04:00 Asia/Dhaka] PHP Notice:  Undefined variable: totalCost in /home/ticketchai/public_html/email/body/order.php on line 358
+[20-Feb-2017 16:04:54 Asia/Dhaka] PHP Notice:  Undefined variable: orderID in /home/ticketchai/public_html/email/body/order.php on line 106
+[20-Feb-2017 16:04:54 Asia/Dhaka] PHP Notice:  Undefined variable: ordertype in /home/ticketchai/public_html/email/body/order.php on line 204
+[20-Feb-2017 16:04:54 Asia/Dhaka] PHP Notice:  Undefined variable: ordertype in /home/ticketchai/public_html/email/body/order.php on line 207
+[20-Feb-2017 16:04:54 Asia/Dhaka] PHP Notice:  Undefined variable: ordertype in /home/ticketchai/public_html/email/body/order.php on line 207
+[20-Feb-2017 16:04:54 Asia/Dhaka] PHP Notice:  Undefined variable: orderUserName in /home/ticketchai/public_html/email/body/order.php on line 219
+[20-Feb-2017 16:04:54 Asia/Dhaka] PHP Notice:  Undefined variable: orderNumber in /home/ticketchai/public_html/email/body/order.php on line 227
+[20-Feb-2017 16:04:54 Asia/Dhaka] PHP Notice:  Undefined variable: orderStatus in /home/ticketchai/public_html/email/body/order.php on line 228
+[20-Feb-2017 16:04:54 Asia/Dhaka] PHP Notice:  Undefined variable: paymentMethod in /home/ticketchai/public_html/email/body/order.php on line 229
+[20-Feb-2017 16:04:54 Asia/Dhaka] PHP Notice:  Undefined variable: orderShippingAddress in /home/ticketchai/public_html/email/body/order.php on line 245
+[20-Feb-2017 16:04:54 Asia/Dhaka] PHP Notice:  Undefined variable: orderShippingZip in /home/ticketchai/public_html/email/body/order.php on line 246
+[20-Feb-2017 16:04:54 Asia/Dhaka] PHP Notice:  Undefined variable: orderShippingCity in /home/ticketchai/public_html/email/body/order.php on line 246
+[20-Feb-2017 16:04:54 Asia/Dhaka] PHP Notice:  Undefined variable: orderShippingCountry in /home/ticketchai/public_html/email/body/order.php on line 247
+[20-Feb-2017 16:04:54 Asia/Dhaka] PHP Notice:  Undefined variable: orderShippingPhone in /home/ticketchai/public_html/email/body/order.php on line 248
+[20-Feb-2017 16:04:54 Asia/Dhaka] PHP Notice:  Undefined variable: orderShippingFirstName in /home/ticketchai/public_html/email/body/order.php on line 249
+[20-Feb-2017 16:04:54 Asia/Dhaka] PHP Notice:  Undefined variable: orderShippingLastName in /home/ticketchai/public_html/email/body/order.php on line 249
+[20-Feb-2017 16:04:54 Asia/Dhaka] PHP Notice:  Undefined variable: orderBillingAddress in /home/ticketchai/public_html/email/body/order.php on line 253
+[20-Feb-2017 16:04:54 Asia/Dhaka] PHP Notice:  Undefined variable: orderBillingZip in /home/ticketchai/public_html/email/body/order.php on line 254
+[20-Feb-2017 16:04:54 Asia/Dhaka] PHP Notice:  Undefined variable: orderBillingCity in /home/ticketchai/public_html/email/body/order.php on line 254
+[20-Feb-2017 16:04:54 Asia/Dhaka] PHP Notice:  Undefined variable: orderBillingCountry in /home/ticketchai/public_html/email/body/order.php on line 255
+[20-Feb-2017 16:04:54 Asia/Dhaka] PHP Notice:  Undefined variable: orderBillingPhone in /home/ticketchai/public_html/email/body/order.php on line 256
+[20-Feb-2017 16:04:54 Asia/Dhaka] PHP Notice:  Undefined variable: orderBillingFirstName in /home/ticketchai/public_html/email/body/order.php on line 257
+[20-Feb-2017 16:04:54 Asia/Dhaka] PHP Notice:  Undefined variable: orderBillingLastName in /home/ticketchai/public_html/email/body/order.php on line 257
+[20-Feb-2017 16:04:54 Asia/Dhaka] PHP Notice:  Undefined variable: deliveryCost in /home/ticketchai/public_html/email/body/order.php on line 322
+[20-Feb-2017 16:04:54 Asia/Dhaka] PHP Notice:  Undefined variable: discountCost in /home/ticketchai/public_html/email/body/order.php on line 332
+[20-Feb-2017 16:04:54 Asia/Dhaka] PHP Notice:  Undefined variable: orderTotalAmount in /home/ticketchai/public_html/email/body/order.php on line 340
+[20-Feb-2017 16:04:54 Asia/Dhaka] PHP Notice:  Undefined variable: orderCouponDiscount in /home/ticketchai/public_html/email/body/order.php on line 343
+[20-Feb-2017 16:04:54 Asia/Dhaka] PHP Notice:  Undefined variable: orderCouponDiscount in /home/ticketchai/public_html/email/body/order.php on line 358
+[20-Feb-2017 16:04:54 Asia/Dhaka] PHP Notice:  Undefined variable: totalCost in /home/ticketchai/public_html/email/body/order.php on line 358
+[20-Feb-2017 16:08:47 Asia/Dhaka] PHP Notice:  Undefined variable: orderID in /home/ticketchai/public_html/email/body/order.php on line 106
+[20-Feb-2017 16:08:47 Asia/Dhaka] PHP Notice:  Undefined variable: ordertype in /home/ticketchai/public_html/email/body/order.php on line 204
+[20-Feb-2017 16:08:47 Asia/Dhaka] PHP Notice:  Undefined variable: ordertype in /home/ticketchai/public_html/email/body/order.php on line 207
+[20-Feb-2017 16:08:47 Asia/Dhaka] PHP Notice:  Undefined variable: ordertype in /home/ticketchai/public_html/email/body/order.php on line 207
+[20-Feb-2017 16:08:47 Asia/Dhaka] PHP Notice:  Undefined variable: orderUserName in /home/ticketchai/public_html/email/body/order.php on line 219
+[20-Feb-2017 16:08:47 Asia/Dhaka] PHP Notice:  Undefined variable: orderNumber in /home/ticketchai/public_html/email/body/order.php on line 227
+[20-Feb-2017 16:08:47 Asia/Dhaka] PHP Notice:  Undefined variable: orderStatus in /home/ticketchai/public_html/email/body/order.php on line 228
+[20-Feb-2017 16:08:47 Asia/Dhaka] PHP Notice:  Undefined variable: paymentMethod in /home/ticketchai/public_html/email/body/order.php on line 229
+[20-Feb-2017 16:08:47 Asia/Dhaka] PHP Notice:  Undefined variable: orderShippingAddress in /home/ticketchai/public_html/email/body/order.php on line 245
+[20-Feb-2017 16:08:47 Asia/Dhaka] PHP Notice:  Undefined variable: orderShippingZip in /home/ticketchai/public_html/email/body/order.php on line 246
+[20-Feb-2017 16:08:47 Asia/Dhaka] PHP Notice:  Undefined variable: orderShippingCity in /home/ticketchai/public_html/email/body/order.php on line 246
+[20-Feb-2017 16:08:47 Asia/Dhaka] PHP Notice:  Undefined variable: orderShippingCountry in /home/ticketchai/public_html/email/body/order.php on line 247
+[20-Feb-2017 16:08:47 Asia/Dhaka] PHP Notice:  Undefined variable: orderShippingPhone in /home/ticketchai/public_html/email/body/order.php on line 248
+[20-Feb-2017 16:08:47 Asia/Dhaka] PHP Notice:  Undefined variable: orderShippingFirstName in /home/ticketchai/public_html/email/body/order.php on line 249
+[20-Feb-2017 16:08:47 Asia/Dhaka] PHP Notice:  Undefined variable: orderShippingLastName in /home/ticketchai/public_html/email/body/order.php on line 249
+[20-Feb-2017 16:08:47 Asia/Dhaka] PHP Notice:  Undefined variable: orderBillingAddress in /home/ticketchai/public_html/email/body/order.php on line 253
+[20-Feb-2017 16:08:47 Asia/Dhaka] PHP Notice:  Undefined variable: orderBillingZip in /home/ticketchai/public_html/email/body/order.php on line 254
+[20-Feb-2017 16:08:47 Asia/Dhaka] PHP Notice:  Undefined variable: orderBillingCity in /home/ticketchai/public_html/email/body/order.php on line 254
+[20-Feb-2017 16:08:47 Asia/Dhaka] PHP Notice:  Undefined variable: orderBillingCountry in /home/ticketchai/public_html/email/body/order.php on line 255
+[20-Feb-2017 16:08:47 Asia/Dhaka] PHP Notice:  Undefined variable: orderBillingPhone in /home/ticketchai/public_html/email/body/order.php on line 256
+[20-Feb-2017 16:08:47 Asia/Dhaka] PHP Notice:  Undefined variable: orderBillingFirstName in /home/ticketchai/public_html/email/body/order.php on line 257
+[20-Feb-2017 16:08:47 Asia/Dhaka] PHP Notice:  Undefined variable: orderBillingLastName in /home/ticketchai/public_html/email/body/order.php on line 257
+[20-Feb-2017 16:08:47 Asia/Dhaka] PHP Notice:  Undefined variable: deliveryCost in /home/ticketchai/public_html/email/body/order.php on line 322
+[20-Feb-2017 16:08:47 Asia/Dhaka] PHP Notice:  Undefined variable: discountCost in /home/ticketchai/public_html/email/body/order.php on line 332
+[20-Feb-2017 16:08:47 Asia/Dhaka] PHP Notice:  Undefined variable: orderTotalAmount in /home/ticketchai/public_html/email/body/order.php on line 340
+[20-Feb-2017 16:08:47 Asia/Dhaka] PHP Notice:  Undefined variable: orderCouponDiscount in /home/ticketchai/public_html/email/body/order.php on line 343
+[20-Feb-2017 16:08:47 Asia/Dhaka] PHP Notice:  Undefined variable: orderCouponDiscount in /home/ticketchai/public_html/email/body/order.php on line 358
+[20-Feb-2017 16:08:47 Asia/Dhaka] PHP Notice:  Undefined variable: totalCost in /home/ticketchai/public_html/email/body/order.php on line 358
+[20-Feb-2017 16:10:48 Asia/Dhaka] PHP Warning:  require_once(../DBconnection/database_connections.php): failed to open stream: No such file or directory in /home/ticketchai/public_html/email/body/order.php on line 3
+[20-Feb-2017 16:10:48 Asia/Dhaka] PHP Fatal error:  require_once(): Failed opening required '../DBconnection/database_connections.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/ticketchai/public_html/email/body/order.php on line 3
+[20-Feb-2017 16:11:25 Asia/Dhaka] PHP Warning:  require_once(../DBconnection/database_connections.php): failed to open stream: No such file or directory in /home/ticketchai/public_html/email/body/order.php on line 3
+[20-Feb-2017 16:11:25 Asia/Dhaka] PHP Fatal error:  require_once(): Failed opening required '../DBconnection/database_connections.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/ticketchai/public_html/email/body/order.php on line 3
+[20-Feb-2017 16:11:44 Asia/Dhaka] PHP Warning:  require_once(../DBconnection/database_connections.php): failed to open stream: No such file or directory in /home/ticketchai/public_html/email/body/order.php on line 3
+[20-Feb-2017 16:11:44 Asia/Dhaka] PHP Fatal error:  require_once(): Failed opening required '../DBconnection/database_connections.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/ticketchai/public_html/email/body/order.php on line 3
+[20-Feb-2017 16:12:43 Asia/Dhaka] PHP Notice:  Undefined variable: ordertype in /home/ticketchai/public_html/email/body/order.php on line 205
+[20-Feb-2017 16:12:43 Asia/Dhaka] PHP Notice:  Undefined variable: ordertype in /home/ticketchai/public_html/email/body/order.php on line 208
+[20-Feb-2017 16:12:43 Asia/Dhaka] PHP Notice:  Undefined variable: ordertype in /home/ticketchai/public_html/email/body/order.php on line 208
+[20-Feb-2017 16:12:43 Asia/Dhaka] PHP Notice:  Undefined variable: orderUserName in /home/ticketchai/public_html/email/body/order.php on line 220
+[20-Feb-2017 16:12:43 Asia/Dhaka] PHP Notice:  Undefined variable: orderNumber in /home/ticketchai/public_html/email/body/order.php on line 228
+[20-Feb-2017 16:12:43 Asia/Dhaka] PHP Notice:  Undefined variable: orderStatus in /home/ticketchai/public_html/email/body/order.php on line 229
+[20-Feb-2017 16:12:43 Asia/Dhaka] PHP Notice:  Undefined variable: paymentMethod in /home/ticketchai/public_html/email/body/order.php on line 230
+[20-Feb-2017 16:12:43 Asia/Dhaka] PHP Notice:  Undefined variable: orderShippingAddress in /home/ticketchai/public_html/email/body/order.php on line 246
+[20-Feb-2017 16:12:43 Asia/Dhaka] PHP Notice:  Undefined variable: orderShippingZip in /home/ticketchai/public_html/email/body/order.php on line 247
+[20-Feb-2017 16:12:43 Asia/Dhaka] PHP Notice:  Undefined variable: orderShippingCity in /home/ticketchai/public_html/email/body/order.php on line 247
+[20-Feb-2017 16:12:43 Asia/Dhaka] PHP Notice:  Undefined variable: orderShippingCountry in /home/ticketchai/public_html/email/body/order.php on line 248
+[20-Feb-2017 16:12:44 Asia/Dhaka] PHP Notice:  Undefined variable: orderShippingPhone in /home/ticketchai/public_html/email/body/order.php on line 249
+[20-Feb-2017 16:12:44 Asia/Dhaka] PHP Notice:  Undefined variable: orderShippingFirstName in /home/ticketchai/public_html/email/body/order.php on line 250
+[20-Feb-2017 16:12:44 Asia/Dhaka] PHP Notice:  Undefined variable: orderShippingLastName in /home/ticketchai/public_html/email/body/order.php on line 250
+[20-Feb-2017 16:12:44 Asia/Dhaka] PHP Notice:  Undefined variable: orderBillingAddress in /home/ticketchai/public_html/email/body/order.php on line 254
+[20-Feb-2017 16:12:44 Asia/Dhaka] PHP Notice:  Undefined variable: orderBillingZip in /home/ticketchai/public_html/email/body/order.php on line 255
+[20-Feb-2017 16:12:44 Asia/Dhaka] PHP Notice:  Undefined variable: orderBillingCity in /home/ticketchai/public_html/email/body/order.php on line 255
+[20-Feb-2017 16:12:44 Asia/Dhaka] PHP Notice:  Undefined variable: orderBillingCountry in /home/ticketchai/public_html/email/body/order.php on line 256
+[20-Feb-2017 16:12:44 Asia/Dhaka] PHP Notice:  Undefined variable: orderBillingPhone in /home/ticketchai/public_html/email/body/order.php on line 257
+[20-Feb-2017 16:12:44 Asia/Dhaka] PHP Notice:  Undefined variable: orderBillingFirstName in /home/ticketchai/public_html/email/body/order.php on line 258
+[20-Feb-2017 16:12:44 Asia/Dhaka] PHP Notice:  Undefined variable: orderBillingLastName in /home/ticketchai/public_html/email/body/order.php on line 258
+[20-Feb-2017 16:12:44 Asia/Dhaka] PHP Notice:  Undefined variable: deliveryCost in /home/ticketchai/public_html/email/body/order.php on line 323
+[20-Feb-2017 16:12:44 Asia/Dhaka] PHP Notice:  Undefined variable: discountCost in /home/ticketchai/public_html/email/body/order.php on line 333
+[20-Feb-2017 16:12:44 Asia/Dhaka] PHP Notice:  Undefined variable: orderTotalAmount in /home/ticketchai/public_html/email/body/order.php on line 341
+[20-Feb-2017 16:12:44 Asia/Dhaka] PHP Notice:  Undefined variable: orderCouponDiscount in /home/ticketchai/public_html/email/body/order.php on line 344
+[20-Feb-2017 16:12:44 Asia/Dhaka] PHP Notice:  Undefined variable: orderCouponDiscount in /home/ticketchai/public_html/email/body/order.php on line 359
+[20-Feb-2017 16:12:44 Asia/Dhaka] PHP Notice:  Undefined variable: totalCost in /home/ticketchai/public_html/email/body/order.php on line 359
+[20-Feb-2017 16:13:16 Asia/Dhaka] PHP Notice:  Undefined variable: ordertype in /home/ticketchai/public_html/email/body/order.php on line 205
+[20-Feb-2017 16:13:16 Asia/Dhaka] PHP Notice:  Undefined variable: ordertype in /home/ticketchai/public_html/email/body/order.php on line 208
+[20-Feb-2017 16:13:16 Asia/Dhaka] PHP Notice:  Undefined variable: ordertype in /home/ticketchai/public_html/email/body/order.php on line 208
+[20-Feb-2017 16:13:16 Asia/Dhaka] PHP Notice:  Undefined variable: orderUserName in /home/ticketchai/public_html/email/body/order.php on line 220
+[20-Feb-2017 16:13:16 Asia/Dhaka] PHP Notice:  Undefined variable: orderNumber in /home/ticketchai/public_html/email/body/order.php on line 228
+[20-Feb-2017 16:13:16 Asia/Dhaka] PHP Notice:  Undefined variable: orderStatus in /home/ticketchai/public_html/email/body/order.php on line 229
+[20-Feb-2017 16:13:16 Asia/Dhaka] PHP Notice:  Undefined variable: paymentMethod in /home/ticketchai/public_html/email/body/order.php on line 230
+[20-Feb-2017 16:13:16 Asia/Dhaka] PHP Notice:  Undefined variable: orderShippingAddress in /home/ticketchai/public_html/email/body/order.php on line 246
+[20-Feb-2017 16:13:16 Asia/Dhaka] PHP Notice:  Undefined variable: orderShippingZip in /home/ticketchai/public_html/email/body/order.php on line 247
+[20-Feb-2017 16:13:16 Asia/Dhaka] PHP Notice:  Undefined variable: orderShippingCity in /home/ticketchai/public_html/email/body/order.php on line 247
+[20-Feb-2017 16:13:16 Asia/Dhaka] PHP Notice:  Undefined variable: orderShippingCountry in /home/ticketchai/public_html/email/body/order.php on line 248
+[20-Feb-2017 16:13:16 Asia/Dhaka] PHP Notice:  Undefined variable: orderShippingPhone in /home/ticketchai/public_html/email/body/order.php on line 249
+[20-Feb-2017 16:13:16 Asia/Dhaka] PHP Notice:  Undefined variable: orderShippingFirstName in /home/ticketchai/public_html/email/body/order.php on line 250
+[20-Feb-2017 16:13:16 Asia/Dhaka] PHP Notice:  Undefined variable: orderShippingLastName in /home/ticketchai/public_html/email/body/order.php on line 250
+[20-Feb-2017 16:13:16 Asia/Dhaka] PHP Notice:  Undefined variable: orderBillingAddress in /home/ticketchai/public_html/email/body/order.php on line 254
+[20-Feb-2017 16:13:16 Asia/Dhaka] PHP Notice:  Undefined variable: orderBillingZip in /home/ticketchai/public_html/email/body/order.php on line 255
+[20-Feb-2017 16:13:16 Asia/Dhaka] PHP Notice:  Undefined variable: orderBillingCity in /home/ticketchai/public_html/email/body/order.php on line 255
+[20-Feb-2017 16:13:16 Asia/Dhaka] PHP Notice:  Undefined variable: orderBillingCountry in /home/ticketchai/public_html/email/body/order.php on line 256
+[20-Feb-2017 16:13:16 Asia/Dhaka] PHP Notice:  Undefined variable: orderBillingPhone in /home/ticketchai/public_html/email/body/order.php on line 257
+[20-Feb-2017 16:13:16 Asia/Dhaka] PHP Notice:  Undefined variable: orderBillingFirstName in /home/ticketchai/public_html/email/body/order.php on line 258
+[20-Feb-2017 16:13:16 Asia/Dhaka] PHP Notice:  Undefined variable: orderBillingLastName in /home/ticketchai/public_html/email/body/order.php on line 258
+[20-Feb-2017 16:13:16 Asia/Dhaka] PHP Notice:  Undefined variable: deliveryCost in /home/ticketchai/public_html/email/body/order.php on line 323
+[20-Feb-2017 16:13:16 Asia/Dhaka] PHP Notice:  Undefined variable: discountCost in /home/ticketchai/public_html/email/body/order.php on line 333
+[20-Feb-2017 16:13:16 Asia/Dhaka] PHP Notice:  Undefined variable: orderTotalAmount in /home/ticketchai/public_html/email/body/order.php on line 341
+[20-Feb-2017 16:13:16 Asia/Dhaka] PHP Notice:  Undefined variable: orderCouponDiscount in /home/ticketchai/public_html/email/body/order.php on line 344
+[20-Feb-2017 16:13:16 Asia/Dhaka] PHP Notice:  Undefined variable: orderCouponDiscount in /home/ticketchai/public_html/email/body/order.php on line 359
+[20-Feb-2017 16:13:16 Asia/Dhaka] PHP Notice:  Undefined variable: totalCost in /home/ticketchai/public_html/email/body/order.php on line 359
+[20-Feb-2017 16:18:10 Asia/Dhaka] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ticketchai/public_html/email/body/order.php on line 73
+[20-Feb-2017 16:18:10 Asia/Dhaka] PHP Notice:  Undefined variable: ordertype in /home/ticketchai/public_html/email/body/order.php on line 124
+[20-Feb-2017 16:18:10 Asia/Dhaka] PHP Notice:  Undefined variable: ordertype in /home/ticketchai/public_html/email/body/order.php on line 127
+[20-Feb-2017 16:18:10 Asia/Dhaka] PHP Notice:  Undefined variable: ordertype in /home/ticketchai/public_html/email/body/order.php on line 127
+[20-Feb-2017 16:18:10 Asia/Dhaka] PHP Notice:  Undefined variable: orderUserName in /home/ticketchai/public_html/email/body/order.php on line 139
+[20-Feb-2017 16:18:10 Asia/Dhaka] PHP Notice:  Array to string conversion in /home/ticketchai/public_html/email/body/order.php on line 147
+[20-Feb-2017 16:18:10 Asia/Dhaka] PHP Notice:  Undefined variable: orderStatus in /home/ticketchai/public_html/email/body/order.php on line 148
+[20-Feb-2017 16:18:10 Asia/Dhaka] PHP Notice:  Undefined variable: paymentMethod in /home/ticketchai/public_html/email/body/order.php on line 149
+[20-Feb-2017 16:18:10 Asia/Dhaka] PHP Notice:  Undefined variable: orderShippingAddress in /home/ticketchai/public_html/email/body/order.php on line 165
+[20-Feb-2017 16:18:10 Asia/Dhaka] PHP Notice:  Undefined variable: orderShippingZip in /home/ticketchai/public_html/email/body/order.php on line 166
+[20-Feb-2017 16:18:10 Asia/Dhaka] PHP Notice:  Undefined variable: orderShippingCity in /home/ticketchai/public_html/email/body/order.php on line 166
+[20-Feb-2017 16:18:10 Asia/Dhaka] PHP Notice:  Undefined variable: orderShippingCountry in /home/ticketchai/public_html/email/body/order.php on line 167
+[20-Feb-2017 16:18:10 Asia/Dhaka] PHP Notice:  Undefined variable: orderShippingPhone in /home/ticketchai/public_html/email/body/order.php on line 168
+[20-Feb-2017 16:18:10 Asia/Dhaka] PHP Notice:  Undefined variable: orderShippingFirstName in /home/ticketchai/public_html/email/body/order.php on line 169
+[20-Feb-2017 16:18:10 Asia/Dhaka] PHP Notice:  Undefined variable: orderShippingLastName in /home/ticketchai/public_html/email/body/order.php on line 169
+[20-Feb-2017 16:18:10 Asia/Dhaka] PHP Notice:  Undefined variable: orderBillingAddress in /home/ticketchai/public_html/email/body/order.php on line 173
+[20-Feb-2017 16:18:10 Asia/Dhaka] PHP Notice:  Undefined variable: orderBillingZip in /home/ticketchai/public_html/email/body/order.php on line 174
+[20-Feb-2017 16:18:10 Asia/Dhaka] PHP Notice:  Undefined variable: orderBillingCity in /home/ticketchai/public_html/email/body/order.php on line 174
+[20-Feb-2017 16:18:10 Asia/Dhaka] PHP Notice:  Undefined variable: orderBillingCountry in /home/ticketchai/public_html/email/body/order.php on line 175
+[20-Feb-2017 16:18:10 Asia/Dhaka] PHP Notice:  Undefined variable: orderBillingPhone in /home/ticketchai/public_html/email/body/order.php on line 176
+[20-Feb-2017 16:18:10 Asia/Dhaka] PHP Notice:  Undefined variable: orderBillingFirstName in /home/ticketchai/public_html/email/body/order.php on line 177
+[20-Feb-2017 16:18:10 Asia/Dhaka] PHP Notice:  Undefined variable: orderBillingLastName in /home/ticketchai/public_html/email/body/order.php on line 177
+[20-Feb-2017 16:18:10 Asia/Dhaka] PHP Notice:  Undefined variable: newArrTickets in /home/ticketchai/public_html/email/body/order.php on line 195
+[20-Feb-2017 16:18:10 Asia/Dhaka] PHP Notice:  Undefined variable: newarrSeats in /home/ticketchai/public_html/email/body/order.php on line 214
+[20-Feb-2017 16:18:10 Asia/Dhaka] PHP Notice:  Undefined variable: deliveryCost in /home/ticketchai/public_html/email/body/order.php on line 242
+[20-Feb-2017 16:18:10 Asia/Dhaka] PHP Notice:  Undefined variable: discountCost in /home/ticketchai/public_html/email/body/order.php on line 252
+[20-Feb-2017 16:18:10 Asia/Dhaka] PHP Notice:  Undefined variable: orderTotalAmount in /home/ticketchai/public_html/email/body/order.php on line 260
+[20-Feb-2017 16:18:10 Asia/Dhaka] PHP Notice:  Undefined variable: orderCouponDiscount in /home/ticketchai/public_html/email/body/order.php on line 263
+[20-Feb-2017 16:18:10 Asia/Dhaka] PHP Notice:  Undefined variable: orderCouponDiscount in /home/ticketchai/public_html/email/body/order.php on line 278
+[20-Feb-2017 16:18:10 Asia/Dhaka] PHP Notice:  Undefined variable: totalCost in /home/ticketchai/public_html/email/body/order.php on line 278
+[20-Feb-2017 17:05:46 Asia/Dhaka] PHP Notice:  Undefined variable: orderID in /home/ticketchai/public_html/email/body/order.php on line 107
+[20-Feb-2017 17:05:46 Asia/Dhaka] PHP Notice:  Undefined variable: ordertype in /home/ticketchai/public_html/email/body/order.php on line 205
+[20-Feb-2017 17:05:46 Asia/Dhaka] PHP Notice:  Undefined variable: ordertype in /home/ticketchai/public_html/email/body/order.php on line 208
+[20-Feb-2017 17:05:46 Asia/Dhaka] PHP Notice:  Undefined variable: ordertype in /home/ticketchai/public_html/email/body/order.php on line 208
+[20-Feb-2017 17:05:46 Asia/Dhaka] PHP Notice:  Undefined variable: orderUserName in /home/ticketchai/public_html/email/body/order.php on line 220
+[20-Feb-2017 17:05:46 Asia/Dhaka] PHP Notice:  Undefined variable: orderNumber in /home/ticketchai/public_html/email/body/order.php on line 228
+[20-Feb-2017 17:05:46 Asia/Dhaka] PHP Notice:  Undefined variable: orderStatus in /home/ticketchai/public_html/email/body/order.php on line 229
+[20-Feb-2017 17:05:46 Asia/Dhaka] PHP Notice:  Undefined variable: paymentMethod in /home/ticketchai/public_html/email/body/order.php on line 230
+[20-Feb-2017 17:05:46 Asia/Dhaka] PHP Notice:  Undefined variable: orderShippingAddress in /home/ticketchai/public_html/email/body/order.php on line 246
+[20-Feb-2017 17:05:46 Asia/Dhaka] PHP Notice:  Undefined variable: orderShippingZip in /home/ticketchai/public_html/email/body/order.php on line 247
+[20-Feb-2017 17:05:46 Asia/Dhaka] PHP Notice:  Undefined variable: orderShippingCity in /home/ticketchai/public_html/email/body/order.php on line 247
+[20-Feb-2017 17:05:46 Asia/Dhaka] PHP Notice:  Undefined variable: orderShippingCountry in /home/ticketchai/public_html/email/body/order.php on line 248
+[20-Feb-2017 17:05:46 Asia/Dhaka] PHP Notice:  Undefined variable: orderShippingPhone in /home/ticketchai/public_html/email/body/order.php on line 249
+[20-Feb-2017 17:05:46 Asia/Dhaka] PHP Notice:  Undefined variable: orderShippingFirstName in /home/ticketchai/public_html/email/body/order.php on line 250
+[20-Feb-2017 17:05:46 Asia/Dhaka] PHP Notice:  Undefined variable: orderShippingLastName in /home/ticketchai/public_html/email/body/order.php on line 250
+[20-Feb-2017 17:05:46 Asia/Dhaka] PHP Notice:  Undefined variable: orderBillingAddress in /home/ticketchai/public_html/email/body/order.php on line 254
+[20-Feb-2017 17:05:46 Asia/Dhaka] PHP Notice:  Undefined variable: orderBillingZip in /home/ticketchai/public_html/email/body/order.php on line 255
+[20-Feb-2017 17:05:46 Asia/Dhaka] PHP Notice:  Undefined variable: orderBillingCity in /home/ticketchai/public_html/email/body/order.php on line 255
+[20-Feb-2017 17:05:46 Asia/Dhaka] PHP Notice:  Undefined variable: orderBillingCountry in /home/ticketchai/public_html/email/body/order.php on line 256
+[20-Feb-2017 17:05:46 Asia/Dhaka] PHP Notice:  Undefined variable: orderBillingPhone in /home/ticketchai/public_html/email/body/order.php on line 257
+[20-Feb-2017 17:05:46 Asia/Dhaka] PHP Notice:  Undefined variable: orderBillingFirstName in /home/ticketchai/public_html/email/body/order.php on line 258
+[20-Feb-2017 17:05:46 Asia/Dhaka] PHP Notice:  Undefined variable: orderBillingLastName in /home/ticketchai/public_html/email/body/order.php on line 258
+[20-Feb-2017 17:05:46 Asia/Dhaka] PHP Notice:  Undefined variable: deliveryCost in /home/ticketchai/public_html/email/body/order.php on line 323
+[20-Feb-2017 17:05:46 Asia/Dhaka] PHP Notice:  Undefined variable: discountCost in /home/ticketchai/public_html/email/body/order.php on line 333
+[20-Feb-2017 17:05:46 Asia/Dhaka] PHP Notice:  Undefined variable: orderTotalAmount in /home/ticketchai/public_html/email/body/order.php on line 341
+[20-Feb-2017 17:05:46 Asia/Dhaka] PHP Notice:  Undefined variable: orderCouponDiscount in /home/ticketchai/public_html/email/body/order.php on line 344
+[20-Feb-2017 17:05:46 Asia/Dhaka] PHP Notice:  Undefined variable: orderCouponDiscount in /home/ticketchai/public_html/email/body/order.php on line 359
+[20-Feb-2017 17:05:46 Asia/Dhaka] PHP Notice:  Undefined variable: totalCost in /home/ticketchai/public_html/email/body/order.php on line 359
+[20-Feb-2017 17:09:08 Asia/Dhaka] PHP Notice:  Undefined variable: orderID in /home/ticketchai/public_html/email/body/order.php on line 107
+[20-Feb-2017 17:09:08 Asia/Dhaka] PHP Notice:  Undefined variable: resultOrderDetailsObj in /home/ticketchai/public_html/email/body/order.php on line 178
+[20-Feb-2017 17:09:08 Asia/Dhaka] PHP Notice:  Undefined variable: ordertype in /home/ticketchai/public_html/email/body/order.php on line 206
+[20-Feb-2017 17:09:08 Asia/Dhaka] PHP Notice:  Undefined variable: ordertype in /home/ticketchai/public_html/email/body/order.php on line 209
+[20-Feb-2017 17:09:08 Asia/Dhaka] PHP Notice:  Undefined variable: ordertype in /home/ticketchai/public_html/email/body/order.php on line 209
+[20-Feb-2017 17:09:08 Asia/Dhaka] PHP Notice:  Undefined variable: orderUserName in /home/ticketchai/public_html/email/body/order.php on line 221
+[20-Feb-2017 17:09:08 Asia/Dhaka] PHP Notice:  Undefined variable: orderNumber in /home/ticketchai/public_html/email/body/order.php on line 229
+[20-Feb-2017 17:09:08 Asia/Dhaka] PHP Notice:  Undefined variable: orderStatus in /home/ticketchai/public_html/email/body/order.php on line 230
+[20-Feb-2017 17:09:08 Asia/Dhaka] PHP Notice:  Undefined variable: paymentMethod in /home/ticketchai/public_html/email/body/order.php on line 231
+[20-Feb-2017 17:09:08 Asia/Dhaka] PHP Notice:  Undefined variable: orderShippingAddress in /home/ticketchai/public_html/email/body/order.php on line 247
+[20-Feb-2017 17:09:08 Asia/Dhaka] PHP Notice:  Undefined variable: orderShippingZip in /home/ticketchai/public_html/email/body/order.php on line 248
+[20-Feb-2017 17:09:08 Asia/Dhaka] PHP Notice:  Undefined variable: orderShippingCity in /home/ticketchai/public_html/email/body/order.php on line 248
+[20-Feb-2017 17:09:08 Asia/Dhaka] PHP Notice:  Undefined variable: orderShippingCountry in /home/ticketchai/public_html/email/body/order.php on line 249
+[20-Feb-2017 17:09:08 Asia/Dhaka] PHP Notice:  Undefined variable: orderShippingPhone in /home/ticketchai/public_html/email/body/order.php on line 250
+[20-Feb-2017 17:09:08 Asia/Dhaka] PHP Notice:  Undefined variable: orderShippingFirstName in /home/ticketchai/public_html/email/body/order.php on line 251
+[20-Feb-2017 17:09:08 Asia/Dhaka] PHP Notice:  Undefined variable: orderShippingLastName in /home/ticketchai/public_html/email/body/order.php on line 251
+[20-Feb-2017 17:09:08 Asia/Dhaka] PHP Notice:  Undefined variable: orderBillingAddress in /home/ticketchai/public_html/email/body/order.php on line 255
+[20-Feb-2017 17:09:08 Asia/Dhaka] PHP Notice:  Undefined variable: orderBillingZip in /home/ticketchai/public_html/email/body/order.php on line 256
+[20-Feb-2017 17:09:08 Asia/Dhaka] PHP Notice:  Undefined variable: orderBillingCity in /home/ticketchai/public_html/email/body/order.php on line 256
+[20-Feb-2017 17:09:08 Asia/Dhaka] PHP Notice:  Undefined variable: orderBillingCountry in /home/ticketchai/public_html/email/body/order.php on line 257
+[20-Feb-2017 17:09:08 Asia/Dhaka] PHP Notice:  Undefined variable: orderBillingPhone in /home/ticketchai/public_html/email/body/order.php on line 258
+[20-Feb-2017 17:09:08 Asia/Dhaka] PHP Notice:  Undefined variable: orderBillingFirstName in /home/ticketchai/public_html/email/body/order.php on line 259
+[20-Feb-2017 17:09:08 Asia/Dhaka] PHP Notice:  Undefined variable: orderBillingLastName in /home/ticketchai/public_html/email/body/order.php on line 259
+[20-Feb-2017 17:09:08 Asia/Dhaka] PHP Notice:  Undefined variable: deliveryCost in /home/ticketchai/public_html/email/body/order.php on line 324
+[20-Feb-2017 17:09:08 Asia/Dhaka] PHP Notice:  Undefined variable: discountCost in /home/ticketchai/public_html/email/body/order.php on line 334
+[20-Feb-2017 17:09:08 Asia/Dhaka] PHP Notice:  Undefined variable: orderTotalAmount in /home/ticketchai/public_html/email/body/order.php on line 342
+[20-Feb-2017 17:09:08 Asia/Dhaka] PHP Notice:  Undefined variable: orderCouponDiscount in /home/ticketchai/public_html/email/body/order.php on line 345
+[20-Feb-2017 17:09:08 Asia/Dhaka] PHP Notice:  Undefined variable: orderCouponDiscount in /home/ticketchai/public_html/email/body/order.php on line 360
+[20-Feb-2017 17:09:08 Asia/Dhaka] PHP Notice:  Undefined variable: totalCost in /home/ticketchai/public_html/email/body/order.php on line 360
+[20-Feb-2017 17:29:10 Asia/Dhaka] PHP Notice:  Undefined variable: ordertype in /home/ticketchai/public_html/email/body/order.php on line 206
+[20-Feb-2017 17:29:10 Asia/Dhaka] PHP Notice:  Undefined variable: ordertype in /home/ticketchai/public_html/email/body/order.php on line 209
+[20-Feb-2017 17:29:10 Asia/Dhaka] PHP Notice:  Undefined variable: ordertype in /home/ticketchai/public_html/email/body/order.php on line 209
+[20-Feb-2017 17:29:10 Asia/Dhaka] PHP Notice:  Undefined variable: orderUserName in /home/ticketchai/public_html/email/body/order.php on line 221
+[20-Feb-2017 17:29:10 Asia/Dhaka] PHP Notice:  Undefined variable: orderNumber in /home/ticketchai/public_html/email/body/order.php on line 229
+[20-Feb-2017 17:29:10 Asia/Dhaka] PHP Notice:  Undefined variable: orderStatus in /home/ticketchai/public_html/email/body/order.php on line 230
+[20-Feb-2017 17:29:10 Asia/Dhaka] PHP Notice:  Undefined variable: paymentMethod in /home/ticketchai/public_html/email/body/order.php on line 231
+[20-Feb-2017 17:29:10 Asia/Dhaka] PHP Notice:  Undefined variable: orderShippingAddress in /home/ticketchai/public_html/email/body/order.php on line 247
+[20-Feb-2017 17:29:10 Asia/Dhaka] PHP Notice:  Undefined variable: orderShippingZip in /home/ticketchai/public_html/email/body/order.php on line 248
+[20-Feb-2017 17:29:10 Asia/Dhaka] PHP Notice:  Undefined variable: orderShippingCity in /home/ticketchai/public_html/email/body/order.php on line 248
+[20-Feb-2017 17:29:10 Asia/Dhaka] PHP Notice:  Undefined variable: orderShippingCountry in /home/ticketchai/public_html/email/body/order.php on line 249
+[20-Feb-2017 17:29:10 Asia/Dhaka] PHP Notice:  Undefined variable: orderShippingPhone in /home/ticketchai/public_html/email/body/order.php on line 250
+[20-Feb-2017 17:29:10 Asia/Dhaka] PHP Notice:  Undefined variable: orderShippingFirstName in /home/ticketchai/public_html/email/body/order.php on line 251
+[20-Feb-2017 17:29:10 Asia/Dhaka] PHP Notice:  Undefined variable: orderShippingLastName in /home/ticketchai/public_html/email/body/order.php on line 251
+[20-Feb-2017 17:29:10 Asia/Dhaka] PHP Notice:  Undefined variable: orderBillingAddress in /home/ticketchai/public_html/email/body/order.php on line 255
+[20-Feb-2017 17:29:10 Asia/Dhaka] PHP Notice:  Undefined variable: orderBillingZip in /home/ticketchai/public_html/email/body/order.php on line 256
+[20-Feb-2017 17:29:10 Asia/Dhaka] PHP Notice:  Undefined variable: orderBillingCity in /home/ticketchai/public_html/email/body/order.php on line 256
+[20-Feb-2017 17:29:10 Asia/Dhaka] PHP Notice:  Undefined variable: orderBillingCountry in /home/ticketchai/public_html/email/body/order.php on line 257
+[20-Feb-2017 17:29:10 Asia/Dhaka] PHP Notice:  Undefined variable: orderBillingPhone in /home/ticketchai/public_html/email/body/order.php on line 258
+[20-Feb-2017 17:29:10 Asia/Dhaka] PHP Notice:  Undefined variable: orderBillingFirstName in /home/ticketchai/public_html/email/body/order.php on line 259
+[20-Feb-2017 17:29:10 Asia/Dhaka] PHP Notice:  Undefined variable: orderBillingLastName in /home/ticketchai/public_html/email/body/order.php on line 259
+[20-Feb-2017 17:29:10 Asia/Dhaka] PHP Notice:  Undefined variable: deliveryCost in /home/ticketchai/public_html/email/body/order.php on line 324
+[20-Feb-2017 17:29:10 Asia/Dhaka] PHP Notice:  Undefined variable: discountCost in /home/ticketchai/public_html/email/body/order.php on line 334
+[20-Feb-2017 17:29:10 Asia/Dhaka] PHP Notice:  Undefined variable: orderTotalAmount in /home/ticketchai/public_html/email/body/order.php on line 342
+[20-Feb-2017 17:29:10 Asia/Dhaka] PHP Notice:  Undefined variable: orderCouponDiscount in /home/ticketchai/public_html/email/body/order.php on line 345
+[20-Feb-2017 17:29:10 Asia/Dhaka] PHP Notice:  Undefined variable: orderCouponDiscount in /home/ticketchai/public_html/email/body/order.php on line 360
+[20-Feb-2017 17:29:10 Asia/Dhaka] PHP Notice:  Undefined variable: totalCost in /home/ticketchai/public_html/email/body/order.php on line 360
+[20-Feb-2017 17:30:58 Asia/Dhaka] PHP Notice:  Undefined variable: ordertype in /home/ticketchai/public_html/email/body/order.php on line 206
+[20-Feb-2017 17:30:58 Asia/Dhaka] PHP Notice:  Undefined variable: ordertype in /home/ticketchai/public_html/email/body/order.php on line 209
+[20-Feb-2017 17:30:58 Asia/Dhaka] PHP Notice:  Undefined variable: ordertype in /home/ticketchai/public_html/email/body/order.php on line 209
+[20-Feb-2017 17:30:58 Asia/Dhaka] PHP Notice:  Undefined variable: orderUserName in /home/ticketchai/public_html/email/body/order.php on line 221
+[20-Feb-2017 17:30:58 Asia/Dhaka] PHP Notice:  Undefined variable: orderNumber in /home/ticketchai/public_html/email/body/order.php on line 229
+[20-Feb-2017 17:30:58 Asia/Dhaka] PHP Notice:  Undefined variable: orderStatus in /home/ticketchai/public_html/email/body/order.php on line 230
+[20-Feb-2017 17:30:58 Asia/Dhaka] PHP Notice:  Undefined variable: paymentMethod in /home/ticketchai/public_html/email/body/order.php on line 231
+[20-Feb-2017 17:30:58 Asia/Dhaka] PHP Notice:  Undefined variable: orderShippingAddress in /home/ticketchai/public_html/email/body/order.php on line 247
+[20-Feb-2017 17:30:58 Asia/Dhaka] PHP Notice:  Undefined variable: orderShippingZip in /home/ticketchai/public_html/email/body/order.php on line 248
+[20-Feb-2017 17:30:58 Asia/Dhaka] PHP Notice:  Undefined variable: orderShippingCity in /home/ticketchai/public_html/email/body/order.php on line 248
+[20-Feb-2017 17:30:58 Asia/Dhaka] PHP Notice:  Undefined variable: orderShippingCountry in /home/ticketchai/public_html/email/body/order.php on line 249
+[20-Feb-2017 17:30:58 Asia/Dhaka] PHP Notice:  Undefined variable: orderShippingPhone in /home/ticketchai/public_html/email/body/order.php on line 250
+[20-Feb-2017 17:30:58 Asia/Dhaka] PHP Notice:  Undefined variable: orderShippingFirstName in /home/ticketchai/public_html/email/body/order.php on line 251
+[20-Feb-2017 17:30:58 Asia/Dhaka] PHP Notice:  Undefined variable: orderShippingLastName in /home/ticketchai/public_html/email/body/order.php on line 251
+[20-Feb-2017 17:30:58 Asia/Dhaka] PHP Notice:  Undefined variable: orderBillingAddress in /home/ticketchai/public_html/email/body/order.php on line 255
+[20-Feb-2017 17:30:58 Asia/Dhaka] PHP Notice:  Undefined variable: orderBillingZip in /home/ticketchai/public_html/email/body/order.php on line 256
+[20-Feb-2017 17:30:58 Asia/Dhaka] PHP Notice:  Undefined variable: orderBillingCity in /home/ticketchai/public_html/email/body/order.php on line 256
+[20-Feb-2017 17:30:58 Asia/Dhaka] PHP Notice:  Undefined variable: orderBillingCountry in /home/ticketchai/public_html/email/body/order.php on line 257
+[20-Feb-2017 17:30:58 Asia/Dhaka] PHP Notice:  Undefined variable: orderBillingPhone in /home/ticketchai/public_html/email/body/order.php on line 258
+[20-Feb-2017 17:30:58 Asia/Dhaka] PHP Notice:  Undefined variable: orderBillingFirstName in /home/ticketchai/public_html/email/body/order.php on line 259
+[20-Feb-2017 17:30:58 Asia/Dhaka] PHP Notice:  Undefined variable: orderBillingLastName in /home/ticketchai/public_html/email/body/order.php on line 259
+[20-Feb-2017 17:30:58 Asia/Dhaka] PHP Notice:  Undefined variable: deliveryCost in /home/ticketchai/public_html/email/body/order.php on line 324
+[20-Feb-2017 17:30:58 Asia/Dhaka] PHP Notice:  Undefined variable: discountCost in /home/ticketchai/public_html/email/body/order.php on line 334
+[20-Feb-2017 17:30:58 Asia/Dhaka] PHP Notice:  Undefined variable: orderTotalAmount in /home/ticketchai/public_html/email/body/order.php on line 342
+[20-Feb-2017 17:30:58 Asia/Dhaka] PHP Notice:  Undefined variable: orderCouponDiscount in /home/ticketchai/public_html/email/body/order.php on line 345
+[20-Feb-2017 17:30:58 Asia/Dhaka] PHP Notice:  Undefined variable: orderCouponDiscount in /home/ticketchai/public_html/email/body/order.php on line 360
+[20-Feb-2017 17:30:58 Asia/Dhaka] PHP Notice:  Undefined variable: totalCost in /home/ticketchai/public_html/email/body/order.php on line 360
+[20-Feb-2017 17:35:54 Asia/Dhaka] PHP Notice:  Undefined variable: ordertype in /home/ticketchai/public_html/email/body/order.php on line 206
+[20-Feb-2017 17:35:54 Asia/Dhaka] PHP Notice:  Undefined variable: ordertype in /home/ticketchai/public_html/email/body/order.php on line 209
+[20-Feb-2017 17:35:54 Asia/Dhaka] PHP Notice:  Undefined variable: ordertype in /home/ticketchai/public_html/email/body/order.php on line 209
+[20-Feb-2017 17:35:54 Asia/Dhaka] PHP Notice:  Undefined variable: orderUserName in /home/ticketchai/public_html/email/body/order.php on line 221
+[20-Feb-2017 17:35:54 Asia/Dhaka] PHP Notice:  Undefined variable: orderNumber in /home/ticketchai/public_html/email/body/order.php on line 229
+[20-Feb-2017 17:35:54 Asia/Dhaka] PHP Notice:  Undefined variable: orderStatus in /home/ticketchai/public_html/email/body/order.php on line 230
+[20-Feb-2017 17:35:54 Asia/Dhaka] PHP Notice:  Undefined variable: paymentMethod in /home/ticketchai/public_html/email/body/order.php on line 231
+[20-Feb-2017 17:35:54 Asia/Dhaka] PHP Notice:  Undefined variable: orderShippingAddress in /home/ticketchai/public_html/email/body/order.php on line 247
+[20-Feb-2017 17:35:54 Asia/Dhaka] PHP Notice:  Undefined variable: orderShippingZip in /home/ticketchai/public_html/email/body/order.php on line 248
+[20-Feb-2017 17:35:54 Asia/Dhaka] PHP Notice:  Undefined variable: orderShippingCity in /home/ticketchai/public_html/email/body/order.php on line 248
+[20-Feb-2017 17:35:54 Asia/Dhaka] PHP Notice:  Undefined variable: orderShippingCountry in /home/ticketchai/public_html/email/body/order.php on line 249
+[20-Feb-2017 17:35:54 Asia/Dhaka] PHP Notice:  Undefined variable: orderShippingPhone in /home/ticketchai/public_html/email/body/order.php on line 250
+[20-Feb-2017 17:35:54 Asia/Dhaka] PHP Notice:  Undefined variable: orderShippingFirstName in /home/ticketchai/public_html/email/body/order.php on line 251
+[20-Feb-2017 17:35:54 Asia/Dhaka] PHP Notice:  Undefined variable: orderShippingLastName in /home/ticketchai/public_html/email/body/order.php on line 251
+[20-Feb-2017 17:35:54 Asia/Dhaka] PHP Notice:  Undefined variable: orderBillingAddress in /home/ticketchai/public_html/email/body/order.php on line 255
+[20-Feb-2017 17:35:54 Asia/Dhaka] PHP Notice:  Undefined variable: orderBillingZip in /home/ticketchai/public_html/email/body/order.php on line 256
+[20-Feb-2017 17:35:54 Asia/Dhaka] PHP Notice:  Undefined variable: orderBillingCity in /home/ticketchai/public_html/email/body/order.php on line 256
+[20-Feb-2017 17:35:54 Asia/Dhaka] PHP Notice:  Undefined variable: orderBillingCountry in /home/ticketchai/public_html/email/body/order.php on line 257
+[20-Feb-2017 17:35:54 Asia/Dhaka] PHP Notice:  Undefined variable: orderBillingPhone in /home/ticketchai/public_html/email/body/order.php on line 258
+[20-Feb-2017 17:35:54 Asia/Dhaka] PHP Notice:  Undefined variable: orderBillingFirstName in /home/ticketchai/public_html/email/body/order.php on line 259
+[20-Feb-2017 17:35:54 Asia/Dhaka] PHP Notice:  Undefined variable: orderBillingLastName in /home/ticketchai/public_html/email/body/order.php on line 259
+[20-Feb-2017 17:35:54 Asia/Dhaka] PHP Notice:  Undefined variable: deliveryCost in /home/ticketchai/public_html/email/body/order.php on line 324
+[20-Feb-2017 17:35:54 Asia/Dhaka] PHP Notice:  Undefined variable: discountCost in /home/ticketchai/public_html/email/body/order.php on line 334
+[20-Feb-2017 17:35:54 Asia/Dhaka] PHP Notice:  Undefined variable: orderTotalAmount in /home/ticketchai/public_html/email/body/order.php on line 342
+[20-Feb-2017 17:35:54 Asia/Dhaka] PHP Notice:  Undefined variable: orderCouponDiscount in /home/ticketchai/public_html/email/body/order.php on line 345
+[20-Feb-2017 17:35:54 Asia/Dhaka] PHP Notice:  Undefined variable: orderCouponDiscount in /home/ticketchai/public_html/email/body/order.php on line 360
+[20-Feb-2017 17:35:54 Asia/Dhaka] PHP Notice:  Undefined variable: totalCost in /home/ticketchai/public_html/email/body/order.php on line 360
+[20-Feb-2017 17:36:02 Asia/Dhaka] PHP Notice:  Undefined variable: ordertype in /home/ticketchai/public_html/email/body/order.php on line 206
+[20-Feb-2017 17:36:02 Asia/Dhaka] PHP Notice:  Undefined variable: ordertype in /home/ticketchai/public_html/email/body/order.php on line 209
+[20-Feb-2017 17:36:02 Asia/Dhaka] PHP Notice:  Undefined variable: ordertype in /home/ticketchai/public_html/email/body/order.php on line 209
+[20-Feb-2017 17:36:02 Asia/Dhaka] PHP Notice:  Undefined variable: orderUserName in /home/ticketchai/public_html/email/body/order.php on line 221
+[20-Feb-2017 17:36:02 Asia/Dhaka] PHP Notice:  Undefined variable: orderNumber in /home/ticketchai/public_html/email/body/order.php on line 229
+[20-Feb-2017 17:36:02 Asia/Dhaka] PHP Notice:  Undefined variable: orderStatus in /home/ticketchai/public_html/email/body/order.php on line 230
+[20-Feb-2017 17:36:02 Asia/Dhaka] PHP Notice:  Undefined variable: paymentMethod in /home/ticketchai/public_html/email/body/order.php on line 231
+[20-Feb-2017 17:36:02 Asia/Dhaka] PHP Notice:  Undefined variable: orderShippingAddress in /home/ticketchai/public_html/email/body/order.php on line 247
+[20-Feb-2017 17:36:02 Asia/Dhaka] PHP Notice:  Undefined variable: orderShippingZip in /home/ticketchai/public_html/email/body/order.php on line 248
+[20-Feb-2017 17:36:02 Asia/Dhaka] PHP Notice:  Undefined variable: orderShippingCity in /home/ticketchai/public_html/email/body/order.php on line 248
+[20-Feb-2017 17:36:02 Asia/Dhaka] PHP Notice:  Undefined variable: orderShippingCountry in /home/ticketchai/public_html/email/body/order.php on line 249
+[20-Feb-2017 17:36:02 Asia/Dhaka] PHP Notice:  Undefined variable: orderShippingPhone in /home/ticketchai/public_html/email/body/order.php on line 250
+[20-Feb-2017 17:36:02 Asia/Dhaka] PHP Notice:  Undefined variable: orderShippingFirstName in /home/ticketchai/public_html/email/body/order.php on line 251
+[20-Feb-2017 17:36:02 Asia/Dhaka] PHP Notice:  Undefined variable: orderShippingLastName in /home/ticketchai/public_html/email/body/order.php on line 251
+[20-Feb-2017 17:36:02 Asia/Dhaka] PHP Notice:  Undefined variable: orderBillingAddress in /home/ticketchai/public_html/email/body/order.php on line 255
+[20-Feb-2017 17:36:02 Asia/Dhaka] PHP Notice:  Undefined variable: orderBillingZip in /home/ticketchai/public_html/email/body/order.php on line 256
+[20-Feb-2017 17:36:02 Asia/Dhaka] PHP Notice:  Undefined variable: orderBillingCity in /home/ticketchai/public_html/email/body/order.php on line 256
+[20-Feb-2017 17:36:02 Asia/Dhaka] PHP Notice:  Undefined variable: orderBillingCountry in /home/ticketchai/public_html/email/body/order.php on line 257
+[20-Feb-2017 17:36:02 Asia/Dhaka] PHP Notice:  Undefined variable: orderBillingPhone in /home/ticketchai/public_html/email/body/order.php on line 258
+[20-Feb-2017 17:36:02 Asia/Dhaka] PHP Notice:  Undefined variable: orderBillingFirstName in /home/ticketchai/public_html/email/body/order.php on line 259
+[20-Feb-2017 17:36:02 Asia/Dhaka] PHP Notice:  Undefined variable: orderBillingLastName in /home/ticketchai/public_html/email/body/order.php on line 259
+[20-Feb-2017 17:36:02 Asia/Dhaka] PHP Notice:  Undefined variable: deliveryCost in /home/ticketchai/public_html/email/body/order.php on line 324
+[20-Feb-2017 17:36:02 Asia/Dhaka] PHP Notice:  Undefined variable: discountCost in /home/ticketchai/public_html/email/body/order.php on line 334
+[20-Feb-2017 17:36:02 Asia/Dhaka] PHP Notice:  Undefined variable: orderTotalAmount in /home/ticketchai/public_html/email/body/order.php on line 342
+[20-Feb-2017 17:36:02 Asia/Dhaka] PHP Notice:  Undefined variable: orderCouponDiscount in /home/ticketchai/public_html/email/body/order.php on line 345
+[20-Feb-2017 17:36:02 Asia/Dhaka] PHP Notice:  Undefined variable: orderCouponDiscount in /home/ticketchai/public_html/email/body/order.php on line 360
+[20-Feb-2017 17:36:02 Asia/Dhaka] PHP Notice:  Undefined variable: totalCost in /home/ticketchai/public_html/email/body/order.php on line 360
+[20-Feb-2017 17:36:10 Asia/Dhaka] PHP Notice:  Undefined variable: ordertype in /home/ticketchai/public_html/email/body/order.php on line 206
+[20-Feb-2017 17:36:10 Asia/Dhaka] PHP Notice:  Undefined variable: ordertype in /home/ticketchai/public_html/email/body/order.php on line 209
+[20-Feb-2017 17:36:10 Asia/Dhaka] PHP Notice:  Undefined variable: ordertype in /home/ticketchai/public_html/email/body/order.php on line 209
+[20-Feb-2017 17:36:10 Asia/Dhaka] PHP Notice:  Undefined variable: orderUserName in /home/ticketchai/public_html/email/body/order.php on line 221
+[20-Feb-2017 17:36:10 Asia/Dhaka] PHP Notice:  Undefined variable: orderNumber in /home/ticketchai/public_html/email/body/order.php on line 229
+[20-Feb-2017 17:36:10 Asia/Dhaka] PHP Notice:  Undefined variable: orderStatus in /home/ticketchai/public_html/email/body/order.php on line 230
+[20-Feb-2017 17:36:10 Asia/Dhaka] PHP Notice:  Undefined variable: paymentMethod in /home/ticketchai/public_html/email/body/order.php on line 231
+[20-Feb-2017 17:36:10 Asia/Dhaka] PHP Notice:  Undefined variable: orderShippingAddress in /home/ticketchai/public_html/email/body/order.php on line 247
+[20-Feb-2017 17:36:10 Asia/Dhaka] PHP Notice:  Undefined variable: orderShippingZip in /home/ticketchai/public_html/email/body/order.php on line 248
+[20-Feb-2017 17:36:10 Asia/Dhaka] PHP Notice:  Undefined variable: orderShippingCity in /home/ticketchai/public_html/email/body/order.php on line 248
+[20-Feb-2017 17:36:10 Asia/Dhaka] PHP Notice:  Undefined variable: orderShippingCountry in /home/ticketchai/public_html/email/body/order.php on line 249
+[20-Feb-2017 17:36:10 Asia/Dhaka] PHP Notice:  Undefined variable: orderShippingPhone in /home/ticketchai/public_html/email/body/order.php on line 250
+[20-Feb-2017 17:36:10 Asia/Dhaka] PHP Notice:  Undefined variable: orderShippingFirstName in /home/ticketchai/public_html/email/body/order.php on line 251
+[20-Feb-2017 17:36:10 Asia/Dhaka] PHP Notice:  Undefined variable: orderShippingLastName in /home/ticketchai/public_html/email/body/order.php on line 251
+[20-Feb-2017 17:36:10 Asia/Dhaka] PHP Notice:  Undefined variable: orderBillingAddress in /home/ticketchai/public_html/email/body/order.php on line 255
+[20-Feb-2017 17:36:10 Asia/Dhaka] PHP Notice:  Undefined variable: orderBillingZip in /home/ticketchai/public_html/email/body/order.php on line 256
+[20-Feb-2017 17:36:10 Asia/Dhaka] PHP Notice:  Undefined variable: orderBillingCity in /home/ticketchai/public_html/email/body/order.php on line 256
+[20-Feb-2017 17:36:10 Asia/Dhaka] PHP Notice:  Undefined variable: orderBillingCountry in /home/ticketchai/public_html/email/body/order.php on line 257
+[20-Feb-2017 17:36:10 Asia/Dhaka] PHP Notice:  Undefined variable: orderBillingPhone in /home/ticketchai/public_html/email/body/order.php on line 258
+[20-Feb-2017 17:36:10 Asia/Dhaka] PHP Notice:  Undefined variable: orderBillingFirstName in /home/ticketchai/public_html/email/body/order.php on line 259
+[20-Feb-2017 17:36:10 Asia/Dhaka] PHP Notice:  Undefined variable: orderBillingLastName in /home/ticketchai/public_html/email/body/order.php on line 259
+[20-Feb-2017 17:36:10 Asia/Dhaka] PHP Notice:  Undefined variable: deliveryCost in /home/ticketchai/public_html/email/body/order.php on line 324
+[20-Feb-2017 17:36:10 Asia/Dhaka] PHP Notice:  Undefined variable: discountCost in /home/ticketchai/public_html/email/body/order.php on line 334
+[20-Feb-2017 17:36:10 Asia/Dhaka] PHP Notice:  Undefined variable: orderTotalAmount in /home/ticketchai/public_html/email/body/order.php on line 342
+[20-Feb-2017 17:36:10 Asia/Dhaka] PHP Notice:  Undefined variable: orderCouponDiscount in /home/ticketchai/public_html/email/body/order.php on line 345
+[20-Feb-2017 17:36:10 Asia/Dhaka] PHP Notice:  Undefined variable: orderCouponDiscount in /home/ticketchai/public_html/email/body/order.php on line 360
+[20-Feb-2017 17:36:10 Asia/Dhaka] PHP Notice:  Undefined variable: totalCost in /home/ticketchai/public_html/email/body/order.php on line 360
+[20-Feb-2017 17:38:52 Asia/Dhaka] PHP Notice:  Undefined variable: ordertype in /home/ticketchai/public_html/email/body/order.php on line 206
+[20-Feb-2017 17:38:52 Asia/Dhaka] PHP Notice:  Undefined variable: ordertype in /home/ticketchai/public_html/email/body/order.php on line 209
+[20-Feb-2017 17:38:52 Asia/Dhaka] PHP Notice:  Undefined variable: ordertype in /home/ticketchai/public_html/email/body/order.php on line 209
+[20-Feb-2017 17:38:52 Asia/Dhaka] PHP Notice:  Undefined variable: orderUserName in /home/ticketchai/public_html/email/body/order.php on line 221
+[20-Feb-2017 17:38:52 Asia/Dhaka] PHP Notice:  Undefined variable: orderNumber in /home/ticketchai/public_html/email/body/order.php on line 229
+[20-Feb-2017 17:38:52 Asia/Dhaka] PHP Notice:  Undefined variable: orderStatus in /home/ticketchai/public_html/email/body/order.php on line 230
+[20-Feb-2017 17:38:52 Asia/Dhaka] PHP Notice:  Undefined variable: paymentMethod in /home/ticketchai/public_html/email/body/order.php on line 231
+[20-Feb-2017 17:38:52 Asia/Dhaka] PHP Notice:  Undefined variable: orderShippingAddress in /home/ticketchai/public_html/email/body/order.php on line 247
+[20-Feb-2017 17:38:52 Asia/Dhaka] PHP Notice:  Undefined variable: orderShippingZip in /home/ticketchai/public_html/email/body/order.php on line 248
+[20-Feb-2017 17:38:52 Asia/Dhaka] PHP Notice:  Undefined variable: orderShippingCity in /home/ticketchai/public_html/email/body/order.php on line 248
+[20-Feb-2017 17:38:52 Asia/Dhaka] PHP Notice:  Undefined variable: orderShippingCountry in /home/ticketchai/public_html/email/body/order.php on line 249
+[20-Feb-2017 17:38:52 Asia/Dhaka] PHP Notice:  Undefined variable: orderShippingPhone in /home/ticketchai/public_html/email/body/order.php on line 250
+[20-Feb-2017 17:38:52 Asia/Dhaka] PHP Notice:  Undefined variable: orderShippingFirstName in /home/ticketchai/public_html/email/body/order.php on line 251
+[20-Feb-2017 17:38:52 Asia/Dhaka] PHP Notice:  Undefined variable: orderShippingLastName in /home/ticketchai/public_html/email/body/order.php on line 251
+[20-Feb-2017 17:38:52 Asia/Dhaka] PHP Notice:  Undefined variable: orderBillingAddress in /home/ticketchai/public_html/email/body/order.php on line 255
+[20-Feb-2017 17:38:52 Asia/Dhaka] PHP Notice:  Undefined variable: orderBillingZip in /home/ticketchai/public_html/email/body/order.php on line 256
+[20-Feb-2017 17:38:52 Asia/Dhaka] PHP Notice:  Undefined variable: orderBillingCity in /home/ticketchai/public_html/email/body/order.php on line 256
+[20-Feb-2017 17:38:52 Asia/Dhaka] PHP Notice:  Undefined variable: orderBillingCountry in /home/ticketchai/public_html/email/body/order.php on line 257
+[20-Feb-2017 17:38:52 Asia/Dhaka] PHP Notice:  Undefined variable: orderBillingPhone in /home/ticketchai/public_html/email/body/order.php on line 258
+[20-Feb-2017 17:38:52 Asia/Dhaka] PHP Notice:  Undefined variable: orderBillingFirstName in /home/ticketchai/public_html/email/body/order.php on line 259
+[20-Feb-2017 17:38:52 Asia/Dhaka] PHP Notice:  Undefined variable: orderBillingLastName in /home/ticketchai/public_html/email/body/order.php on line 259
+[20-Feb-2017 17:38:52 Asia/Dhaka] PHP Notice:  Undefined variable: deliveryCost in /home/ticketchai/public_html/email/body/order.php on line 324
+[20-Feb-2017 17:38:52 Asia/Dhaka] PHP Notice:  Undefined variable: discountCost in /home/ticketchai/public_html/email/body/order.php on line 334
+[20-Feb-2017 17:38:52 Asia/Dhaka] PHP Notice:  Undefined variable: orderTotalAmount in /home/ticketchai/public_html/email/body/order.php on line 342
+[20-Feb-2017 17:38:52 Asia/Dhaka] PHP Notice:  Undefined variable: orderCouponDiscount in /home/ticketchai/public_html/email/body/order.php on line 345
+[20-Feb-2017 17:38:52 Asia/Dhaka] PHP Notice:  Undefined variable: orderCouponDiscount in /home/ticketchai/public_html/email/body/order.php on line 360
+[20-Feb-2017 17:38:52 Asia/Dhaka] PHP Notice:  Undefined variable: totalCost in /home/ticketchai/public_html/email/body/order.php on line 360
+[20-Feb-2017 17:48:30 Asia/Dhaka] PHP Notice:  Undefined variable: ordertype in /home/ticketchai/public_html/email/body/order.php on line 206
+[20-Feb-2017 17:48:30 Asia/Dhaka] PHP Notice:  Undefined variable: ordertype in /home/ticketchai/public_html/email/body/order.php on line 209
+[20-Feb-2017 17:48:30 Asia/Dhaka] PHP Notice:  Undefined variable: ordertype in /home/ticketchai/public_html/email/body/order.php on line 209
+[20-Feb-2017 17:48:30 Asia/Dhaka] PHP Notice:  Undefined variable: orderUserName in /home/ticketchai/public_html/email/body/order.php on line 221
+[20-Feb-2017 17:48:30 Asia/Dhaka] PHP Notice:  Undefined variable: orderNumber in /home/ticketchai/public_html/email/body/order.php on line 229
+[20-Feb-2017 17:48:30 Asia/Dhaka] PHP Notice:  Undefined variable: orderStatus in /home/ticketchai/public_html/email/body/order.php on line 230
+[20-Feb-2017 17:48:30 Asia/Dhaka] PHP Notice:  Undefined variable: paymentMethod in /home/ticketchai/public_html/email/body/order.php on line 231
+[20-Feb-2017 17:48:30 Asia/Dhaka] PHP Notice:  Undefined variable: orderShippingAddress in /home/ticketchai/public_html/email/body/order.php on line 247
+[20-Feb-2017 17:48:30 Asia/Dhaka] PHP Notice:  Undefined variable: orderShippingZip in /home/ticketchai/public_html/email/body/order.php on line 248
+[20-Feb-2017 17:48:30 Asia/Dhaka] PHP Notice:  Undefined variable: orderShippingCity in /home/ticketchai/public_html/email/body/order.php on line 248
+[20-Feb-2017 17:48:30 Asia/Dhaka] PHP Notice:  Undefined variable: orderShippingCountry in /home/ticketchai/public_html/email/body/order.php on line 249
+[20-Feb-2017 17:48:30 Asia/Dhaka] PHP Notice:  Undefined variable: orderShippingPhone in /home/ticketchai/public_html/email/body/order.php on line 250
+[20-Feb-2017 17:48:30 Asia/Dhaka] PHP Notice:  Undefined variable: orderShippingFirstName in /home/ticketchai/public_html/email/body/order.php on line 251
+[20-Feb-2017 17:48:30 Asia/Dhaka] PHP Notice:  Undefined variable: orderShippingLastName in /home/ticketchai/public_html/email/body/order.php on line 251
+[20-Feb-2017 17:48:30 Asia/Dhaka] PHP Notice:  Undefined variable: orderBillingAddress in /home/ticketchai/public_html/email/body/order.php on line 255
+[20-Feb-2017 17:48:30 Asia/Dhaka] PHP Notice:  Undefined variable: orderBillingZip in /home/ticketchai/public_html/email/body/order.php on line 256
+[20-Feb-2017 17:48:30 Asia/Dhaka] PHP Notice:  Undefined variable: orderBillingCity in /home/ticketchai/public_html/email/body/order.php on line 256
+[20-Feb-2017 17:48:30 Asia/Dhaka] PHP Notice:  Undefined variable: orderBillingCountry in /home/ticketchai/public_html/email/body/order.php on line 257
+[20-Feb-2017 17:48:30 Asia/Dhaka] PHP Notice:  Undefined variable: orderBillingPhone in /home/ticketchai/public_html/email/body/order.php on line 258
+[20-Feb-2017 17:48:30 Asia/Dhaka] PHP Notice:  Undefined variable: orderBillingFirstName in /home/ticketchai/public_html/email/body/order.php on line 259
+[20-Feb-2017 17:48:30 Asia/Dhaka] PHP Notice:  Undefined variable: orderBillingLastName in /home/ticketchai/public_html/email/body/order.php on line 259
+[20-Feb-2017 17:48:30 Asia/Dhaka] PHP Notice:  Undefined variable: deliveryCost in /home/ticketchai/public_html/email/body/order.php on line 324
+[20-Feb-2017 17:48:30 Asia/Dhaka] PHP Notice:  Undefined variable: discountCost in /home/ticketchai/public_html/email/body/order.php on line 334
+[20-Feb-2017 17:48:30 Asia/Dhaka] PHP Notice:  Undefined variable: orderTotalAmount in /home/ticketchai/public_html/email/body/order.php on line 342
+[20-Feb-2017 17:48:30 Asia/Dhaka] PHP Notice:  Undefined variable: orderCouponDiscount in /home/ticketchai/public_html/email/body/order.php on line 345
+[20-Feb-2017 17:48:30 Asia/Dhaka] PHP Notice:  Undefined variable: orderCouponDiscount in /home/ticketchai/public_html/email/body/order.php on line 360
+[20-Feb-2017 17:48:30 Asia/Dhaka] PHP Notice:  Undefined variable: totalCost in /home/ticketchai/public_html/email/body/order.php on line 360
+[20-Feb-2017 11:55:22 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 12
+[20-Feb-2017 11:55:22 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 13
+[20-Feb-2017 11:56:05 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 12
+[20-Feb-2017 11:56:05 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 13
+[20-Feb-2017 11:57:02 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 12
+[20-Feb-2017 11:57:02 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 13
+[20-Feb-2017 11:57:53 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 12
+[20-Feb-2017 11:57:53 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 13
+[20-Feb-2017 12:02:41 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 12
+[20-Feb-2017 12:02:42 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 13
+[20-Feb-2017 12:05:37 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 12
+[20-Feb-2017 12:05:37 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 13
+[20-Feb-2017 12:08:57 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 12
+[20-Feb-2017 12:08:57 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 13
+[22-Feb-2017 04:57:46 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 12
+[22-Feb-2017 04:57:46 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 13
+[22-Feb-2017 06:48:13 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 12
+[22-Feb-2017 06:48:13 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 13
+[22-Feb-2017 08:22:12 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 12
+[22-Feb-2017 08:22:13 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 13
+[22-Feb-2017 08:51:03 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 12
+[22-Feb-2017 08:51:03 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 13
+[22-Feb-2017 08:51:49 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 12
+[22-Feb-2017 08:51:49 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 13
+[22-Feb-2017 08:52:39 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 12
+[22-Feb-2017 08:52:39 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 13
+[22-Feb-2017 08:56:09 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 12
+[22-Feb-2017 08:56:09 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 13
+[22-Feb-2017 08:57:08 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 12
+[22-Feb-2017 08:57:08 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 13
+[22-Feb-2017 09:06:10 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 13
+[22-Feb-2017 09:06:10 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 14
+[22-Feb-2017 09:08:26 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 13
+[22-Feb-2017 09:08:26 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 14
+[22-Feb-2017 09:08:40 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 13
+[22-Feb-2017 09:08:40 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 14
+[22-Feb-2017 09:11:13 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 13
+[22-Feb-2017 09:11:13 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 14
+[22-Feb-2017 09:12:59 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 13
+[22-Feb-2017 09:12:59 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 14
+[22-Feb-2017 09:13:17 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 13
+[22-Feb-2017 09:13:17 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 14
+[22-Feb-2017 09:14:39 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 13
+[22-Feb-2017 09:14:39 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 14
+[22-Feb-2017 09:15:14 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 13
+[22-Feb-2017 09:15:14 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 14
+[22-Feb-2017 09:16:51 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 13
+[22-Feb-2017 09:16:51 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 14
+[22-Feb-2017 09:46:39 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 20
+[22-Feb-2017 09:46:39 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 21
+[22-Feb-2017 09:47:19 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 20
+[22-Feb-2017 09:47:19 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 21
+[22-Feb-2017 09:51:12 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 20
+[22-Feb-2017 09:51:12 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 21
+[22-Feb-2017 09:52:20 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 20
+[22-Feb-2017 09:52:20 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 21
+[22-Feb-2017 09:52:54 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 20
+[22-Feb-2017 09:52:54 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 21
+[22-Feb-2017 09:56:54 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 20
+[22-Feb-2017 09:56:54 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 21
+[22-Feb-2017 09:58:09 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 20
+[22-Feb-2017 09:58:09 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 21
+[22-Feb-2017 10:00:18 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 20
+[22-Feb-2017 10:00:18 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 21
+[22-Feb-2017 10:06:24 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 20
+[22-Feb-2017 10:06:24 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 21
+[22-Feb-2017 10:06:24 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 20
+[22-Feb-2017 10:06:24 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 21
+[22-Feb-2017 10:07:15 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 20
+[22-Feb-2017 10:07:15 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 21
+[22-Feb-2017 10:08:51 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 20
+[22-Feb-2017 10:08:51 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 21
+[22-Feb-2017 10:08:51 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 20
+[22-Feb-2017 10:08:51 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 21
+[22-Feb-2017 10:09:53 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 20
+[22-Feb-2017 10:09:53 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 21
+[22-Feb-2017 10:11:03 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 20
+[22-Feb-2017 10:11:03 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 21
+[22-Feb-2017 10:11:03 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 20
+[22-Feb-2017 10:11:03 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 21
+[22-Feb-2017 10:11:47 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 20
+[22-Feb-2017 10:11:47 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 21
+[22-Feb-2017 10:12:41 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 20
+[22-Feb-2017 10:12:41 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 21
+[22-Feb-2017 10:13:12 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 20
+[22-Feb-2017 10:13:12 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 21
+[22-Feb-2017 10:13:37 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 20
+[22-Feb-2017 10:13:37 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 21
+[22-Feb-2017 10:16:19 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 20
+[22-Feb-2017 10:16:19 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 21
+[22-Feb-2017 10:17:03 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 20
+[22-Feb-2017 10:17:03 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 21
+[22-Feb-2017 10:18:55 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 20
+[22-Feb-2017 10:18:55 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 21
+[22-Feb-2017 10:20:28 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 20
+[22-Feb-2017 10:20:28 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 21
+[22-Feb-2017 10:21:18 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 20
+[22-Feb-2017 10:21:18 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 21
+[22-Feb-2017 10:21:41 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 20
+[22-Feb-2017 10:21:41 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 21
+[22-Feb-2017 10:22:22 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 20
+[22-Feb-2017 10:22:22 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 21
+[22-Feb-2017 10:25:13 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 20
+[22-Feb-2017 10:25:13 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 21
+[22-Feb-2017 10:34:58 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 20
+[22-Feb-2017 10:34:58 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 21
+[22-Feb-2017 10:35:32 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 20
+[22-Feb-2017 10:35:32 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 21
+[22-Feb-2017 10:37:51 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 20
+[22-Feb-2017 10:37:51 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 21
+[22-Feb-2017 10:40:27 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 20
+[22-Feb-2017 10:40:27 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 21
+[22-Feb-2017 10:40:27 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 20
+[22-Feb-2017 10:40:27 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 21
+[22-Feb-2017 10:42:56 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 20
+[22-Feb-2017 10:42:56 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 21
+[22-Feb-2017 10:42:56 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 20
+[22-Feb-2017 10:42:56 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 21
+[22-Feb-2017 10:43:27 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 20
+[22-Feb-2017 10:43:27 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 21
+[22-Feb-2017 10:43:28 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 20
+[22-Feb-2017 10:43:28 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 21
+[22-Feb-2017 10:46:07 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 20
+[22-Feb-2017 10:46:07 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 21
+[22-Feb-2017 10:46:07 UTC] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, null given in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 22
+[22-Feb-2017 10:46:07 UTC] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, null given in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 259
+[22-Feb-2017 10:46:07 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 20
+[22-Feb-2017 10:46:07 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 21
+[22-Feb-2017 10:46:07 UTC] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, null given in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 22
+[22-Feb-2017 10:46:07 UTC] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, null given in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 259
+[22-Feb-2017 10:47:20 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 20
+[22-Feb-2017 10:47:21 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 21
+[22-Feb-2017 10:47:21 UTC] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, null given in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 22
+[22-Feb-2017 10:47:21 UTC] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, null given in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 259
+[22-Feb-2017 10:47:32 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 20
+[22-Feb-2017 10:47:32 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 21
+[22-Feb-2017 10:47:32 UTC] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, null given in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 22
+[22-Feb-2017 10:47:32 UTC] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, null given in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 259
+[22-Feb-2017 10:47:40 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 20
+[22-Feb-2017 10:47:41 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 21
+[22-Feb-2017 10:47:41 UTC] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, null given in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 22
+[22-Feb-2017 10:47:41 UTC] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, null given in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 259
+[22-Feb-2017 10:47:47 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 20
+[22-Feb-2017 10:47:47 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 21
+[22-Feb-2017 10:47:47 UTC] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, null given in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 22
+[22-Feb-2017 10:47:47 UTC] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, null given in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 259
+[22-Feb-2017 10:48:59 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 21
+[22-Feb-2017 10:48:59 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 22
+[22-Feb-2017 10:48:59 UTC] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, null given in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 260
+[22-Feb-2017 10:49:00 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 21
+[22-Feb-2017 10:49:00 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 22
+[22-Feb-2017 10:49:00 UTC] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, null given in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 260
+[22-Feb-2017 10:50:27 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 21
+[22-Feb-2017 10:50:28 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 22
+[22-Feb-2017 10:50:28 UTC] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, null given in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 260
+[22-Feb-2017 10:50:28 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 21
+[22-Feb-2017 10:50:28 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 22
+[22-Feb-2017 10:50:28 UTC] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, null given in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 260
+[22-Feb-2017 10:52:23 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 21
+[22-Feb-2017 10:52:23 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 22
+[22-Feb-2017 10:52:23 UTC] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, null given in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 260
+[22-Feb-2017 10:52:24 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 21
+[22-Feb-2017 10:52:24 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 22
+[22-Feb-2017 10:52:24 UTC] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, null given in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 260
+[22-Feb-2017 10:53:56 UTC] PHP Warning:  require_once(.././DBconnection/database_connections.php): failed to open stream: No such file or directory in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 2
+[22-Feb-2017 10:53:56 UTC] PHP Fatal error:  require_once(): Failed opening required '.././DBconnection/database_connections.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 2
+[22-Feb-2017 10:53:56 UTC] PHP Warning:  require_once(.././DBconnection/database_connections.php): failed to open stream: No such file or directory in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 2
+[22-Feb-2017 10:53:56 UTC] PHP Fatal error:  require_once(): Failed opening required '.././DBconnection/database_connections.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 2
+[22-Feb-2017 10:54:24 UTC] PHP Warning:  require_once(.././DBconnection/database_connections.php): failed to open stream: No such file or directory in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 2
+[22-Feb-2017 10:54:24 UTC] PHP Fatal error:  require_once(): Failed opening required '.././DBconnection/database_connections.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 2
+[22-Feb-2017 10:54:25 UTC] PHP Warning:  require_once(.././DBconnection/database_connections.php): failed to open stream: No such file or directory in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 2
+[22-Feb-2017 10:54:25 UTC] PHP Fatal error:  require_once(): Failed opening required '.././DBconnection/database_connections.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 2
+[22-Feb-2017 10:55:04 UTC] PHP Warning:  require_once(../DBconnection/database_connections.php): failed to open stream: No such file or directory in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 2
+[22-Feb-2017 10:55:04 UTC] PHP Fatal error:  require_once(): Failed opening required '../DBconnection/database_connections.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 2
+[22-Feb-2017 10:55:05 UTC] PHP Warning:  require_once(../DBconnection/database_connections.php): failed to open stream: No such file or directory in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 2
+[22-Feb-2017 10:55:05 UTC] PHP Fatal error:  require_once(): Failed opening required '../DBconnection/database_connections.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 2
+[22-Feb-2017 10:56:37 UTC] PHP Warning:  require_once(.././DBconnection/database_connections.php): failed to open stream: No such file or directory in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 2
+[22-Feb-2017 10:56:37 UTC] PHP Fatal error:  require_once(): Failed opening required '.././DBconnection/database_connections.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 2
+[22-Feb-2017 10:56:38 UTC] PHP Warning:  require_once(.././DBconnection/database_connections.php): failed to open stream: No such file or directory in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 2
+[22-Feb-2017 10:56:38 UTC] PHP Fatal error:  require_once(): Failed opening required '.././DBconnection/database_connections.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 2
+[22-Feb-2017 11:00:04 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 22
+[22-Feb-2017 11:00:04 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 23
+[22-Feb-2017 11:00:04 UTC] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, null given in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 261
+[22-Feb-2017 11:00:04 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 22
+[22-Feb-2017 11:00:04 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 23
+[22-Feb-2017 11:00:04 UTC] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, null given in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 261
+[22-Feb-2017 11:07:02 UTC] PHP Warning:  require_once(.././DBconnection/database_connections.php): failed to open stream: No such file or directory in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 2
+[22-Feb-2017 11:07:02 UTC] PHP Fatal error:  require_once(): Failed opening required '.././DBconnection/database_connections.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 2
+[22-Feb-2017 11:07:58 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 21
+[22-Feb-2017 11:07:58 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 22
+[22-Feb-2017 11:07:58 UTC] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, null given in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 260
+[22-Feb-2017 11:09:48 UTC] PHP Parse error:  syntax error, unexpected '$alldataact' (T_VARIABLE) in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 24
+[22-Feb-2017 11:39:09 UTC] PHP Parse error:  syntax error, unexpected '$orderID' (T_VARIABLE) in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 20
+[22-Feb-2017 11:40:22 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 23
+[22-Feb-2017 11:40:22 UTC] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, boolean given in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 261
+[06-Mar-2017 08:57:34 UTC] PHP Warning:  require_once(./phpmailer/class.phpmailer.php): failed to open stream: No such file or directory in /home/ticketchai/public_html/email/body/order.php on line 3
+[06-Mar-2017 08:57:35 UTC] PHP Fatal error:  require_once(): Failed opening required './phpmailer/class.phpmailer.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/ticketchai/public_html/email/body/order.php on line 3
+[06-Mar-2017 08:58:48 UTC] PHP Warning:  require_once(./phpmailer/class.phpmailer.php): failed to open stream: No such file or directory in /home/ticketchai/public_html/email/body/order.php on line 3
+[06-Mar-2017 08:58:48 UTC] PHP Fatal error:  require_once(): Failed opening required './phpmailer/class.phpmailer.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/ticketchai/public_html/email/body/order.php on line 3
+[06-Mar-2017 09:01:14 UTC] PHP Warning:  require_once(./phpmailer/class.phpmailer.php): failed to open stream: No such file or directory in /home/ticketchai/public_html/email/body/order.php on line 3
+[06-Mar-2017 09:01:14 UTC] PHP Fatal error:  require_once(): Failed opening required './phpmailer/class.phpmailer.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/ticketchai/public_html/email/body/order.php on line 3
+[06-Mar-2017 09:02:17 UTC] PHP Warning:  require_once(./phpmailer/class.phpmailer.php): failed to open stream: No such file or directory in /home/ticketchai/public_html/email/body/order.php on line 3
+[06-Mar-2017 09:02:17 UTC] PHP Fatal error:  require_once(): Failed opening required './phpmailer/class.phpmailer.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/ticketchai/public_html/email/body/order.php on line 3
+[06-Mar-2017 09:03:20 UTC] PHP Warning:  require_once(./phpmailer/class.phpmailer.php): failed to open stream: No such file or directory in /home/ticketchai/public_html/email/body/order.php on line 3
+[06-Mar-2017 09:03:20 UTC] PHP Fatal error:  require_once(): Failed opening required './phpmailer/class.phpmailer.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/ticketchai/public_html/email/body/order.php on line 3
+[06-Mar-2017 09:05:55 UTC] PHP Warning:  require_once(./phpmailer/class.phpmailer.php): failed to open stream: No such file or directory in /home/ticketchai/public_html/email/body/order.php on line 3
+[06-Mar-2017 09:05:55 UTC] PHP Fatal error:  require_once(): Failed opening required './phpmailer/class.phpmailer.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/ticketchai/public_html/email/body/order.php on line 3
+[06-Mar-2017 09:05:55 UTC] PHP Warning:  require_once(./phpmailer/class.phpmailer.php): failed to open stream: No such file or directory in /home/ticketchai/public_html/email/body/order.php on line 3
+[06-Mar-2017 09:05:55 UTC] PHP Fatal error:  require_once(): Failed opening required './phpmailer/class.phpmailer.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/ticketchai/public_html/email/body/order.php on line 3
+[06-Mar-2017 09:09:54 UTC] PHP Warning:  require_once(./phpmailer/class.phpmailer.php): failed to open stream: No such file or directory in /home/ticketchai/public_html/email/body/order.php on line 3
+[06-Mar-2017 09:09:54 UTC] PHP Fatal error:  require_once(): Failed opening required './phpmailer/class.phpmailer.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/ticketchai/public_html/email/body/order.php on line 3
+[06-Mar-2017 09:11:54 UTC] PHP Warning:  require_once(./phpmailer/class.phpmailer.php): failed to open stream: No such file or directory in /home/ticketchai/public_html/email/body/order.php on line 3
+[06-Mar-2017 09:11:54 UTC] PHP Fatal error:  require_once(): Failed opening required './phpmailer/class.phpmailer.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/ticketchai/public_html/email/body/order.php on line 3
+[06-Mar-2017 09:12:04 UTC] PHP Warning:  require_once(./phpmailer/class.phpmailer.php): failed to open stream: No such file or directory in /home/ticketchai/public_html/email/body/order.php on line 3
+[06-Mar-2017 09:12:04 UTC] PHP Fatal error:  require_once(): Failed opening required './phpmailer/class.phpmailer.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/ticketchai/public_html/email/body/order.php on line 3
+[06-Mar-2017 09:12:40 UTC] PHP Warning:  require_once(./phpmailer/class.phpmailer.php): failed to open stream: No such file or directory in /home/ticketchai/public_html/email/body/order.php on line 3
+[06-Mar-2017 09:12:40 UTC] PHP Fatal error:  require_once(): Failed opening required './phpmailer/class.phpmailer.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/ticketchai/public_html/email/body/order.php on line 3
+[06-Mar-2017 09:14:14 UTC] PHP Warning:  require_once(./phpmailer/class.phpmailer.php): failed to open stream: No such file or directory in /home/ticketchai/public_html/email/body/order.php on line 3
+[06-Mar-2017 09:14:14 UTC] PHP Fatal error:  require_once(): Failed opening required './phpmailer/class.phpmailer.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/ticketchai/public_html/email/body/order.php on line 3
+[06-Mar-2017 09:16:44 UTC] PHP Warning:  require_once(./phpmailer/class.phpmailer.php): failed to open stream: No such file or directory in /home/ticketchai/public_html/email/body/order.php on line 3
+[06-Mar-2017 09:16:44 UTC] PHP Fatal error:  require_once(): Failed opening required './phpmailer/class.phpmailer.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/ticketchai/public_html/email/body/order.php on line 3
+[06-Mar-2017 09:16:49 UTC] PHP Warning:  require_once(./phpmailer/class.phpmailer.php): failed to open stream: No such file or directory in /home/ticketchai/public_html/email/body/order.php on line 3
+[06-Mar-2017 09:16:49 UTC] PHP Fatal error:  require_once(): Failed opening required './phpmailer/class.phpmailer.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/ticketchai/public_html/email/body/order.php on line 3
+[06-Mar-2017 09:18:14 UTC] PHP Warning:  require_once(./phpmailer/class.phpmailer.php): failed to open stream: No such file or directory in /home/ticketchai/public_html/email/body/order.php on line 3
+[06-Mar-2017 09:18:14 UTC] PHP Fatal error:  require_once(): Failed opening required './phpmailer/class.phpmailer.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/ticketchai/public_html/email/body/order.php on line 3
+[06-Mar-2017 09:21:37 UTC] PHP Warning:  require_once(./phpmailer/class.phpmailer.php): failed to open stream: No such file or directory in /home/ticketchai/public_html/email/body/order.php on line 3
+[06-Mar-2017 09:21:37 UTC] PHP Fatal error:  require_once(): Failed opening required './phpmailer/class.phpmailer.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/ticketchai/public_html/email/body/order.php on line 3
+[06-Mar-2017 09:22:37 UTC] PHP Warning:  require_once(phpmailer/class.phpmailer.php): failed to open stream: No such file or directory in /home/ticketchai/public_html/email/body/order.php on line 3
+[06-Mar-2017 09:22:37 UTC] PHP Fatal error:  require_once(): Failed opening required 'phpmailer/class.phpmailer.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/ticketchai/public_html/email/body/order.php on line 3
+[06-Mar-2017 09:23:15 UTC] PHP Warning:  mysqli_query(): Empty query in /home/ticketchai/public_html/email/body/order.php on line 24
+[06-Mar-2017 09:23:15 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ticketchai/public_html/email/body/order.php on line 26
+[06-Mar-2017 09:23:45 UTC] PHP Warning:  mysqli_query(): Empty query in /home/ticketchai/public_html/email/body/order.php on line 24
+[06-Mar-2017 09:23:45 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ticketchai/public_html/email/body/order.php on line 26
+[07-Mar-2017 07:18:53 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 35
+[07-Mar-2017 07:18:53 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 36
+[07-Mar-2017 07:18:54 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 35
+[07-Mar-2017 07:18:54 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 36
+[07-Mar-2017 08:03:53 UTC] PHP Fatal error:  Call to undefined function baseUrl() in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 65
+[07-Mar-2017 08:03:53 UTC] PHP Fatal error:  Call to undefined function baseUrl() in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 65
+[07-Mar-2017 08:03:59 UTC] PHP Fatal error:  Call to undefined function baseUrl() in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 65
+[07-Mar-2017 08:04:00 UTC] PHP Fatal error:  Call to undefined function baseUrl() in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 65
+[07-Mar-2017 08:08:38 UTC] PHP Fatal error:  Call to undefined function baseUrl() in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 241
+[07-Mar-2017 08:08:39 UTC] PHP Fatal error:  Call to undefined function baseUrl() in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 241
+[07-Mar-2017 08:27:02 UTC] PHP Fatal error:  Call to undefined function baseUrl() in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 241
+[07-Mar-2017 08:27:29 UTC] PHP Fatal error:  Call to undefined function baseUrl() in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 241
+[07-Mar-2017 08:27:38 UTC] PHP Fatal error:  Call to undefined function baseUrl() in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 241
+[07-Mar-2017 08:27:38 UTC] PHP Fatal error:  Call to undefined function baseUrl() in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 241
+[07-Mar-2017 09:05:06 UTC] PHP Fatal error:  Call to undefined function baseUrl() in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 241
+[07-Mar-2017 09:05:28 UTC] PHP Fatal error:  Call to undefined function baseUrl() in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 241
+[07-Mar-2017 09:05:29 UTC] PHP Fatal error:  Call to undefined function baseUrl() in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 241
+[07-Mar-2017 09:06:16 UTC] PHP Fatal error:  Call to undefined function baseUrl() in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 244
+[07-Mar-2017 09:06:16 UTC] PHP Fatal error:  Call to undefined function baseUrl() in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 244
+[07-Mar-2017 09:12:20 UTC] PHP Fatal error:  Call to undefined function baseUrl() in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 244
+[07-Mar-2017 09:12:20 UTC] PHP Fatal error:  Call to undefined function baseUrl() in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 244
+[07-Mar-2017 09:15:20 UTC] PHP Fatal error:  Call to undefined function baseUrl() in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 244
+[07-Mar-2017 09:15:20 UTC] PHP Fatal error:  Call to undefined function baseUrl() in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 244
+[07-Mar-2017 09:18:05 UTC] PHP Fatal error:  Call to undefined function baseUrl() in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 240
+[07-Mar-2017 09:18:06 UTC] PHP Fatal error:  Call to undefined function baseUrl() in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 240
+[07-Mar-2017 09:19:16 UTC] PHP Fatal error:  Call to undefined function baseUrl() in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 244
+[07-Mar-2017 09:19:17 UTC] PHP Fatal error:  Call to undefined function baseUrl() in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 244
+[07-Mar-2017 09:20:57 UTC] PHP Fatal error:  Call to undefined function baseUrl() in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 244
+[07-Mar-2017 09:20:58 UTC] PHP Fatal error:  Call to undefined function baseUrl() in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 244
+[07-Mar-2017 09:23:40 UTC] PHP Fatal error:  Call to undefined function baseUrl() in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 247
+[07-Mar-2017 09:23:40 UTC] PHP Fatal error:  Call to undefined function baseUrl() in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 247
+[07-Mar-2017 09:25:42 UTC] PHP Fatal error:  Call to undefined function baseUrl() in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 246
+[07-Mar-2017 09:25:46 UTC] PHP Fatal error:  Call to undefined function baseUrl() in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 246
+[07-Mar-2017 09:27:18 UTC] PHP Fatal error:  Call to undefined function baseUrl() in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 246
+[07-Mar-2017 09:27:22 UTC] PHP Fatal error:  Call to undefined function baseUrl() in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 246
+[07-Mar-2017 09:30:27 UTC] PHP Fatal error:  Call to undefined function baseUrl() in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 242
+[07-Mar-2017 09:30:28 UTC] PHP Fatal error:  Call to undefined function baseUrl() in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 242
+[07-Mar-2017 09:37:39 UTC] PHP Fatal error:  Call to undefined function baseUrl() in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 239
+[07-Mar-2017 09:37:40 UTC] PHP Fatal error:  Call to undefined function baseUrl() in /home/ticketchai/public_html/email/body/order_movie_ticket.php on line 239
+[09-Apr-2017 05:57:35 UTC] PHP Warning:  Illegal string offset 'order_session' in /home/tickettech/public_html/ticketchaiorg/email/body/order.php on line 6
+[09-Apr-2017 05:58:51 UTC] PHP Warning:  Illegal string offset 'order_session' in /home/tickettech/public_html/ticketchaiorg/email/body/order.php on line 6
+[09-Apr-2017 06:00:15 UTC] PHP Warning:  Illegal string offset 'order_session' in /home/tickettech/public_html/ticketchaiorg/email/body/order.php on line 6
+[09-Apr-2017 06:01:09 UTC] PHP Warning:  Illegal string offset 'order_session' in /home/tickettech/public_html/ticketchaiorg/email/body/order.php on line 6
+[09-Apr-2017 06:02:10 UTC] PHP Warning:  Illegal string offset 'order_session' in /home/tickettech/public_html/ticketchaiorg/email/body/order.php on line 6
+[09-Apr-2017 06:05:08 UTC] PHP Warning:  Illegal string offset 'order_session' in /home/tickettech/public_html/ticketchaiorg/email/body/order.php on line 6
+[09-Apr-2017 06:05:39 UTC] PHP Warning:  Illegal string offset 'order_session' in /home/tickettech/public_html/ticketchaiorg/email/body/order.php on line 6
+[09-Apr-2017 06:06:22 UTC] PHP Warning:  Illegal string offset 'order_session' in /home/tickettech/public_html/ticketchaiorg/email/body/order.php on line 6
+[09-Apr-2017 06:06:54 UTC] PHP Warning:  Illegal string offset 'order_session' in /home/tickettech/public_html/ticketchaiorg/email/body/order.php on line 6
+[09-Apr-2017 06:06:56 UTC] PHP Warning:  Illegal string offset 'order_session' in /home/tickettech/public_html/ticketchaiorg/email/body/order.php on line 6
+[09-Apr-2017 06:07:01 UTC] PHP Warning:  Illegal string offset 'order_session' in /home/tickettech/public_html/ticketchaiorg/email/body/order.php on line 6

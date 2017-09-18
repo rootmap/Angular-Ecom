@@ -1,0 +1,728 @@
+@charset "utf-8";
+/* CSS Document */
+
+.btn:focus{
+	outline:none;
+	}
+/*Btn DarkKhaki*/
+.btn-darkkhaki {
+  color: #fff;
+  background-color: #bdb76b;
+  border-color: #b7af48;
+}
+.btn-darkkhaki:hover,
+.btn-darkkhaki:focus,
+.btn-darkkhaki:active,
+.btn-darkkhaki.active {
+  color: #fff;
+  background-color: #A7A051;
+  border-color: #A7A051;
+}
+.btn-darkkhaki:active,
+.btn-darkkhaki.active {
+  background-image: none;
+}
+.btn-darkkhaki.disabled,
+.btn-darkkhaki[disabled],
+fieldset[disabled] .btn-darkkhaki,
+.btn-darkkhaki.disabled:hover,
+.btn-darkkhaki[disabled]:hover,
+fieldset[disabled] .btn-darkkhaki:hover,
+.btn-darkkhaki.disabled:focus,
+.btn-darkkhaki[disabled]:focus,
+fieldset[disabled] .btn-darkkhaki:focus,
+.btn-darkkhaki.disabled:active,
+.btn-darkkhaki[disabled]:active,
+fieldset[disabled] .btn-darkkhaki:active,
+.btn-darkkhaki.disabled.active,
+.btn-darkkhaki[disabled].active,
+fieldset[disabled] .btn-darkkhaki.active {
+  background-color: #bdb76b;
+  border-color: #b7af48;
+}
+.btn-darkkhaki .badge {
+  color: #bdb76b;
+  background-color: #fff;
+}
+/*Btn DarkKhaki*/
+
+/*Btn magenta*/
+.btn-magenta {
+  color: #fff;
+  background-color: #EE82EE;
+  border-color: #D685D6;
+}
+.btn-magenta:hover,
+.btn-magenta:focus,
+.btn-magenta:active,
+.btn-magenta.active {
+  color: #fff;
+  background-color: #E94AE9;
+  border-color: #D685D6;
+}
+.btn-magenta:active,
+.btn-magenta.active {
+  background-image: none;
+}
+.btn-magenta.disabled,
+.btn-magenta[disabled],
+fieldset[disabled] .btn-magenta,
+.btn-magenta.disabled:hover,
+.btn-magenta[disabled]:hover,
+fieldset[disabled] .btn-magenta:hover,
+.btn-magenta.disabled:focus,
+.btn-magenta[disabled]:focus,
+fieldset[disabled] .btn-magenta:focus,
+.btn-magenta.disabled:active,
+.btn-magenta[disabled]:active,
+fieldset[disabled] .btn-magenta:active,
+.btn-magenta.disabled.active,
+.btn-magenta[disabled].active,
+fieldset[disabled] .btn-magenta.active {
+  background-color: #EE82EE;
+  border-color: #EE82EE;
+}
+.btn-magenta .badge {
+  color: #EE82EE;
+  background-color: #fff;
+}
+/*Btn magenta*/
+
+/*Btn purple*/
+.btn-purple {
+  color: #fff;
+  background-color: #9370db;
+  border-color: #734FBD;
+}
+.btn-purple:hover,
+.btn-purple:focus,
+.btn-purple:active,
+.btn-purple.active {
+  color: #fff;
+  background-color: #764DC9;
+  border-color: #734FBD;
+}
+.btn-purple:active,
+.btn-purple.active {
+  background-image: none;
+}
+.btn-purple.disabled,
+.btn-purple[disabled],
+fieldset[disabled] .btn-purple,
+.btn-purple.disabled:hover,
+.btn-purple[disabled]:hover,
+fieldset[disabled] .btn-purple:hover,
+.btn-purple.disabled:focus,
+.btn-purple[disabled]:focus,
+fieldset[disabled] .btn-purple:focus,
+.btn-purple.disabled:active,
+.btn-purple[disabled]:active,
+fieldset[disabled] .btn-purple:active,
+.btn-purple.disabled.active,
+.btn-purple[disabled].active,
+fieldset[disabled] .btn-purple.active {
+  background-color: #9370db;
+  border-color: #734FBD;
+}
+.btn-purple .badge {
+  color: #9370db;
+  background-color: #fff;
+}
+/*Btn purple*/
+
+/*Btn atlantis*/
+.btn-atlantis {
+  color: #fff;
+  background-color: #9acd32;
+  border-color: #97CA2E;
+}
+.btn-atlantis:hover,
+.btn-atlantis:focus,
+.btn-atlantis:active,
+.btn-atlantis.active {
+  color: #fff;
+  background-color: #83B323;
+  border-color: #97CA2E;
+}
+.btn-atlantis:active,
+.btn-atlantis.active {
+  background-image: none;
+}
+.btn-atlantis.disabled,
+.btn-atlantis[disabled],
+fieldset[disabled] .btn-atlantis,
+.btn-atlantis.disabled:hover,
+.btn-atlantis[disabled]:hover,
+fieldset[disabled] .btn-atlantis:hover,
+.btn-atlantis.disabled:focus,
+.btn-atlantis[disabled]:focus,
+fieldset[disabled] .btn-atlantis:focus,
+.btn-atlantis.disabled:active,
+.btn-atlantis[disabled]:active,
+fieldset[disabled] .btn-atlantis:active,
+.btn-atlantis.disabled.active,
+.btn-atlantis[disabled].active,
+fieldset[disabled] .btn-atlantis.active {
+  background-color: #9acd32;
+  border-color: #97CA2E;
+}
+.btn-atlantis .badge {
+  color: #9acd32;
+  background-color: #fff;
+}
+/*Btn atlantis*/
+
+/*Btn persimmon*/
+.btn-persimmon {
+  color: #fff;
+  background-color: #FF6347;
+  border-color: #FF6347;
+}
+.btn-persimmon:hover,
+.btn-persimmon:focus,
+.btn-persimmon:active,
+.btn-persimmon.active {
+  color: #fff;
+  background-color: #F34323;
+  border-color: #F34323;
+}
+.btn-persimmon:active,
+.btn-persimmon.active {
+  background-image: none;
+}
+.btn-persimmon.disabled,
+.btn-persimmon[disabled],
+fieldset[disabled] .btn-persimmon,
+.btn-persimmon.disabled:hover,
+.btn-persimmon[disabled]:hover,
+fieldset[disabled] .btn-persimmon:hover,
+.btn-persimmon.disabled:focus,
+.btn-persimmon[disabled]:focus,
+fieldset[disabled] .btn-persimmon:focus,
+.btn-persimmon.disabled:active,
+.btn-persimmon[disabled]:active,
+fieldset[disabled] .btn-persimmon:active,
+.btn-persimmon.disabled.active,
+.btn-persimmon[disabled].active,
+fieldset[disabled] .btn-persimmon.active {
+  background-color: #FF6347;
+  border-color: #FF6347;
+}
+.btn-persimmon .badge {
+  color: #FF6347;
+  background-color: #fff;
+}
+/*Btn persimmon*/
+
+/*Btn meadow*/
+.btn-meadow {
+  color: #fff;
+  background-color: #1ABC9C;
+  border-color: #1ABC9C;
+}
+.btn-meadow:hover,
+.btn-meadow:focus,
+.btn-meadow:active,
+.btn-meadow.active {
+  color: #fff;
+  background-color: #16A085;
+  border-color: #16A085;
+}
+.btn-meadow:active,
+.btn-meadow.active {
+  background-image: none;
+}
+.btn-meadow.disabled,
+.btn-meadow[disabled],
+fieldset[disabled] .btn-meadow,
+.btn-meadow.disabled:hover,
+.btn-meadow[disabled]:hover,
+fieldset[disabled] .btn-meadow:hover,
+.btn-meadow.disabled:focus,
+.btn-meadow[disabled]:focus,
+fieldset[disabled] .btn-meadow:focus,
+.btn-meadow.disabled:active,
+.btn-meadow[disabled]:active,
+fieldset[disabled] .btn-meadow:active,
+.btn-meadow.disabled.active,
+.btn-meadow[disabled].active,
+fieldset[disabled] .btn-meadow.active {
+  background-color: #1ABC9C;
+  border-color: #1ABC9C;
+}
+.btn-meadow .badge {
+  color: #1ABC9C;
+  background-color: #fff;
+}
+/*Btn meadow*/
+
+/*Btn wisteria*/
+.btn-wisteria {
+  color: #fff;
+  background-color: #9B59B6;
+  border-color: #9B59B6;
+}
+.btn-wisteria:hover,
+.btn-wisteria:focus,
+.btn-wisteria:active,
+.btn-wisteria.active {
+  color: #fff;
+  background-color: #8E44AD;
+  border-color: #8E44AD;
+}
+.btn-wisteria:active,
+.btn-wisteria.active {
+  background-image: none;
+}
+.btn-wisteria.disabled,
+.btn-wisteria[disabled],
+fieldset[disabled] .btn-wisteria,
+.btn-wisteria.disabled:hover,
+.btn-wisteria[disabled]:hover,
+fieldset[disabled] .btn-wisteria:hover,
+.btn-wisteria.disabled:focus,
+.btn-wisteria[disabled]:focus,
+fieldset[disabled] .btn-wisteria:focus,
+.btn-wisteria.disabled:active,
+.btn-wisteria[disabled]:active,
+fieldset[disabled] .btn-wisteria:active,
+.btn-wisteria.disabled.active,
+.btn-wisteria[disabled].active,
+fieldset[disabled] .btn-wisteria.active {
+  background-color: #9B59B6;
+  border-color: #9B59B6;
+}
+.btn-wisteria .badge {
+  color: #9B59B6;
+  background-color: #fff;
+}
+/*Btn wisteria*/
+
+/*Btn kashmirblue*/
+.btn-kashmirblue {
+  color: #fff;
+  background-color: #466B91;
+  border-color: #466B91;
+}
+.btn-kashmirblue:hover,
+.btn-kashmirblue:focus,
+.btn-kashmirblue:active,
+.btn-kashmirblue.active {
+  color: #fff;
+  background-color: #355D85;
+  border-color: #355D85;
+}
+.btn-kashmirblue:active,
+.btn-kashmirblue.active {
+  background-image: none;
+}
+.btn-kashmirblue.disabled,
+.btn-kashmirblue[disabled],
+fieldset[disabled] .btn-kashmirblue,
+.btn-kashmirblue.disabled:hover,
+.btn-kashmirblue[disabled]:hover,
+fieldset[disabled] .btn-kashmirblue:hover,
+.btn-kashmirblue.disabled:focus,
+.btn-kashmirblue[disabled]:focus,
+fieldset[disabled] .btn-kashmirblue:focus,
+.btn-kashmirblue.disabled:active,
+.btn-kashmirblue[disabled]:active,
+fieldset[disabled] .btn-kashmirblue:active,
+.btn-kashmirblue.disabled.active,
+.btn-kashmirblue[disabled].active,
+fieldset[disabled] .btn-kashmirblue.active {
+  background-color: #466B91;
+  border-color: #466B91;
+}
+.btn-kashmirblue .badge {
+  color: #466B91;
+  background-color: #fff;
+}
+/*Btn kashmirblue*/
+
+/*Btn buttercup*/
+.btn-buttercup {
+  color: #fff;
+  background-color: #F1C40F;
+  border-color: #F1C40F;
+}
+.btn-buttercup:hover,
+.btn-buttercup:focus,
+.btn-buttercup:active,
+.btn-buttercup.active {
+  color: #fff;
+  background-color: #DFB404;
+  border-color: #DFB404;
+}
+.btn-buttercup:active,
+.btn-buttercup.active {
+  background-image: none;
+}
+.btn-buttercup.disabled,
+.btn-buttercup[disabled],
+fieldset[disabled] .btn-buttercup,
+.btn-buttercup.disabled:hover,
+.btn-buttercup[disabled]:hover,
+fieldset[disabled] .btn-buttercup:hover,
+.btn-buttercup.disabled:focus,
+.btn-buttercup[disabled]:focus,
+fieldset[disabled] .btn-buttercup:focus,
+.btn-buttercup.disabled:active,
+.btn-buttercup[disabled]:active,
+fieldset[disabled] .btn-buttercup:active,
+.btn-buttercup.disabled.active,
+.btn-buttercup[disabled].active,
+fieldset[disabled] .btn-buttercup.active {
+  background-color: #F1C40F;
+  border-color: #F1C40F;
+}
+.btn-buttercup .badge {
+  color: #F1C40F;
+  background-color: #fff;
+}
+/*Btn buttercup*/
+
+/*Btn stormdust*/
+.btn-stormdust {
+  color: #fff;
+  background-color: #666665;
+  border-color: #666665;
+}
+.btn-stormdust:hover,
+.btn-stormdust:focus,
+.btn-stormdust:active,
+.btn-stormdust.active {
+  color: #fff;
+  background-color: #393838;
+  border-color: #393838;
+}
+.btn-stormdust:active,
+.btn-stormdust.active {
+  background-image: none;
+}
+.btn-stormdust.disabled,
+.btn-stormdust[disabled],
+fieldset[disabled] .btn-stormdust,
+.btn-stormdust.disabled:hover,
+.btn-stormdust[disabled]:hover,
+fieldset[disabled] .btn-stormdust:hover,
+.btn-stormdust.disabled:focus,
+.btn-stormdust[disabled]:focus,
+fieldset[disabled] .btn-stormdust:focus,
+.btn-stormdust.disabled:active,
+.btn-stormdust[disabled]:active,
+fieldset[disabled] .btn-stormdust:active,
+.btn-stormdust.disabled.active,
+.btn-stormdust[disabled].active,
+fieldset[disabled] .btn-stormdust.active {
+  background-color: #666665;
+  border-color: #666665;
+}
+.btn-stormdust .badge {
+  color: #666665;
+  background-color: #fff;
+}
+/*Btn stormdust*/
+
+/*Btn millbrook*/
+.btn-millbrook {
+  color: #fff;
+  background-color: #635136;
+  border-color: #635136;
+}
+.btn-millbrook:hover,
+.btn-millbrook:focus,
+.btn-millbrook:active,
+.btn-millbrook.active {
+  color: #fff;
+  background-color: #4D3C22;
+  border-color: #4D3C22;
+}
+.btn-millbrook:active,
+.btn-millbrook.active {
+  background-image: none;
+}
+.btn-millbrook.disabled,
+.btn-millbrook[disabled],
+fieldset[disabled] .btn-millbrook,
+.btn-millbrook.disabled:hover,
+.btn-millbrook[disabled]:hover,
+fieldset[disabled] .btn-millbrook:hover,
+.btn-millbrook.disabled:focus,
+.btn-millbrook[disabled]:focus,
+fieldset[disabled] .btn-millbrook:focus,
+.btn-millbrook.disabled:active,
+.btn-millbrook[disabled]:active,
+fieldset[disabled] .btn-millbrook:active,
+.btn-millbrook.disabled.active,
+.btn-millbrook[disabled].active,
+fieldset[disabled] .btn-millbrook.active {
+  background-color: #635136;
+  border-color: #635136;
+}
+.btn-millbrook .badge {
+  color: #635136;
+  background-color: #fff;
+}
+/*Btn millbrook*/
+
+/*Btn orange*/
+.btn-orange {
+  color: #fff;
+  background-color: #FF812A;
+  border-color: #FF812A;
+}
+.btn-orange:hover,
+.btn-orange:focus,
+.btn-orange:active,
+.btn-orange.active {
+  color: #fff;
+  background-color: #FD6903;
+  border-color: #FD6903;
+}
+.btn-orange:active,
+.btn-orange.active {
+  background-image: none;
+}
+.btn-orange.disabled,
+.btn-orange[disabled],
+fieldset[disabled] .btn-orange,
+.btn-orange.disabled:hover,
+.btn-orange[disabled]:hover,
+fieldset[disabled] .btn-orange:hover,
+.btn-orange.disabled:focus,
+.btn-orange[disabled]:focus,
+fieldset[disabled] .btn-orange:focus,
+.btn-orange.disabled:active,
+.btn-orange[disabled]:active,
+fieldset[disabled] .btn-orange:active,
+.btn-orange.disabled.active,
+.btn-orange[disabled].active,
+fieldset[disabled] .btn-orange.active {
+  background-color: #FF812A;
+  border-color: #FF812A;
+}
+.btn-orange .badge {
+  color: #FF812A;
+  background-color: #fff;
+}
+/*Btn orange*/
+
+/*Btn vividtangerine*/
+.btn-vividtangerine {
+  color: #fff;
+  background-color: #FFA07A;
+  border-color: #FFA07A;
+}
+.btn-vividtangerine:hover,
+.btn-vividtangerine:focus,
+.btn-vividtangerine:active,
+.btn-vividtangerine.active {
+  color: #fff;
+  background-color: #F38B61;
+  border-color: #F38B61;
+}
+.btn-vividtangerine:active,
+.btn-vividtangerine.active {
+  background-image: none;
+}
+.btn-vividtangerine.disabled,
+.btn-vividtangerine[disabled],
+fieldset[disabled] .btn-vividtangerine,
+.btn-vividtangerine.disabled:hover,
+.btn-vividtangerine[disabled]:hover,
+fieldset[disabled] .btn-vividtangerine:hover,
+.btn-vividtangerine.disabled:focus,
+.btn-vividtangerine[disabled]:focus,
+fieldset[disabled] .btn-vividtangerine:focus,
+.btn-vividtangerine.disabled:active,
+.btn-vividtangerine[disabled]:active,
+fieldset[disabled] .btn-vividtangerine:active,
+.btn-vividtangerine.disabled.active,
+.btn-vividtangerine[disabled].active,
+fieldset[disabled] .btn-vividtangerine.active {
+  background-color: #FFA07A;
+  border-color: #FFA07A;
+}
+.btn-vividtangerine .badge {
+  color: #FFA07A;
+  background-color: #fff;
+}
+/*Btn vividtangerine*/
+
+/*Btn olivedrab*/
+.btn-olivedrab {
+  color: #fff;
+  background-color: #6B8E23;
+  border-color: #6B8E23;
+}
+.btn-olivedrab:hover,
+.btn-olivedrab:focus,
+.btn-olivedrab:active,
+.btn-olivedrab.active {
+  color: #fff;
+  background-color: #5B8011;
+  border-color: #5B8011;
+}
+.btn-olivedrab:active,
+.btn-olivedrab.active {
+  background-image: none;
+}
+.btn-olivedrab.disabled,
+.btn-olivedrab[disabled],
+fieldset[disabled] .btn-olivedrab,
+.btn-olivedrab.disabled:hover,
+.btn-olivedrab[disabled]:hover,
+fieldset[disabled] .btn-olivedrab:hover,
+.btn-olivedrab.disabled:focus,
+.btn-olivedrab[disabled]:focus,
+fieldset[disabled] .btn-olivedrab:focus,
+.btn-olivedrab.disabled:active,
+.btn-olivedrab[disabled]:active,
+fieldset[disabled] .btn-olivedrab:active,
+.btn-olivedrab.disabled.active,
+.btn-olivedrab[disabled].active,
+fieldset[disabled] .btn-olivedrab.active {
+  background-color: #6B8E23;
+  border-color: #6B8E23;
+}
+.btn-olivedrab .badge {
+  color: #6B8E23;
+  background-color: #fff;
+}
+/*Btn olivedrab*/
+
+/*Button Border Style*/
+.btn-rounded{
+	border-radius:20px;
+	-webkit-border-radius:20px;
+	-moz-border-radius:20px;
+	}
+.btn-leaf{
+	border-radius:20px 0px 20px 0px;
+	-webkit-border-radius:20px 0px 20px 0px;
+	-moz-border-radius:20px 0px 20px 0px;
+	}
+.btn-tabulate{
+	border-radius:15px 15px 0px 0px;
+	-webkit-border-radius:15px 15px 0px 0px;
+	-moz-border-radius:15px 15px 0px 0px;
+	}
+.btn-circle{
+	border-radius:50%;
+	-webkit-border-radius:50%;
+	-moz-border-radius:50%;
+	}
+/*Button Border Style*/
+
+/*Creative Button*/
+.button_inset {
+	padding: 5px;
+	background: #E0E0E0;
+	background: -webkit-gradient(linear, left top, left bottom, from(#E9E9E9), to(#D7D7D7)); 
+	background: -moz-linear-gradient(top,  #E9E9E9,  #D7D7D7); 
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#E9E9E9', endColorstr='#D7D7D7');
+	box-shadow: inset 0px 2px 2px #B2B3B5, 0px 1px 0 #fff;
+	-webkit-box-shadow: inset 0px 2px 2px #B2B3B5, 0px 1px 0 #fff;
+	-moz-box-shadow: inset 0px 2px 2px #B2B3B5, 0px 1px 0 #fff;
+	-o-box-shadow: inset 0px 2px 2px #B2B3B5, 0px 1px 0 #fff;
+	border-radius: 4px;
+	-webkit-border-radius: 4px; 
+	-moz-border-radius: 4px; 
+	-o-border-radius: 4px;
+}
+.icon_button_inset {
+	display: inline-block;
+	padding: 5px;
+	background: #E0E0E0;
+	background: -webkit-gradient(linear, left top, left bottom, from(#E9E9E9), to(#D7D7D7)); 
+	background: -moz-linear-gradient(top,  #E9E9E9,  #D7D7D7); 
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#E9E9E9', endColorstr='#D7D7D7');
+	box-shadow: inset 0px 2px 2px #B2B3B5, 0px 1px 0 #fff;
+	-webkit-box-shadow: inset 0px 2px 2px #B2B3B5, 0px 1px 0 #fff;
+	-moz-box-shadow: inset 0px 2px 2px #B2B3B5, 0px 1px 0 #fff;
+	-o-box-shadow: inset 0px 2px 2px #B2B3B5, 0px 1px 0 #fff;
+	border-radius: 50%;
+	-webkit-border-radius: 50%; 
+	-moz-border-radius: 50%; 
+	-o-border-radius: 50%;
+}
+.btn-crative-1{
+	position:relative;
+    -webkit-box-shadow: 0px 6px 0px rgba(201, 195, 194, 1), 0px 9px 10px rgba(109, 102, 102, 0.7);
+    -moz-box-shadow: 0px 6px 0px rgba(201, 195, 194, 1), 0px 9px 10px rgba(109, 102, 102, 0.7);
+    box-shadow: 0px 6px 0px rgba(201, 195, 194, 1), 0px 9px 10px rgba(109, 102, 102, 0.7);	
+	-webkit-transition: all .1s ease;
+	-moz-transition: all .1s ease;
+	-ms-transition: all .1s ease;
+	-o-transition: all .1s ease;
+	transition: all .1s ease;
+	}
+.btn-crative-1:active{
+    -webkit-box-shadow: 0px 3px 0px rgba(201, 195, 194, 1), 0px 3px 6px rgba(109, 102, 102, 0.7);
+    -moz-box-shadow: 0px 3px 0px rgba(201, 195, 194, 1), 0px 3px 6px rgba(109, 102, 102, 0.7);
+    box-shadow: 0px 3px 0px rgba(201, 195, 194, 1), 0px 3px 6px rgba(109, 102, 102, 0.7);
+    position: relative;
+    top: 6px;
+	}
+.btn-crative-2:active {
+	-webkit-animation: shake 0.4s;
+	-moz-animation: shake 0.4s;
+	animation: shake 0.4s;
+}
+@-webkit-keyframes shake {
+	0%, 100% {-webkit-transform: translateX(0);}
+	10%, 30%, 50%, 70%, 90% {-webkit-transform: translateX(-10px);}
+	20%, 40%, 60%, 80% {-webkit-transform: translateX(10px);}
+}
+
+@-moz-keyframes shake {
+	0%, 100% {-moz-transform: translateX(0);}
+	10%, 30%, 50%, 70%, 90% {-moz-transform: translateX(-10px);}
+	20%, 40%, 60%, 80% {-moz-transform: translateX(10px);}
+}
+
+@keyframes shake {
+	0%, 100% {transform: translateX(0);}
+	10%, 30%, 50%, 70%, 90% {transform: translateX(-10px);}
+	20%, 40%, 60%, 80% {transform: translateX(10px);}
+}
+.btn-crative-3:active i {
+	-webkit-animation: scaleUp 0.4s;
+	-moz-animation: scaleUp 0.4s;
+	animation: scaleUp 0.4s;
+}
+
+@-webkit-keyframes scaleUp {
+	80% {
+		opacity: 0;
+		-webkit-transform: scale(5);
+	}
+	100% {
+		opacity: 0;
+		-webkit-transform: scale(5);
+	}
+}
+
+@-moz-keyframes scaleUp {
+	80% {
+		opacity: 0;
+		-moz-transform: scale(2);
+	}
+	100% {
+		opacity: 0;
+		-moz-transform: scale(2);
+	}
+}
+
+@keyframes scaleUp {
+	80% {
+		opacity: 0;
+		transform: scale(2);
+	}
+	100% {
+		opacity: 0;
+		transform: scale(2);
+	}
+}
+/*Creative Button*/

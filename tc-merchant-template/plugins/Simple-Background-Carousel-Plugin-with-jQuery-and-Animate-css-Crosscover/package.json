@@ -1,0 +1,40 @@
+{
+  "name": "crosscover",
+  "version": "1.0.2",
+  "description": "Carousel of a simple background image using jquery and animate.css.",
+  "keywords": [
+    "Carousel",
+    "Animation",
+    "jQuery",
+    "css"
+  ],
+  "homepage": "http://git.blivesta.com/crosscover",
+  "bugs": {
+    "url": "https://github.com/blivesta/crosscover/issues"
+  },
+  "license": "MIT",
+  "main": "dist/js/crosscover.js",
+  "repository": {
+    "url": "https://github.com/blivesta/crosscover.git",
+    "type": "git"
+  },
+  "author": "blivesta <enmt@blivesta.com> (http://blivesta.com/)",
+  "scripts":{
+    "setup": "npm i && gulp build"
+  },
+  "dependencies": {
+    "jquery": ">= 1.7.0"
+  },
+  "devDependencies": {
+    "del":"^1.2.0",
+    "gulp":"^3.9.0",
+    "gulp-cssnext":"^1.0.1",
+    "gulp-header":"^1.2.2",
+    "gulp-jshint":"^1.11.2",
+    "gulp-plumber":"^1.0.1",
+    "gulp-rename":"^1.2.2",
+    "gulp-uglify":"^1.2.0",
+    "jshint-stylish":"^2.0.1",
+    "run-sequence":"^1.1.1"
+  }
+}

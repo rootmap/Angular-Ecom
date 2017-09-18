@@ -1,0 +1,60 @@
+html,
+body {
+  height: 100%;
+  margin: 0;
+}
+
+/*------------------------------------*\
+    #crosscover
+\*------------------------------------*/
+
+/**
+ * .crosscover
+ */
+.crosscover {
+  position: relative;
+  height: var(--crosscover-height);
+  overflow: hidden;
+  background-color: var(--crosscover-bgColor);
+}
+
+/**
+ * .crosscover > .crosscover-list
+ */
+.crosscover-list {
+  position: relative;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.crosscover-item {
+  position: absolute;
+  display: block;
+  top: 0;
+  left: 0;
+  float: left;
+  width: 100%;
+  height: 100%;
+  opacity: 0;
+  background-position: center center;
+  background-size: var(--crosscover-bgSize);
+  animation-duration: var(--crosscover-animationDuration);
+  animation-fill-mode: both;
+}
+
+.crosscover-item > img {
+  display: none;
+}
+.crosscover-item.is-wait {
+  opacity: 0;
+  z-index: var(--crosscover-item-wait-zIndex);
+}
+.crosscover-item.is-active {
+  opacity: 1;
+  z-index: var(--crosscover-item-active-zIndex);
+}

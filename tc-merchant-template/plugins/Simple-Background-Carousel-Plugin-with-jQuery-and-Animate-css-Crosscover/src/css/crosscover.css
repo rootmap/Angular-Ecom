@@ -1,0 +1,38 @@
+@import "./base";
+@import "./controller";
+@import "./controller-icons";
+@import "./overlay";
+@import "./dots-nav";
+@import "./fade";
+
+:root {
+  --crosscover-height: 100%;
+  --crosscover-bgColor: rgba(0,0,0,1);
+
+  --crosscover-bgSize: cover;
+  --crosscover-animationDuration: 1s;
+
+  --crosscover-icon-color: rgba(255,255,255,1);
+  --crosscover-icon-hoverColor: rgba(255,255,255,.4);
+
+  --crosscover-dotsNav-size: 14px;
+  --crosscover-dotsNav-bgColor: rgba(255,255,255,.4);
+  --crosscover-dotsNav-bgColor-hover: rgba(255,255,255,.6);
+  --crosscover-dotsNav-bgColor-active: rgba(255,255,255,1);
+
+  --crosscover-overlay-bgColor: rgba(0,0,0,.6);
+
+  --crosscover-island-verticalAlign: middle;
+  --crosscover-island-textAlign: center;
+  --crosscover-island-color: rgba(255,255,255,1);
+
+  --crosscover-island-title-color: rgba(255,255,255,1);
+  --crosscover-island-description-color: rgba(255,255,255,1);
+
+  --crosscover-controller-zIndex: 3;
+  --crosscover-dotsNav-zIndex: 3;
+  --crosscover-overlay-zIndex: 2;
+  --crosscover-item-active-zIndex: 1;
+  --crosscover-item-wait-zIndex: 0;
+
+}

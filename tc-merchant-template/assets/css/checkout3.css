@@ -1,0 +1,143 @@
+/* .panel-default{
+    background-color: #DCEDC8!important;
+}*/
+.active-panel{
+    background-color:#77C048 !important;
+    color:#fff!important;
+    margin-bottom: 3%;
+}
+#headingOne,#headingThree,#headingTwo {
+    border-top-left-radius: 0px;
+    border-top-right-radius: 0px;
+    color: #333;
+    padding: 15px;
+    text-transform: uppercase;
+    background-color: #F5F5F5;
+    border-color: #DDD;
+    transition: all 700ms ease-in-out 0s;
+}
+.h_lebel{
+    height: 32px;
+    width: 32px;
+    line-height: 32px;
+    display: inline-block;
+    background-color: #88C659;
+    color: #FFF;
+    font-weight: bold;
+    border-radius: 32px;
+    margin-right: 8px;
+    text-align: center;
+}
+.h_icon{
+    height: 32px;
+    width: 32px;
+    line-height: 32px;
+    display: inline-block;
+    background-color: #88C659;
+    color: #FFF;
+    font-weight: bold;
+    border-radius: 6px;
+    text-align: center;
+}
+.active-panel a span {
+    background-color: #FFF !important;
+    color: #000;
+    font-weight: bold;
+}
+#according_start{
+    background: #FFFFFF;
+	box-shadow: 0px 2px 5px 0px rgba(0, 0, 0, 0.16), 0px 2px 10px 0px rgba(0, 0, 0, 0.12);
+    margin-bottom: 2%;
+   
+}
+#accordion{
+    padding: 20px !important;
+}
+.cart_summary{
+    background: #FFFFFF;
+	box-shadow: 0px 2px 5px 0px rgba(0, 0, 0, 0.16), 0px 2px 10px 0px rgba(0, 0, 0, 0.12);
+}
+.sidebar-title-cart{
+    padding-top: 2%;
+}
+#panelOne_body{
+    margin-top: -4% !important;
+}
+.sign-form .btn {
+    border-radius: 2px;
+    padding: 10px 16px;
+    text-transform: uppercase;
+    background: #88C659;
+    color: #ffffff;
+    font-weight: bold;
+}
+
+#clickSignUp, #clickSignIn{
+    color:#fff;
+    font-weight: bold;
+}
+#clickSignUp:hover, #clickSignIn:hover{
+    color:#fff;
+     background: #88C659;
+}
+.input-group{
+    border:1px solid #88C659;
+    border-radius: 6px;
+
+}
+.p1>.input-group-addon{
+    border-radius: 0;
+}
+.input-group .input-group-addon {
+    border: 0px none;
+    padding: 0px 15px 0px;
+    background-color: rgb(119, 192, 72);
+    color: rgb(255, 255, 255);
+   
+}
+.col-title-h3 {
+    margin-bottom: 20px;
+    padding-top: 6% !important;
+}
+
+#ph_one{margin-right: 97%}
+
+.text_area {
+    padding-bottom: 0px !important;
+    margin: 2% !important;
+    width: 98% !impotant;
+}
+
+
+.text_area textarea,.text_area input,.text_area select{
+    border: 1px solid#DFE2E5 !important;
+}
+.text_area label{
+    color: #000 !important;
+    
+}
+.form-control {
+    padding: 6px 12px;
+   
+}
+
+.pull_left_title{
+    float: left !important;
+    margin-left: 2%;
+}
+
+.radio{
+    margin-left: -2%;
+    margin-top: -1% !important;
+}
+.radio-lebel{
+    font-size: 12px;
+    color: red;
+}
+#sbtopm1{
+    margin: 0px auto;
+    background: #76C046;
+    color: #fff;
+    margin-left: 0% !important;
+  
+}

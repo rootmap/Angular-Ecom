@@ -1,0 +1,40 @@
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+
+/* Zebra striping */
+
+tr:nth-of-type(odd) {
+    background: #eee;
+}
+
+th {
+    background: #333;
+    color: white;
+    font-weight: bold;
+}
+
+td,
+th {
+    padding: 6px;
+    border: 1px solid #ccc;
+    text-align: center;
+}
+
+.custom_table2 {
+    background: #fff;
+}
+
+.cart_tbl {
+    background: none !important;
+    border: none !important;
+}
+
+.cart_tbl td,
+th {
+    text-align: center;
+    border: none !important;
+    padding: 0px;
+}
